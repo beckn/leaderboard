@@ -43,3 +43,6 @@ data-repo
 # Package Lock
 package-lock.json
 yarn.lock
+
+#env files
+.env

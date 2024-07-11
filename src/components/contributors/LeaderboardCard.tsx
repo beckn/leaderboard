@@ -30,7 +30,6 @@ export default function LeaderboardCard({
     default:
       break;
   }
-console.log(contributor)
   return (
     <Link
       href={"/contributors/" + contributor.user.social.github}

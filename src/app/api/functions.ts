@@ -11,6 +11,7 @@ export const getLeaderboardData = async (
   // roles: ("core" | "intern" | "operations" | "contributor")[] = [],
 ) => {
   const contributors = await getContributors();
+  console.log("Dank date",dateRange)
 
   const data = contributors
     .filter((a) => a.highlights.points)

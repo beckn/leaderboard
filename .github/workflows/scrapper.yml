@@ -6,31 +6,55 @@ name: Scrap GITHUB Data
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
-    branches: [ "main", "develop" ]
-  pull_request:
-    branches: [ "main", "develop" ]
-
+    branches:
+      - github-scrapper
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  fetch-data:
+    name: Scrape data from GitHub
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          ref: github-scrapper  # Replace with the branch you want to checkout
 
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '18'
 
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      - name: Install Dependencies
+        run: npm i octokit
+        
+      - name: Debug Token
+        run: echo "GITHUB_TOKEN=${GITHUB_TOKEN:0:12}...${GITHUB_TOKEN:-12}"
+        env:
+          GITHUB_TOKEN: "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"  # Replace with your GitHub token
+      - name: Scrape GitHub data
+        uses: nick-fields/retry@v2
+        with:
+          timeout_minutes: 10
+          max_attempts: 1
+          command: node scripts/pullHistoricalGitHubActivities.js
+          on_retry_command: git checkout .
+        env:
+          GITHUB_TOKEN: "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"
+          GITHUB_ORG: "beckn"
+
+      - name: Generate markdown files for new contributors
+        run: node scripts/generateNewContributors.js
+        env:
+          GITHUB_TOKEN: "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"
+          GITHUB_ORG: "beckn"
+
+      - name: Commit changes
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add data-repo
+          git commit -m "🌍 Update JSON - $(date -d '+5 hours +30 minutes' +'%d %b %Y | %I:%M %p')"
+          git push

@@ -34,8 +34,6 @@ yarn-error.log*
 # vercel
 .vercel
 
-data-repo
-
 #IDE
 .idea
 .vscode

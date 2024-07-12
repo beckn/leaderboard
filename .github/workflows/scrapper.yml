@@ -33,7 +33,7 @@ jobs:
       - name: Debug Token
         run: echo "GITHUB_TOKEN=${GITHUB_TOKEN:0:12}...${GITHUB_TOKEN:-12}"
         env:
-          GITHUB_TOKEN: "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"  # Replace with your GitHub token
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Replace with your GitHub token
       - name: Scrape GitHub data
         uses: nick-fields/retry@v2
         with:
@@ -42,19 +42,19 @@ jobs:
           command: node scripts/pullHistoricalGitHubActivities.js
           on_retry_command: git checkout .
         env:
-          GITHUB_TOKEN: "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"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_ORG: "beckn"
 
       - name: Generate markdown files for new contributors
         run: node scripts/generateNewContributors.js
         env:
-          GITHUB_TOKEN: "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"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_ORG: "beckn"
 
       - name: Commit changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add data-repo
+          git add .
           git commit -m "🌍 Update JSON - $(date -d '+5 hours +30 minutes' +'%d %b %Y | %I:%M %p')"
           git push

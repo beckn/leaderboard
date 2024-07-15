@@ -7,6 +7,363 @@
       "time": "2023-01-24T13:19:44Z",
       "link": "https://github.com/beckn/protocol-server/issues/22",
       "text": "Need architecture diagram for v2 protocol server and detailed installation guide to setup V2."
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/policy-admin-api#1",
+      "time": "2023-02-27T17:02:17Z",
+      "link": "https://github.com/beckn/policy-admin-api/pull/1",
+      "text": "Add policy api specifications"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/policy-admin-api#2",
+      "time": "2023-02-28T16:30:19Z",
+      "link": "https://github.com/beckn/policy-admin-api/pull/2",
+      "text": "api refinement"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/policy-admin-api#3",
+      "time": "2023-03-01T09:11:18Z",
+      "link": "https://github.com/beckn/policy-admin-api/pull/3",
+      "text": "Update get policies to accet query parameters"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/policy-admin-api#4",
+      "time": "2023-03-01T14:29:11Z",
+      "link": "https://github.com/beckn/policy-admin-api/pull/4",
+      "text": "Policy dev"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/policy-admin-api#5",
+      "time": "2023-03-02T11:03:01Z",
+      "link": "https://github.com/beckn/policy-admin-api/pull/5",
+      "text": "Policy dev"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/policy-admin-api#9",
+      "time": "2023-03-02T15:59:45Z",
+      "link": "https://github.com/beckn/policy-admin-api/pull/9",
+      "text": "Policy dev"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/policy-admin-api#12",
+      "time": "2023-03-07T10:45:46Z",
+      "link": "https://github.com/beckn/policy-admin-api/pull/12",
+      "text": "Policy dev"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/policy-admin-api#13",
+      "time": "2023-03-07T13:07:58Z",
+      "link": "https://github.com/beckn/policy-admin-api/pull/13",
+      "text": "Update policy schema for v2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/policy-admin-api#17",
+      "time": "2023-03-09T14:19:16Z",
+      "link": "https://github.com/beckn/policy-admin-api/pull/17",
+      "text": "Update postman collection - Add v2 examples"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/experience-gpt-api#1",
+      "time": "2023-03-02T05:35:27Z",
+      "link": "https://github.com/beckn/experience-gpt-api/pull/1",
+      "text": "Add experience gpt api specifications"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/experience-gpt-api#2",
+      "time": "2023-03-02T06:36:47Z",
+      "link": "https://github.com/beckn/experience-gpt-api/pull/2",
+      "text": "Add experience gpt api examples"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/experience-gpt-api#4",
+      "time": "2023-03-04T15:51:28Z",
+      "link": "https://github.com/beckn/experience-gpt-api/pull/4",
+      "text": "Api specifications"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/experience-gpt-api#6",
+      "time": "2023-03-09T16:18:28Z",
+      "link": "https://github.com/beckn/experience-gpt-api/pull/6",
+      "text": "Update postman collection - Add v2 examples"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#3",
+      "time": "2023-02-07T07:06:07Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/3",
+      "text": "Api specification"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#4",
+      "time": "2023-02-07T10:28:22Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/4",
+      "text": "Update error schema"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#5",
+      "time": "2023-02-07T19:42:06Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/5",
+      "text": "Api specification"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#8",
+      "time": "2023-02-08T10:35:07Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/8",
+      "text": "Api specification"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#9",
+      "time": "2023-02-08T12:04:35Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/9",
+      "text": "Add jobs confirm and on_confirm schema"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#10",
+      "time": "2023-02-08T13:03:22Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/10",
+      "text": "Add jobs status and on_status schema"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#11",
+      "time": "2023-02-09T18:13:41Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/11",
+      "text": "Update apis to send data in synchronous mode"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#12",
+      "time": "2023-02-09T18:36:25Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/12",
+      "text": "Add init response - copy of on_confirm"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#17",
+      "time": "2023-02-10T08:53:47Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/17",
+      "text": "Refine schema as per synchronous mode"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#18",
+      "time": "2023-02-10T10:04:10Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/18",
+      "text": "Api specification"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#19",
+      "time": "2023-02-10T10:37:34Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/19",
+      "text": "Api specification"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#21",
+      "time": "2023-02-10T11:05:45Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/21",
+      "text": "Add jobs status request/response examples"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#24",
+      "time": "2023-02-10T16:45:26Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/24",
+      "text": "Api specification"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#25",
+      "time": "2023-02-10T19:22:44Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/25",
+      "text": "Api specification"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#26",
+      "time": "2023-02-11T16:12:29Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/26",
+      "text": "Api specification"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#31",
+      "time": "2023-02-14T18:53:47Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/31",
+      "text": "Api specification"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#35",
+      "time": "2023-02-16T15:23:34Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/35",
+      "text": "Add xInput form submission id for Jobs init, select, confirm and status"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#36",
+      "time": "2023-02-16T17:42:58Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/36",
+      "text": "Update Training & Courses"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#37",
+      "time": "2023-02-17T08:46:40Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/37",
+      "text": "Update Scholarships & Grants specs as per BPP changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#38",
+      "time": "2023-02-17T11:24:09Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/38",
+      "text": "Update Scholarships & Grants examples as per new schema"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#39",
+      "time": "2023-02-18T07:44:14Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/39",
+      "text": "Update scholarshipRequestor schema for Scholarships and Grants for in…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#46",
+      "time": "2023-02-20T09:27:59Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/46",
+      "text": "Add mentor additional fields for Mentorship category"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#47",
+      "time": "2023-02-20T10:30:40Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/47",
+      "text": "Api specification"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#49",
+      "time": "2023-02-20T14:40:53Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/49",
+      "text": "Add saved/applied item flag examples"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#52",
+      "time": "2023-02-21T18:30:25Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/52",
+      "text": "Mentorship: Move userSavedItem and userAppliedItem under mentorshipSe…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-api#6",
+      "time": "2023-02-20T07:09:00Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-api/pull/6",
+      "text": "Add api specifications"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-api#8",
+      "time": "2023-02-21T18:25:37Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-api/pull/8",
+      "text": "Api specifications"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-event-collector-apis#2",
+      "time": "2022-12-22T15:40:21Z",
+      "link": "https://github.com/beckn/beckn-exp-event-collector-apis/pull/2",
+      "text": "Add files via upload"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-event-collector-apis#10",
+      "time": "2022-12-28T05:02:36Z",
+      "link": "https://github.com/beckn/beckn-exp-event-collector-apis/pull/10",
+      "text": "Add v2 and examples"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-event-collector-apis#13",
+      "time": "2022-12-28T08:09:02Z",
+      "link": "https://github.com/beckn/beckn-exp-event-collector-apis/pull/13",
+      "text": "Rahulchoudhary27 patch 2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/mobility-BAP#29",
+      "time": "2023-02-28T11:18:11Z",
+      "link": "https://github.com/beckn/mobility-BAP/pull/29",
+      "text": "Add mobility policy api specifications"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/mobility-BAP#30",
+      "time": "2023-03-01T06:43:24Z",
+      "link": "https://github.com/beckn/mobility-BAP/pull/30",
+      "text": "api refinement"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/mobility-BAP#34",
+      "time": "2023-03-04T15:34:38Z",
+      "link": "https://github.com/beckn/mobility-BAP/pull/34",
+      "text": "Add postman collection"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/mobility-BAP#37",
+      "time": "2023-03-06T09:43:38Z",
+      "link": "https://github.com/beckn/mobility-BAP/pull/37",
+      "text": "Update broadcast message schema"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/mobility-BAP#39",
+      "time": "2023-03-07T12:56:00Z",
+      "link": "https://github.com/beckn/mobility-BAP/pull/39",
+      "text": "Update mobility_policy_api.yaml"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/mobility-BAP#44",
+      "time": "2023-03-09T16:08:25Z",
+      "link": "https://github.com/beckn/mobility-BAP/pull/44",
+      "text": "Update postman collection - Add v2 examples"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/mobility-BAP#45",
+      "time": "2023-03-09T16:12:14Z",
+      "link": "https://github.com/beckn/mobility-BAP/pull/45",
+      "text": "Update postman collection - Add v2 examples"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/mobility-BAP#46",
+      "time": "2023-03-09T18:10:16Z",
+      "link": "https://github.com/beckn/mobility-BAP/pull/46",
+      "text": "Update postman collection - Add v2 examples"
     }
   ],
   "open_prs": [],

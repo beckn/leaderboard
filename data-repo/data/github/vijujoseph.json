@@ -1,0 +1,21 @@
+{
+  "last_updated": "2021-11-23T17:22:01Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#3",
+      "time": "2021-11-23T17:22:01Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/3",
+      "text": "Vj flyway"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#6",
+      "time": "2021-11-25T05:34:37Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/6",
+      "text": "initial implementation of search functionality"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,63 @@
+{
+  "last_updated": "2022-02-16T11:37:26Z",
+  "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#234",
+      "time": "2022-02-16T11:37:26Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/234",
+      "text": "Item fulfillment instead of Order fulfillment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#222",
+      "time": "2022-02-02T13:13:40Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/222",
+      "text": "Weight could also be a measure of dimensions (Dimensions component) different from ItemQuantity"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#221",
+      "time": "2022-02-02T11:02:36Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/221",
+      "text": "Location should also have state/province"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#214",
+      "time": "2022-01-28T10:15:58Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/214",
+      "text": "Order schema for BAP marketplaces"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#213",
+      "time": "2022-01-26T14:53:04Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/213",
+      "text": "Suggestion to change address schema"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#201",
+      "time": "2022-01-21T08:40:18Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/201",
+      "text": "Person schema"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#194",
+      "time": "2022-01-18T14:21:56Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/194",
+      "text": "Questions on schema."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/reference-sandbox#2",
+      "time": "2022-01-20T13:16:19Z",
+      "link": "https://github.com/beckn/reference-sandbox/issues/2",
+      "text": "sqlite support"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

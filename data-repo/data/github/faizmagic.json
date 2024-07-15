@@ -7,6 +7,160 @@
       "time": "2024-03-17T07:14:00Z",
       "link": "https://github.com/beckn/protocol-server/issues/114",
       "text": "update the docker hub with the new protocol server image (network policy)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#355",
+      "time": "2023-04-20T05:13:41Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/355",
+      "text": "required field 'return_reasons' in 'rating_categories' endpoint in meta.yaml ver 1.0.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#354",
+      "time": "2023-04-13T11:29:53Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/354",
+      "text": "Errors in meta.yaml core ver 1.0.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#107",
+      "time": "2024-03-17T07:14:38Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/107",
+      "text": "Postman collection testing - EV catalog flow"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#957",
+      "time": "2024-05-14T11:09:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/957",
+      "text": "Update Seller information in Vendure BPP dev env"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#217",
+      "time": "2024-03-04T11:36:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/217",
+      "text": "Clean up stale branches from the beckn-ui-workspace repo"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#161",
+      "time": "2024-02-27T06:20:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/161",
+      "text": "UEI card with a mesh diagram"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#160",
+      "time": "2024-02-27T06:19:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/160",
+      "text": "Repo/folder structure for migration of EC codes to Beckn UI workspace GitHub repo"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#155",
+      "time": "2024-02-23T10:21:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/155",
+      "text": "Create a PRD Document for enhancing the Taxi BPP application"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#65",
+      "time": "2024-03-17T07:14:57Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/65",
+      "text": "Setting up a new strapi bpp instance with EV catalogs"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#23",
+      "time": "2024-02-20T08:32:22Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/23",
+      "text": "Explore codium for unit test cases building"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#22",
+      "time": "2024-02-20T07:01:17Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/22",
+      "text": "Convert this repo to a strapi mono repo to accomodate BAP, BPP data model and plugins"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-action-bot#16",
+      "time": "2024-03-25T12:02:13Z",
+      "link": "https://github.com/beckn/beckn-action-bot/issues/16",
+      "text": "setup 1 gateway instance using onix"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-action-bot#15",
+      "time": "2024-03-25T11:57:48Z",
+      "link": "https://github.com/beckn/beckn-action-bot/issues/15",
+      "text": "setup 1 registry instance using onix"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-action-bot#14",
+      "time": "2024-03-25T10:31:31Z",
+      "link": "https://github.com/beckn/beckn-action-bot/issues/14",
+      "text": "Setup 5 BPP protocol server instances"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-action-bot#13",
+      "time": "2024-03-25T09:42:22Z",
+      "link": "https://github.com/beckn/beckn-action-bot/issues/13",
+      "text": "Setup 5 strapi bpp instances using ONIX script"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-action-bot#12",
+      "time": "2024-03-25T09:12:06Z",
+      "link": "https://github.com/beckn/beckn-action-bot/issues/12",
+      "text": "Setup DNS Entries"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-action-bot#11",
+      "time": "2024-03-25T08:24:07Z",
+      "link": "https://github.com/beckn/beckn-action-bot/issues/11",
+      "text": "Requirements / outcome visualisation document for the MIT AI Demo project"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#97",
+      "time": "2024-03-18T09:19:50Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/97",
+      "text": "Add ability to download beckn layer-2 configuration and update in protocol server"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#93",
+      "time": "2024-03-17T07:13:52Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/93",
+      "text": "demo user guide for onix script to be added in confluence"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#92",
+      "time": "2024-03-17T07:13:45Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/92",
+      "text": "Prepare a network policy for UEI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#13",
+      "time": "2024-02-14T08:17:50Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/13",
+      "text": "ONIX user guide"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#12",
+      "time": "2024-02-14T08:08:47Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/12",
+      "text": "Create a issue template and attach it to the issue creation button"
     }
   ],
   "open_prs": [],

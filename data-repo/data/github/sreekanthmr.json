@@ -7,6 +7,216 @@
       "time": "2024-02-14T11:33:25Z",
       "link": "https://github.com/beckn/protocol-server/issues/85",
       "text": "Getting authentication error while connecting to RabbitMQ"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-specifications#410",
+      "time": "2024-01-29T13:57:56Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/410",
+      "text": "Defining specifications for Bidding / Auctioning process"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-specifications#409",
+      "time": "2024-01-29T13:40:08Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/409",
+      "text": "Facilitating Search by more than one category"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#59",
+      "time": "2024-04-18T17:37:08Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/59",
+      "text": "Update the documentation with default credentials to be used to access Registry after installation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#67",
+      "time": "2024-03-22T18:22:35Z",
+      "link": "https://github.com/beckn/vendure/issues/67",
+      "text": "Not getting order status for orders other than digital products"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#66",
+      "time": "2024-03-13T03:52:20Z",
+      "link": "https://github.com/beckn/vendure/issues/66",
+      "text": "Omit sending results from default channel in search, select & init etc"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#64",
+      "time": "2024-03-12T13:50:56Z",
+      "link": "https://github.com/beckn/vendure/issues/64",
+      "text": "Digital product orders with a single media element are failing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#63",
+      "time": "2024-03-12T13:49:04Z",
+      "link": "https://github.com/beckn/vendure/issues/63",
+      "text": "For Digital Products, the order status is getting reset to Arranging Payments from Payment Settled"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#62",
+      "time": "2024-03-12T13:07:53Z",
+      "link": "https://github.com/beckn/vendure/issues/62",
+      "text": "On_init & on_confirm to return only eligible payment methods"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#57",
+      "time": "2024-03-07T14:00:19Z",
+      "link": "https://github.com/beckn/vendure/issues/57",
+      "text": "Expose tags (facets in Vendure) associated with a product in on_search"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#49",
+      "time": "2024-02-22T10:48:15Z",
+      "link": "https://github.com/beckn/vendure/issues/49",
+      "text": "Category search is taking code in the request but the actual search is by name"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#48",
+      "time": "2024-02-21T14:24:00Z",
+      "link": "https://github.com/beckn/vendure/issues/48",
+      "text": "Explore location aware search"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#45",
+      "time": "2024-02-16T14:54:28Z",
+      "link": "https://github.com/beckn/vendure/issues/45",
+      "text": "Looks like Beckn domain is hardcoded"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/vendure#44",
+      "time": "2024-02-16T07:23:41Z",
+      "link": "https://github.com/beckn/vendure/issues/44",
+      "text": "Cancellation should trigger refund"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/vendure#43",
+      "time": "2024-02-16T07:20:17Z",
+      "link": "https://github.com/beckn/vendure/issues/43",
+      "text": "Support for seller specific Cancellation, Return & Refund policy"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#42",
+      "time": "2024-02-15T15:35:57Z",
+      "link": "https://github.com/beckn/vendure/issues/42",
+      "text": "Add an endpoint for support "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#41",
+      "time": "2024-02-15T15:34:11Z",
+      "link": "https://github.com/beckn/vendure/issues/41",
+      "text": "On_track returns empty object for unfulfilled orders"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#40",
+      "time": "2024-02-15T15:31:51Z",
+      "link": "https://github.com/beckn/vendure/issues/40",
+      "text": "Add provider description, address, image & tax id"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#39",
+      "time": "2024-02-15T15:27:46Z",
+      "link": "https://github.com/beckn/vendure/issues/39",
+      "text": "Order Id is too long to display in the BAP front-end app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#38",
+      "time": "2024-02-15T15:26:24Z",
+      "link": "https://github.com/beckn/vendure/issues/38",
+      "text": "Product image links have localhost:port"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#37",
+      "time": "2024-02-15T10:40:23Z",
+      "link": "https://github.com/beckn/vendure/issues/37",
+      "text": "Add search by rating"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#36",
+      "time": "2024-02-15T06:36:10Z",
+      "link": "https://github.com/beckn/vendure/issues/36",
+      "text": "Add authentication to secure the endpoints"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#35",
+      "time": "2024-02-15T04:42:49Z",
+      "link": "https://github.com/beckn/vendure/issues/35",
+      "text": "Add support for Time Slot under order line"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#34",
+      "time": "2024-02-15T04:32:56Z",
+      "link": "https://github.com/beckn/vendure/issues/34",
+      "text": "Payment value has a floating point format in on_status response"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#33",
+      "time": "2024-02-15T03:35:20Z",
+      "link": "https://github.com/beckn/vendure/issues/33",
+      "text": "Provider name returned from on_select onwards is incorrect"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#32",
+      "time": "2024-02-15T03:32:46Z",
+      "link": "https://github.com/beckn/vendure/issues/32",
+      "text": "Search by category returns products from all the categories"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#31",
+      "time": "2024-02-12T06:18:33Z",
+      "link": "https://github.com/beckn/vendure/issues/31",
+      "text": "Issues in search after updating the latest changes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#27",
+      "time": "2024-02-05T05:50:56Z",
+      "link": "https://github.com/beckn/vendure/issues/27",
+      "text": "Add quantity object to item in on_search"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#26",
+      "time": "2024-02-03T13:54:29Z",
+      "link": "https://github.com/beckn/vendure/issues/26",
+      "text": "Add fulfillment_state object in on_status"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#25",
+      "time": "2024-02-03T10:38:21Z",
+      "link": "https://github.com/beckn/vendure/issues/25",
+      "text": "Add Name attribute to Fulfilllment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#2",
+      "time": "2024-01-30T06:08:41Z",
+      "link": "https://github.com/beckn/vendure/issues/2",
+      "text": "Error on_select - message should be array"
     }
   ],
   "open_prs": [],

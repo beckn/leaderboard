@@ -1,0 +1,49 @@
+{
+  "last_updated": "2023-08-20T05:34:02Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/mobility#63",
+      "time": "2023-08-20T05:34:02Z",
+      "link": "https://github.com/beckn/mobility/issues/63",
+      "text": "Implementation Guide for UseCase #Intercity"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/mobility#62",
+      "time": "2023-08-16T09:40:44Z",
+      "link": "https://github.com/beckn/mobility/issues/62",
+      "text": "Implementation Guide for UseCase #Parking"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/mobility#60",
+      "time": "2023-08-10T16:56:24Z",
+      "link": "https://github.com/beckn/mobility/issues/60",
+      "text": "Implementation Guide for UseCase #Car rentals"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/mobility#59",
+      "time": "2023-07-16T08:55:53Z",
+      "link": "https://github.com/beckn/mobility/pull/59",
+      "text": "Feat/api description"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/mobility#61",
+      "time": "2023-08-16T07:21:54Z",
+      "link": "https://github.com/beckn/mobility/pull/61",
+      "text": "Use cases implementation guides"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/mobility#64",
+      "time": "2023-09-20T14:39:18Z",
+      "link": "https://github.com/beckn/mobility/pull/64",
+      "text": "Added New_ReadMe.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -14,6 +14,34 @@
       "time": "2022-10-20T04:54:37Z",
       "link": "https://github.com/beckn/protocol-server/issues/14",
       "text": "Protocol server gateway modes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#325",
+      "time": "2022-12-12T19:36:01Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/325",
+      "text": "Added Rating To Agent Schema"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#326",
+      "time": "2022-12-12T19:36:23Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/326",
+      "text": "Added Skills To Person Schema"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#327",
+      "time": "2022-12-12T19:38:01Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/327",
+      "text": "Added Languages To Person Schema"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/DSEP-Specification#82",
+      "time": "2022-11-25T09:10:50Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/82",
+      "text": "Added Examples For Search & On_Search APIs For Languages"
     }
   ],
   "open_prs": [],

@@ -1,0 +1,133 @@
+{
+  "last_updated": "2021-11-25T13:19:05Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#7",
+      "time": "2021-11-25T13:19:05Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/7",
+      "text": "mock service endpoint for block_ticket"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#12",
+      "time": "2021-11-28T10:46:17Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/12",
+      "text": "Jsarala block ticket"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#13",
+      "time": "2021-11-28T21:19:28Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/13",
+      "text": "enhancement for book/block service api with global exception handling"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#15",
+      "time": "2021-11-29T15:20:39Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/15",
+      "text": "search api code"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#17",
+      "time": "2021-12-01T07:28:49Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/17",
+      "text": "search by gps feature"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#19",
+      "time": "2021-12-02T10:49:06Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/19",
+      "text": "fields added to availability search api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#20",
+      "time": "2021-12-03T07:24:37Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/20",
+      "text": "added fare details on availability api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#21",
+      "time": "2021-12-03T11:13:32Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/21",
+      "text": "fix for handling exception and process other trips if one trip detail…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#22",
+      "time": "2021-12-06T07:37:54Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/22",
+      "text": "Jsarala search"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#24",
+      "time": "2021-12-08T05:44:05Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/24",
+      "text": "Issued ticket field and related changes to code logics"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#25",
+      "time": "2021-12-09T06:23:25Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/25",
+      "text": "slot timing now doesnt depend on date"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#26",
+      "time": "2021-12-14T10:38:45Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/26",
+      "text": "Signing logic implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#27",
+      "time": "2021-12-22T05:52:32Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/27",
+      "text": "cron job for trip inventory creation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#28",
+      "time": "2021-12-28T07:05:26Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/28",
+      "text": "cryptic changes with new private and public pem files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#29",
+      "time": "2021-12-29T08:25:13Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/29",
+      "text": "fix file issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#31",
+      "time": "2022-01-05T06:28:57Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/31",
+      "text": "new fields added to signature for UI requirement"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#32",
+      "time": "2022-02-11T05:45:16Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/32",
+      "text": "Ed25519 algorithm used for signing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#34",
+      "time": "2022-03-31T04:57:23Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/34",
+      "text": "Counter and Schedule Boat APi"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -7,6 +7,237 @@
       "time": "2023-08-09T09:23:54Z",
       "link": "https://github.com/beckn/protocol-server/pull/34",
       "text": "Removing format: phone from Support schema as the format isn't allowed by OpenAPI."
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#359",
+      "time": "2023-07-28T11:47:10Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/359",
+      "text": "Updating Customer and Support schema to add new properties"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#24",
+      "time": "2023-07-18T12:01:13Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/24",
+      "text": "Moving the financial services credit workflow to the main branch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#28",
+      "time": "2023-08-14T06:49:00Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/28",
+      "text": "Sandbox changes for Health Insurance and Credit"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#33",
+      "time": "2023-08-22T08:04:53Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/33",
+      "text": "Adding appropriate descriptions for the courses"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#34",
+      "time": "2023-09-06T08:05:00Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/34",
+      "text": "Adding code and examples for EV charging for DENT protocol"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#35",
+      "time": "2023-09-07T09:21:46Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/35",
+      "text": "adding postman collection, updating user guide"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#38",
+      "time": "2023-09-25T06:13:27Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/38",
+      "text": "Updating code and responses for mutual funds"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#40",
+      "time": "2023-09-25T11:18:15Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/40",
+      "text": "Addind code and responses for DHP"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#41",
+      "time": "2023-09-26T13:14:28Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/41",
+      "text": "Updating postman collection for FS and DHP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/Unified-Energy-Interface#7",
+      "time": "2023-07-20T15:29:47Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/issues/7",
+      "text": "[C4GT] Implement Beckn Energy Sandbox Interface - use cases"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/Unified-Energy-Interface#6",
+      "time": "2023-08-10T17:46:52Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/6",
+      "text": "Adding examples for search, on_search, updating the yaml file"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/Unified-Energy-Interface#8",
+      "time": "2023-08-30T19:54:48Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/8",
+      "text": "Updating uses-cases, examples and implementation guides"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/Unified-Energy-Interface#10",
+      "time": "2023-09-01T06:41:14Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/10",
+      "text": "Examples and implementation guide for EV Charging"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/DHP-Specs#101",
+      "time": "2023-07-14T02:42:04Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/101",
+      "text": "[C4GT] Implement DHP Sandbox API for Health and Wellness - use cases and upgrade to core v1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DHP-Specs#104",
+      "time": "2023-12-03T07:38:56Z",
+      "link": "https://github.com/beckn/DHP-Specs/pull/104",
+      "text": "DHP specs review for the examples"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/mobility#57",
+      "time": "2023-07-13T13:26:56Z",
+      "link": "https://github.com/beckn/mobility/issues/57",
+      "text": "[C4GT] Implement Beckn Mobility Sandbox Interface - use-cases and upgrade mobility to latest core version. "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox-webhook#4",
+      "time": "2023-07-18T12:01:49Z",
+      "link": "https://github.com/beckn/beckn-sandbox-webhook/pull/4",
+      "text": "Moving financial services credit workflow to main"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox-webhook#6",
+      "time": "2023-08-14T06:49:22Z",
+      "link": "https://github.com/beckn/beckn-sandbox-webhook/pull/6",
+      "text": "Updated the code to route all financial-services requests"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox-webhook#7",
+      "time": "2023-09-06T05:50:45Z",
+      "link": "https://github.com/beckn/beckn-sandbox-webhook/pull/7",
+      "text": "Updating the route for DENT requests"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox-webhook#10",
+      "time": "2023-09-22T14:28:20Z",
+      "link": "https://github.com/beckn/beckn-sandbox-webhook/pull/10",
+      "text": "Adding route to DHP controller for DHP requests"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/PULSE-Specification#5",
+      "time": "2023-07-24T15:58:25Z",
+      "link": "https://github.com/beckn/PULSE-Specification/issues/5",
+      "text": "[C4GT] Implement Beckn ODR Sandbox Interface - use cases"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/PULSE-Specification#7",
+      "time": "2023-09-23T12:08:23Z",
+      "link": "https://github.com/beckn/PULSE-Specification/pull/7",
+      "text": "Adding examples for online dispute resolution"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DSEP-Specification#143",
+      "time": "2023-09-27T06:47:12Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/143",
+      "text": "Adding ONEST examples"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/financial-services#4",
+      "time": "2023-06-18T04:31:31Z",
+      "link": "https://github.com/beckn/financial-services/pull/4",
+      "text": "Adding specs for financial-services, examples for personal loans and invoice based loans."
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/financial-services#6",
+      "time": "2023-07-21T14:40:50Z",
+      "link": "https://github.com/beckn/financial-services/pull/6",
+      "text": "Incorporating review comments"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/financial-services#7",
+      "time": "2023-07-21T14:41:08Z",
+      "link": "https://github.com/beckn/financial-services/pull/7",
+      "text": "Examples for mutual funds"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/financial-services#8",
+      "time": "2023-07-21T18:54:50Z",
+      "link": "https://github.com/beckn/financial-services/pull/8",
+      "text": "Renamed the yaml file, added examples to update, cancel"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/financial-services#16",
+      "time": "2023-07-28T16:17:16Z",
+      "link": "https://github.com/beckn/financial-services/pull/16",
+      "text": "Adding documentation for financial services and mutual funds workflows"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/financial-services#18",
+      "time": "2023-07-28T16:16:41Z",
+      "link": "https://github.com/beckn/financial-services/pull/18",
+      "text": "Updating the examples for financial services"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/financial-services#19",
+      "time": "2023-07-28T18:11:30Z",
+      "link": "https://github.com/beckn/financial-services/pull/19",
+      "text": "Updating examples for mutual funds, added track and on track"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/financial-services#22",
+      "time": "2023-07-31T14:42:28Z",
+      "link": "https://github.com/beckn/financial-services/pull/22",
+      "text": "Updating the credit examples with account monitoring consent"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/mobility-bap-client-layer#26",
+      "time": "2023-07-13T10:46:08Z",
+      "link": "https://github.com/beckn/mobility-bap-client-layer/pull/26",
+      "text": "Adding the OSM Client layer and Protocol Server postman collection to artefacts"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/OSM-backend#9",
+      "time": "2023-06-27T13:17:31Z",
+      "link": "https://github.com/beckn/OSM-backend/pull/9",
+      "text": "Adding the postman collection to search based on providers"
     }
   ],
   "open_prs": [],

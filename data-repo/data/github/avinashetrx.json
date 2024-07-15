@@ -7,6 +7,69 @@
       "time": "2023-02-01T10:27:39Z",
       "link": "https://github.com/beckn/protocol-server/pull/23",
       "text": "added utils and bap response fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-storefront-ui#165",
+      "time": "2022-02-22T14:25:27Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/pull/165",
+      "text": "dockerfile node version change"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-apis#3",
+      "time": "2022-12-16T10:47:57Z",
+      "link": "https://github.com/beckn/beckn-exp-apis/pull/3",
+      "text": "Update README.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-apis#8",
+      "time": "2022-12-22T21:34:14Z",
+      "link": "https://github.com/beckn/beckn-exp-apis/pull/8",
+      "text": "Adding Origins for CORS Issues"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#36",
+      "time": "2023-01-03T16:38:25Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/36",
+      "text": "update the arrow design and functionality"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/map-bot#8",
+      "time": "2022-12-27T05:51:28Z",
+      "link": "https://github.com/beckn/map-bot/pull/8",
+      "text": "Feat ci"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dhp-reference-bap#6",
+      "time": "2022-02-22T12:34:02Z",
+      "link": "https://github.com/beckn/dhp-reference-bap/pull/6",
+      "text": "Added docs for docker-deployment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dhp-reference-bap#7",
+      "time": "2022-02-22T13:07:48Z",
+      "link": "https://github.com/beckn/dhp-reference-bap/pull/7",
+      "text": "fixed docker-path changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dhp-bap-ui-layer#3",
+      "time": "2022-02-04T09:09:48Z",
+      "link": "https://github.com/beckn/dhp-bap-ui-layer/pull/3",
+      "text": "added docker demo"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/biab-bap-client#38",
+      "time": "2022-09-26T09:19:32Z",
+      "link": "https://github.com/beckn/biab-bap-client/pull/38",
+      "text": "Update vars.yml"
     }
   ],
   "open_prs": [],

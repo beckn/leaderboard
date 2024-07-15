@@ -1,0 +1,35 @@
+{
+  "last_updated": "2022-02-08T07:55:53Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-protocol#16",
+      "time": "2022-02-08T07:55:53Z",
+      "link": "https://github.com/beckn/biab-bap-protocol/pull/16",
+      "text": "fix(version): use the latest version of `protocol-dtos`"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-protocol#17",
+      "time": "2022-02-08T14:25:54Z",
+      "link": "https://github.com/beckn/biab-bap-protocol/pull/17",
+      "text": "feat(config): allow usage of env vars to set config"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-client#29",
+      "time": "2022-02-08T14:26:29Z",
+      "link": "https://github.com/beckn/biab-bap-client/pull/29",
+      "text": "feat(config): allow usage of env vars to set config"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-client#30",
+      "time": "2022-02-08T07:54:52Z",
+      "link": "https://github.com/beckn/biab-bap-client/pull/30",
+      "text": "fix(version): use the latest version of `protocol-dtos`"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

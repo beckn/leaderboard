@@ -1,0 +1,14 @@
+{
+  "last_updated": "2023-11-29T11:39:51Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/DSEP-Specification#158",
+      "time": "2023-11-29T11:39:51Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/158",
+      "text": "Corrected location object on_search.json"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

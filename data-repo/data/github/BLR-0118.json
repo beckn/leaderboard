@@ -1,0 +1,154 @@
+{
+  "last_updated": "2022-10-07T08:08:49Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-specifications#321",
+      "time": "2022-10-07T08:08:49Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/321",
+      "text": "Changes to Item attributes in draft spec"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-specifications#313",
+      "time": "2022-09-06T08:19:27Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/313",
+      "text": "Track API should support tracking at fulfillment level"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-specifications#310",
+      "time": "2022-08-27T06:40:27Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/310",
+      "text": "Draft spec should also have Order.state"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#253",
+      "time": "2022-04-28T10:36:18Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/253",
+      "text": "Namespacing of non-standard attributes uses \"./\" which does not work with standard json parser libraries"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#249",
+      "time": "2022-04-12T15:46:32Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/249",
+      "text": "Payment.status should have additional enum for Pending"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#248",
+      "time": "2022-04-12T13:20:12Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/248",
+      "text": "Order should have link the Cancellation event"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#235",
+      "time": "2022-02-18T15:35:34Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/235",
+      "text": "Item should have attribute for supported payment modes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#226",
+      "time": "2022-02-06T14:18:17Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/226",
+      "text": "Status API should also support checking of payment reference info"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#224",
+      "time": "2022-02-06T14:05:14Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/224",
+      "text": "Enums for tl_method in Payment object should have values for \"payto\" and \"upi\""
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#217",
+      "time": "2022-02-01T08:30:35Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/217",
+      "text": "Fulfillment Policy - cap on max no of attempts for delivery"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#216",
+      "time": "2022-02-01T08:25:05Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/216",
+      "text": "Localization of attributes in protocol schema"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#215",
+      "time": "2022-01-30T11:12:51Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/215",
+      "text": "Value of method in example 3 of \"Payments on Beckn Enabled Networks\" should be \"HTTP/POST\""
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#197",
+      "time": "2022-01-19T11:46:38Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/197",
+      "text": "Payment object should include collected_by attribute"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#196",
+      "time": "2022-01-19T11:42:16Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/196",
+      "text": "Description for SubscriberAuth, GatewaySubscriberAuthNew should be changed to remove BLAKE-512 from signature"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#204",
+      "time": "2022-01-27T11:42:09Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/204",
+      "text": "Add collected_by to Payment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#206",
+      "time": "2022-02-22T08:21:51Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/206",
+      "text": "Remove BLAKE-512 from auth header description"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#210",
+      "time": "2022-01-27T11:39:59Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/210",
+      "text": "Error codes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#225",
+      "time": "2022-02-22T08:13:14Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/225",
+      "text": "Update core.yaml"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#233",
+      "time": "2022-02-22T08:12:16Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/233",
+      "text": "Fix tl_method values in BECKN-002-Payments-On-Beckn-Enabled-Networks.md"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/biab-storefront-ui#121",
+      "time": "2021-12-01T11:36:20Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/issues/121",
+      "text": "Storefront UI hangs at Pay and Confirm"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-in-a-box#4",
+      "time": "2021-12-30T07:59:58Z",
+      "link": "https://github.com/beckn/beckn-in-a-box/issues/4",
+      "text": "Client API for order from multiple BPPs"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

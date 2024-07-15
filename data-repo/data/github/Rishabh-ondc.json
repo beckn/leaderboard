@@ -1,0 +1,21 @@
+{
+  "last_updated": "2023-03-28T13:40:06Z",
+  "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#350",
+      "time": "2023-03-28T13:40:06Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/350",
+      "text": "Errors in transaction.yaml core-v1.0.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#344",
+      "time": "2023-01-18T07:46:21Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/344",
+      "text": "SwaggerHub refresh for updated specifications"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

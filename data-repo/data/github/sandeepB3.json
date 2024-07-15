@@ -1,0 +1,28 @@
+{
+  "last_updated": "2023-07-22T12:58:05Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/BAP-Boilerplate-SDK#7",
+      "time": "2023-07-22T12:58:05Z",
+      "link": "https://github.com/beckn/BAP-Boilerplate-SDK/pull/7",
+      "text": "Getting Acquainted with Beckn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/BAP-Boilerplate-SDK#10",
+      "time": "2023-09-22T08:43:19Z",
+      "link": "https://github.com/beckn/BAP-Boilerplate-SDK/pull/10",
+      "text": "BAP SDK Dockerfile"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/BAP-Boilerplate-SDK#11",
+      "time": "2023-09-22T17:53:13Z",
+      "link": "https://github.com/beckn/BAP-Boilerplate-SDK/pull/11",
+      "text": "Documentation and Dockerfiles for BAP SDK"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

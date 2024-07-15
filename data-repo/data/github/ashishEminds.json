@@ -1,0 +1,70 @@
+{
+  "last_updated": "2024-05-16T10:55:50Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#997",
+      "time": "2024-05-16T10:55:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/997",
+      "text": "fix: ui cosmetic changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1036",
+      "time": "2024-05-22T05:24:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1036",
+      "text": "fix: fixes translation changes in retail app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1044",
+      "time": "2024-05-22T10:08:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1044",
+      "text": "fix: fixes translation in osc app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1062",
+      "time": "2024-05-24T03:41:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1062",
+      "text": "fix: adds french translation in OSC app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1113",
+      "time": "2024-05-27T16:32:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1113",
+      "text": "fix: fixes confirm payload and x-input error handling"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1116",
+      "time": "2024-06-12T06:41:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1116",
+      "text": "fix: fixes default customer object values"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1226",
+      "time": "2024-06-07T15:20:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1226",
+      "text": "fix: odr-v2/fixes cosmetic discrepancies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1363",
+      "time": "2024-06-19T10:06:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1363",
+      "text": "fix: fixes error handling in osc app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1370",
+      "time": "2024-06-20T12:10:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1370",
+      "text": "feat: toast implementation industry 4.0"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

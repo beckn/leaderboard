@@ -1,0 +1,224 @@
+{
+  "last_updated": "2023-05-16T06:59:47Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#9",
+      "time": "2023-05-16T06:59:47Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/9",
+      "text": "fix: remove bpp_id and bpp_uri from search response context"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#17",
+      "time": "2023-05-30T09:44:38Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/17",
+      "text": "feat: provide the readme file"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#18",
+      "time": "2023-06-01T16:51:20Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/18",
+      "text": "Feat/readme file"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#20",
+      "time": "2023-06-08T09:51:19Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/20",
+      "text": "feat: add how to debug in troubleshoot guide"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#2",
+      "time": "2023-11-12T13:27:33Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/2",
+      "text": "Response mapper with config"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#4",
+      "time": "2023-11-17T08:55:19Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/4",
+      "text": "feat: map data using jsonata package"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#5",
+      "time": "2023-11-17T14:17:26Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/5",
+      "text": "feat: add the remove empty object keys sanitization"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#10",
+      "time": "2023-12-02T14:43:50Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/10",
+      "text": "Add new arch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#11",
+      "time": "2023-12-04T06:02:22Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/11",
+      "text": "feat: add package.json config for build"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#12",
+      "time": "2023-12-05T05:40:01Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/12",
+      "text": "feat: implement rating api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#13",
+      "time": "2023-12-05T08:27:19Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/13",
+      "text": "fix: rating jsonata config issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#16",
+      "time": "2023-12-06T14:02:12Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/16",
+      "text": "feat: add cancel api"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/bpp-adapter#2",
+      "time": "2023-12-08T11:24:56Z",
+      "link": "https://github.com/beckn/bpp-adapter/pull/2",
+      "text": "refactor: remove the untracked data in git cache"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#1",
+      "time": "2023-02-07T06:49:26Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/1",
+      "text": "dsep jobs api proto"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#6",
+      "time": "2023-02-08T03:19:59Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/6",
+      "text": "refactor: optimize code"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#7",
+      "time": "2023-02-08T05:00:37Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/7",
+      "text": "refactor: optimize code"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#14",
+      "time": "2023-02-10T06:51:51Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/14",
+      "text": "Vivek/feature/jobs api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#15",
+      "time": "2023-02-10T06:52:29Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/15",
+      "text": "jobs api impl"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#20",
+      "time": "2023-02-10T11:02:04Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/20",
+      "text": "local network implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#41",
+      "time": "2023-02-19T11:14:22Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/41",
+      "text": "feat: add select api for training and courses"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#42",
+      "time": "2023-02-19T12:14:44Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/42",
+      "text": "fix: tnc select request issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#43",
+      "time": "2023-02-19T12:29:12Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/43",
+      "text": "feat: add tnc init api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#44",
+      "time": "2023-02-19T15:11:50Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/44",
+      "text": "feat: add tnc confirm api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#45",
+      "time": "2023-02-19T15:20:06Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/45",
+      "text": "feat: add tnc confirm api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#48",
+      "time": "2023-02-20T14:11:08Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/48",
+      "text": "Training"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#51",
+      "time": "2023-02-21T11:49:21Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/51",
+      "text": "MODIFIED: code in search api to search jobs,mentor,course,scholarship…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#53",
+      "time": "2023-02-22T11:39:04Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/53",
+      "text": "MODIFIED: code in search api to search jobs,mentor,course,scholarship…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#54",
+      "time": "2023-02-22T15:47:14Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/54",
+      "text": "Merge branch 'main' into search-api-enhancement"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-client#64",
+      "time": "2023-09-29T10:45:43Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/64",
+      "text": "feat: add the original ps response in each module confirm response"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-api#5",
+      "time": "2023-02-19T17:07:25Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-api/pull/5",
+      "text": "Saved mentorship issue resolved"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-api#10",
+      "time": "2023-02-22T11:22:16Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-api/pull/10",
+      "text": "Vivek/structer/change"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

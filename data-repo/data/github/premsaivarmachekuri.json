@@ -1,0 +1,70 @@
+{
+  "last_updated": "2023-08-29T15:38:49Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-in-a-box#22",
+      "time": "2023-08-29T15:38:49Z",
+      "link": "https://github.com/beckn/beckn-in-a-box/issues/22",
+      "text": "Beckn-In-A-Box Project Backend Implementation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-in-a-box#20",
+      "time": "2023-08-22T14:35:53Z",
+      "link": "https://github.com/beckn/beckn-in-a-box/issues/20",
+      "text": " Backend Architecture Design for Beckn in a box"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-in-a-box#16",
+      "time": "2023-08-10T18:14:23Z",
+      "link": "https://github.com/beckn/beckn-in-a-box/issues/16",
+      "text": "Frontend Product Design Ticket - Beckn-In-A-Box Project"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-in-a-box#14",
+      "time": "2023-07-30T10:58:05Z",
+      "link": "https://github.com/beckn/beckn-in-a-box/pull/14",
+      "text": "Built module to provide rating"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-in-a-box#17",
+      "time": "2023-08-11T17:12:25Z",
+      "link": "https://github.com/beckn/beckn-in-a-box/pull/17",
+      "text": "Designed the frontend for the project"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-in-a-box#19",
+      "time": "2023-08-19T18:26:01Z",
+      "link": "https://github.com/beckn/beckn-in-a-box/pull/19",
+      "text": "Beckn-in-a-box Frontend UI Development"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-in-a-box#21",
+      "time": "2023-08-22T15:51:07Z",
+      "link": "https://github.com/beckn/beckn-in-a-box/pull/21",
+      "text": "Backend Architecture Implementation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-in-a-box#23",
+      "time": "2023-08-29T16:17:14Z",
+      "link": "https://github.com/beckn/beckn-in-a-box/pull/23",
+      "text": "Beckn-In-A-Box Backend development"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-in-a-box#24",
+      "time": "2023-09-09T05:59:56Z",
+      "link": "https://github.com/beckn/beckn-in-a-box/pull/24",
+      "text": "Added Project Documentation and Contributor Guidelines"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

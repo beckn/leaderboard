@@ -1,0 +1,105 @@
+{
+  "last_updated": "2023-01-27T06:06:01Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-ui#10",
+      "time": "2023-01-27T06:06:01Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/pull/10",
+      "text": "added tab component and api service helper"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-ui#13",
+      "time": "2023-01-28T07:11:25Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/pull/13",
+      "text": "list view implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-ui#16",
+      "time": "2023-01-28T11:51:24Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/pull/16",
+      "text": "Added comp support for tabs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-ui#17",
+      "time": "2023-01-29T14:25:54Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/pull/17",
+      "text": "implemented detail header component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-ui#22",
+      "time": "2023-01-31T06:00:20Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/pull/22",
+      "text": "Success screen"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-ui#30",
+      "time": "2023-02-01T07:09:33Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/pull/30",
+      "text": "Feature/mentor available screen"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-ui#32",
+      "time": "2023-02-06T17:50:01Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/pull/32",
+      "text": "json support for search screen"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-ui#35",
+      "time": "2023-02-13T10:27:45Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/pull/35",
+      "text": "search list"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-ui#45",
+      "time": "2023-02-17T14:04:25Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/pull/45",
+      "text": "mentorship flow completed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-ui#51",
+      "time": "2023-02-21T09:37:13Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/pull/51",
+      "text": "Feature/mentor available screen"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-ui#61",
+      "time": "2023-02-23T19:00:19Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/pull/61",
+      "text": "Feature/mentor available screen"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-ui#64",
+      "time": "2023-02-24T07:19:48Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/pull/64",
+      "text": "mentorshipSucess Screen added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dsep-unified-bap-ui#65",
+      "time": "2023-02-25T15:08:10Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/pull/65",
+      "text": "mentoring session link added in status"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/dsep-unified-bap-ui#67",
+      "time": "2023-03-01T06:43:18Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/pull/67",
+      "text": "resolved job search issue"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

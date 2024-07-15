@@ -91,6 +91,2575 @@
       "time": "2024-04-22T15:55:05Z",
       "link": "https://github.com/beckn/protocol-server/issues/132",
       "text": "BOC Env - Create Registry and Gateway Domain Names for BOC using AWS EC2 Instance"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#423",
+      "time": "2024-04-02T11:43:14Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/423",
+      "text": "Validating Mobility Specification with Core v 1.1.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1492",
+      "time": "2024-07-09T12:41:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1492",
+      "text": "Create PRD Document for BOC Leaderboard"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1491",
+      "time": "2024-07-09T12:38:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1491",
+      "text": "Unit Test Cases for BOC Leadership"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1490",
+      "time": "2024-07-09T12:36:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1490",
+      "text": "Setup Leaderboard Sub-domains for Staging and Production"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1486",
+      "time": "2024-07-08T20:07:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1486",
+      "text": "Design Professional UI/UX for Leaderboard"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1485",
+      "time": "2024-07-08T19:49:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1485",
+      "text": "Integrate Leaderboard Data and Develop Leaderboard UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1484",
+      "time": "2024-07-08T19:43:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1484",
+      "text": "Conduct QA Testing for Beckn Leaderboard"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1483",
+      "time": "2024-07-08T19:42:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1483",
+      "text": "Write Functional Test Cases for Beckn Leaderboard"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1482",
+      "time": "2024-07-08T19:15:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1482",
+      "text": "Create Beckn GitHub Repositories for Leaderboard"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1481",
+      "time": "2024-07-08T19:10:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1481",
+      "text": "Examine PAT Token Utilization"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1480",
+      "time": "2024-07-08T18:42:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1480",
+      "text": "Explore Octokit for Fetching GitHub Repository Data"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1479",
+      "time": "2024-07-08T18:38:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1479",
+      "text": "Understand GraphQL Implementation for Beckn Leaderboard"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1478",
+      "time": "2024-07-08T18:37:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1478",
+      "text": "Understand GitHub Scraper for Beckn Leaderboard"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1477",
+      "time": "2024-07-08T18:32:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1477",
+      "text": "Analyze OHC Leaderboard Repositories for Beckn"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1476",
+      "time": "2024-07-08T18:06:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1476",
+      "text": "Project Kickoff and Introduction Call with OHC Dev Team"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1372",
+      "time": "2024-06-20T13:02:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1372",
+      "text": "Setup the EC2 instances Status Failure Alert"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1357",
+      "time": "2024-06-18T13:29:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1357",
+      "text": "Tech Debt 8 - Adding Test Cases as part of Technical Debts"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1356",
+      "time": "2024-06-18T13:22:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1356",
+      "text": "Tech Debt 7 - Increasing Type Coverage and Reducing Clutter"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1351",
+      "time": "2024-06-18T13:09:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1351",
+      "text": "Tech Debt 6 - Versioning Building Blocks and Removing Next.js"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1350",
+      "time": "2024-06-18T13:07:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1350",
+      "text": "Tech Debt 5 - Moving API Calls to RTK-Query (Redux Toolkit)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1349",
+      "time": "2024-06-18T13:04:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1349",
+      "text": "Tech Debt  4 - Reducing Dependency on Local Storage"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1348",
+      "time": "2024-06-18T13:01:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1348",
+      "text": "Tech Debt 3 - Adding More Generalized Code"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1347",
+      "time": "2024-06-18T12:58:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1347",
+      "text": "Tech Debt 2 - Generalized Error Handling in Apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1346",
+      "time": "2024-06-18T12:57:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1346",
+      "text": "Tech Debt 1 - Git Strategy for Mono-Repo and Project Segregation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1344",
+      "time": "2024-06-18T12:42:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1344",
+      "text": "Implement Toast message for City of Light Using Building Block Toast Component"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1343",
+      "time": "2024-06-18T12:42:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1343",
+      "text": "Implement Toast message for Himalaya"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1342",
+      "time": "2024-06-18T12:21:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1342",
+      "text": "Implement Toast message for Industry 4.0 Using Building Block Toast Component"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1341",
+      "time": "2024-06-18T12:18:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1341",
+      "text": "Implement Toast message for DSNP Using Building Block Toast Component"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1339",
+      "time": "2024-06-18T09:13:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1339",
+      "text": "QA Testing for Toast Message consistency in Experience Center reference apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1337",
+      "time": "2024-06-18T08:14:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1337",
+      "text": "POC for Wildcard SSL Certificate from AWS"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1325",
+      "time": "2024-06-13T15:05:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1325",
+      "text": "Testing for UX Design"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1324",
+      "time": "2024-06-13T15:02:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1324",
+      "text": "Conduct Brainstorming Sessions to Generate Ideas"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1323",
+      "time": "2024-06-13T14:50:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1323",
+      "text": " Define objectives and scope of the UX design project"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1320",
+      "time": "2024-06-13T12:23:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1320",
+      "text": "Create Docker Compose Files for Staging Environment Deployment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1312",
+      "time": "2024-06-12T16:11:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1312",
+      "text": "Flow Document for Unit Test Cases"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1311",
+      "time": "2024-06-12T14:58:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1311",
+      "text": "Consistent Toast Message Design Across Experience Center Apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1288",
+      "time": "2024-06-11T15:25:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1288",
+      "text": "X-Input Validation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1270",
+      "time": "2024-06-10T15:48:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1270",
+      "text": "Calls/Meeting with Fide"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1269",
+      "time": "2024-06-10T15:47:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1269",
+      "text": "June 10-21 // Calls and Meetings with Fide "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1213",
+      "time": "2024-06-07T10:38:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1213",
+      "text": "Migration Related"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1212",
+      "time": "2024-06-07T10:37:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1212",
+      "text": "GitHub issue creation, reviews, updates"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1211",
+      "time": "2024-06-07T10:32:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1211",
+      "text": "Daily Check-ins and meetings with Beckn"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1329",
+      "time": "2024-06-05T14:43:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1329",
+      "text": "Sample"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1012",
+      "time": "2024-05-17T10:18:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1012",
+      "text": "Traceability Mapping Gap Resolution, creation of Sandbox and Postman Collection"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1011",
+      "time": "2024-05-17T08:47:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1011",
+      "text": "Fix Mobility Requests in Sandbox Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1010",
+      "time": "2024-05-17T08:39:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1010",
+      "text": "Test Postman Collection for BOC Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#990",
+      "time": "2024-05-15T14:19:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/990",
+      "text": "Prod - Create BPP Domain Names in Production Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#989",
+      "time": "2024-05-15T14:16:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/989",
+      "text": "Prod - Create Non-Beckn API Domain Names in Production Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#988",
+      "time": "2024-05-15T14:14:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/988",
+      "text": "Prod - Create UI Applications Domain Names in Production Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#987",
+      "time": "2024-05-15T14:08:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/987",
+      "text": "Prod - Create BAP Domain Names in Production Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#986",
+      "time": "2024-05-15T14:00:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/986",
+      "text": "Prod - Registry and Gateway Domain Names Configuration for Production Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#985",
+      "time": "2024-05-15T13:42:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/985",
+      "text": "Enable Auto Loading of Layer 2 YAML Config into the Schema Folder of Protocol Server"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#979",
+      "time": "2024-05-15T11:28:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/979",
+      "text": "Verify Logo and Branding of Migrated Apps in Dev Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#976",
+      "time": "2024-05-15T09:48:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/976",
+      "text": "Daily Check-ins and meetings with Beckn"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#975",
+      "time": "2024-05-15T09:48:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/975",
+      "text": "Triaging and Troubleshooting Bug Fix"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#973",
+      "time": "2024-05-15T09:43:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/973",
+      "text": "Create EC Card and Landing Page for Retail Domain in Experience Center"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#972",
+      "time": "2024-05-15T09:36:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/972",
+      "text": "EC Changes of May 15th for Climate Resilience"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#969",
+      "time": "2024-05-14T17:19:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/969",
+      "text": "Add EC Card for Retail Kuza on Dev Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#944",
+      "time": "2024-05-14T08:19:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/944",
+      "text": "Rider BAP integration with SELECT API on dev environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#943",
+      "time": "2024-05-14T08:19:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/943",
+      "text": "Rider BAP integration with SEARCH API on dev environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#941",
+      "time": "2024-05-14T08:17:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/941",
+      "text": "Create and add relevant catalogs to Strapi of mobility"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#940",
+      "time": "2024-05-14T08:16:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/940",
+      "text": "Daily Check-ins and meetings with Beckn"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#939",
+      "time": "2024-05-14T08:16:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/939",
+      "text": "Triaging and Troubleshooting Bug Fix"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#938",
+      "time": "2024-05-14T08:15:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/938",
+      "text": "Taxi BPP - Select"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#937",
+      "time": "2024-05-14T08:15:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/937",
+      "text": "Taxi BPP - Strapi - Implement SEARCH Call API for Beckn Mobility Driver App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#936",
+      "time": "2024-05-14T07:29:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/936",
+      "text": "Daily Check-ins and meetings with Beckn"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#935",
+      "time": "2024-05-14T07:29:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/935",
+      "text": "Triaging and Troubleshooting Bug Fix"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#934",
+      "time": "2024-05-14T07:28:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/934",
+      "text": "Daily Check-ins and meetings with Beckn"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#933",
+      "time": "2024-05-14T07:28:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/933",
+      "text": "Triaging and Troubleshooting Bug Fix"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#922",
+      "time": "2024-05-13T07:49:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/922",
+      "text": "Discussions, meeting, internal bug and PR reviews"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#921",
+      "time": "2024-05-13T07:48:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/921",
+      "text": "Discussions, meeting, internal bug and PR reviews"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#918",
+      "time": "2024-05-13T06:35:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/918",
+      "text": "Forest Conservation Prototype Infrastructure Setup"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#900",
+      "time": "2024-05-10T06:14:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/900",
+      "text": "Create designs for the New Taxi BPP as per the Beckn Building Blocks"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#851",
+      "time": "2024-05-03T18:06:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/851",
+      "text": "Implement Checkout Login Requirement in Multiple Apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#850",
+      "time": "2024-05-03T14:46:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/850",
+      "text": "Update Traceability Mapping Table on Confluence Page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#849",
+      "time": "2024-05-03T14:40:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/849",
+      "text": "Update Traceability Mapping Table on Confluence Page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#848",
+      "time": "2024-05-03T14:38:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/848",
+      "text": "Update Traceability Mapping Table on Confluence Page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#847",
+      "time": "2024-05-03T14:05:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/847",
+      "text": "Creation of S3 Bucket for Order Interoperability for PROD Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#846",
+      "time": "2024-05-03T14:02:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/846",
+      "text": "Creation of S3 Bucket for Order Interoperability for STAGING Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#845",
+      "time": "2024-05-03T07:52:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/845",
+      "text": "DevOps debugging sessions with FE/BE teams"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#844",
+      "time": "2024-05-03T07:49:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/844",
+      "text": "DSEP - Implement Login Requirement for Checkout in DSEP App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#842",
+      "time": "2024-05-02T13:44:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/842",
+      "text": "Implement UX Design Changes in EC Apps Instruction Pop-ups for all apps in all the environments"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#841",
+      "time": "2024-05-02T13:39:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/841",
+      "text": "Replace Placeholder Texts in EC Apps Instruction Pop-ups"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#838",
+      "time": "2024-05-02T13:09:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/838",
+      "text": "Verify Old Experience Center (EC) Apps for Consistency"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#834",
+      "time": "2024-05-02T07:46:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/834",
+      "text": "Design Audit for Migration Apps on EC Dev Environment: Tourism "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#833",
+      "time": "2024-04-30T20:05:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/833",
+      "text": "Staging Env - Create Domain Names for Non-Beckn APIs on Staging Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#832",
+      "time": "2024-04-30T19:53:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/832",
+      "text": "Staging Env - Create Domain Names for BPPs on Staging Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#831",
+      "time": "2024-04-30T19:49:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/831",
+      "text": "Staging Env - Create Domain Names for UI Applications in Staging Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#830",
+      "time": "2024-04-30T18:17:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/830",
+      "text": "Update EC to Include Only Apps Migrated to Spec v1.1.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#829",
+      "time": "2024-04-30T16:05:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/829",
+      "text": "Stagin Env - Create BAP Domain Names for Staging ENV using AWS EC2 Instance using ONIX"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#828",
+      "time": "2024-04-30T16:00:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/828",
+      "text": "Staging Env - Create Registry and Gateway Domain Names for Staging Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#811",
+      "time": "2024-04-30T10:50:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/811",
+      "text": "Layer 2 Config File Analysis and Documentation for EC Apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#809",
+      "time": "2024-04-30T08:38:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/809",
+      "text": "Taxi BPP BE - Implement Ride Summary API and Functionality for Drivers"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#808",
+      "time": "2024-04-30T08:34:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/808",
+      "text": "Taxi BPP BE - Implement End Ride Functionality for Drivers"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#807",
+      "time": "2024-04-30T08:30:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/807",
+      "text": "Taxi BPP BE - Implement Start Ride Functionality for Drivers"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#806",
+      "time": "2024-04-30T08:27:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/806",
+      "text": "Taxi BPP BE - Implement API for Driver to Reject New Ride"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#805",
+      "time": "2024-04-30T08:24:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/805",
+      "text": "Taxi BPP BE - Implement API for Driver to Accept New Ride"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#804",
+      "time": "2024-04-30T08:22:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/804",
+      "text": "Taxi BPP BE - Develop Location Requests API for Drivers with Strapi Integration"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#803",
+      "time": "2024-04-30T08:17:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/803",
+      "text": "Taxi BPP BE - Implement Set Current Location API for Drivers"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#802",
+      "time": "2024-04-30T08:13:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/802",
+      "text": "Taxi BPP BE - Implement Online/Offline Toggle for Driver availability"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#801",
+      "time": "2024-04-30T06:52:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/801",
+      "text": "Taxi BPP BE - Implement Secure Login API for Drivers (Using Strapi)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#799",
+      "time": "2024-04-29T15:41:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/799",
+      "text": "Create Docker Compose Files for Dev Environment Deployment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#792",
+      "time": "2024-04-29T11:25:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/792",
+      "text": "Move Kuza Retail Endpoints to Confluence Page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#791",
+      "time": "2024-04-29T10:44:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/791",
+      "text": "Create Sequence and Block Diagrams for Mobility BPP Solutioning "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#790",
+      "time": "2024-04-29T10:12:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/790",
+      "text": "Enhance DSEP System with X-Input Functionality for Scholarship "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#789",
+      "time": "2024-04-29T09:49:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/789",
+      "text": "Create UX Design for Retail Kuza EC card on Experience Center"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#784",
+      "time": "2024-04-26T17:32:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/784",
+      "text": "Create and Configure BPP Domain Name for the Strapi Backend"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#771",
+      "time": "2024-04-25T15:40:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/771",
+      "text": "Driver App - Implement Login Screen for Existing Drivers (Using Strapi)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#765",
+      "time": "2024-04-25T12:13:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/765",
+      "text": "Driver App - Create User-Friendly Interface for New Driver Sign-Up"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#752",
+      "time": "2024-04-24T16:32:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/752",
+      "text": "Implement Building Block Approach for Experience Center Portal"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#751",
+      "time": "2024-04-24T16:28:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/751",
+      "text": "Display Euro Currency for French Version of City of Lights and OSM Apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#750",
+      "time": "2024-04-24T16:23:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/750",
+      "text": "Add Language Toggle for English and French versions to City of Lights and OSM Apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#737",
+      "time": "2024-04-24T05:10:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/737",
+      "text": "Regression Testing of all apps in EC prod"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#736",
+      "time": "2024-04-24T05:09:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/736",
+      "text": "Discuss and explaining the X-Input required for ODR and Industry 4.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#709",
+      "time": "2024-04-23T10:18:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/709",
+      "text": "Daily EC apps testing for Apr 15-26"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#697",
+      "time": "2024-04-23T06:11:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/697",
+      "text": "Industry 4.0 - Implementing X-input"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#696",
+      "time": "2024-04-23T06:11:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/696",
+      "text": "ODR - Implementing X-input"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#695",
+      "time": "2024-04-22T20:09:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/695",
+      "text": "ODR - Revise Order Details Page for ODR App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#694",
+      "time": "2024-04-22T20:06:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/694",
+      "text": "ODR - Create Custom Checkout Page Using Building Blocks"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#693",
+      "time": "2024-04-22T19:41:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/693",
+      "text": "ODR - Add Extra Category Dropdown and Integrate on Homepage"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#692",
+      "time": "2024-04-22T19:35:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/692",
+      "text": "ODR - Develop ODR Layout based on the Retail App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#690",
+      "time": "2024-04-22T15:55:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/690",
+      "text": "BOC Env - Add BPP Domain Names for Sandbox, Strapi, and Vendure for the BOC Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#685",
+      "time": "2024-04-22T12:10:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/685",
+      "text": "Review and update the documentations of migrated apps on Confluence"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#679",
+      "time": "2024-04-22T11:17:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/679",
+      "text": "Tourism - To Develop QR Code Scanner Integration after Order Summary"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#667",
+      "time": "2024-04-22T08:56:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/667",
+      "text": "Migrate Catalogs created and used while MIT demo to Strapi Dev instance"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#664",
+      "time": "2024-04-22T06:55:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/664",
+      "text": "Review and Update Test Cases for Beckn App Migration to v1.1.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#606",
+      "time": "2024-04-17T12:35:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/606",
+      "text": "DSEP - remaining endpoints"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#603",
+      "time": "2024-04-17T10:54:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/603",
+      "text": "Design for DSEP App to cover all the 10 Beckn endpoints"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#575",
+      "time": "2024-04-16T07:29:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/575",
+      "text": "Create Catalogs for DSEP Domain for Scholarships and Jobs "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#574",
+      "time": "2024-04-16T07:20:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/574",
+      "text": "Migrate Retail Catalogs with DSNP and OpenStreetMap Categories"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#572",
+      "time": "2024-04-15T18:04:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/572",
+      "text": "Create Instances of Non-beckn APIs in Dev Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#571",
+      "time": "2024-04-15T17:54:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/571",
+      "text": "Create and Configure Taxi Driver Application using AWS Amplify in Dev Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#570",
+      "time": "2024-04-15T17:52:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/570",
+      "text": "Create and Configure Experience Center using AWS cloudfront in Dev Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#569",
+      "time": "2024-04-15T17:47:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/569",
+      "text": "Create and Configure ODR Application using AWS Amplify in Dev Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#567",
+      "time": "2024-04-15T17:43:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/567",
+      "text": "Create and Configure Industry 4.0 Application using AWS Amplify in Dev Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#566",
+      "time": "2024-04-15T17:41:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/566",
+      "text": "Create and Configure Taxi Rider Application in Dev Environment using AWS Amplify"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#564",
+      "time": "2024-04-15T17:31:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/564",
+      "text": "Create and Configure Tourism Application in Dev Environment using AWS Amplify"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#563",
+      "time": "2024-04-15T17:19:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/563",
+      "text": "Create and Configure Retail Application in Dev Environment using AWS Amplify"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#562",
+      "time": "2024-04-15T16:30:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/562",
+      "text": "Create and Configure Sandbox BPP for Dev "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#561",
+      "time": "2024-04-15T16:24:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/561",
+      "text": "Create and Configure Protocol Server (Sandbox BPP) for Dev"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#557",
+      "time": "2024-04-15T09:12:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/557",
+      "text": "Data Dump of Existing Strapi Database to Strapi DEV Database (migraiton env)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#526",
+      "time": "2024-04-08T12:38:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/526",
+      "text": "Review, Update, and Document DNS Details for Beckn-One Landscape for Development env"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#525",
+      "time": "2024-04-08T12:26:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/525",
+      "text": "Documenting Infrastructure Details for MIT Demo AI Project for North Virginia region"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#523",
+      "time": "2024-04-08T05:11:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/523",
+      "text": "Replicating Sample JSONs for Forest Conservation Use Case"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#503",
+      "time": "2024-04-04T18:27:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/503",
+      "text": "Provision on EC2 instance for OTTL team"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#499",
+      "time": "2024-04-04T08:37:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/499",
+      "text": "Adding new Tags and Values in the Outcome Visualization 3 for Climate Resilience Use case"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#498",
+      "time": "2024-04-04T08:33:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/498",
+      "text": "Adding new Tags and Values in the Outcome Visualization 2 for Climate Resilience Use case"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#497",
+      "time": "2024-04-04T08:06:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/497",
+      "text": "Adding new Tags and Values in the Outcome Visualization 1 for Climate Resilience Use case"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#494",
+      "time": "2024-04-03T15:55:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/494",
+      "text": "Driver App - Implement Online-Offline Toggle on Map Screen"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#489",
+      "time": "2024-04-03T09:15:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/489",
+      "text": "Enhancements for Strapi"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#488",
+      "time": "2024-04-03T09:13:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/488",
+      "text": "Enhancement of Input Functionality for Industry 4.0 Application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#487",
+      "time": "2024-04-03T09:09:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/487",
+      "text": "Migration and Enhancement of ODR Application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#479",
+      "time": "2024-04-03T05:53:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/479",
+      "text": "Provision an EC2 instance for Mulearn team"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#473",
+      "time": "2024-04-02T14:34:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/473",
+      "text": "Project Documents for DSEP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#471",
+      "time": "2024-04-02T10:50:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/471",
+      "text": "Brevo Email Authentication Issue: Authentication of becknprotocol.io Domain"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#468",
+      "time": "2024-04-02T09:13:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/468",
+      "text": "Update Sheru's URL in UEI app for dev and staging environments."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#460",
+      "time": "2024-04-01T12:51:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/460",
+      "text": "Create New Policy Admin Portal and Approval Process Portal"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#459",
+      "time": "2024-04-01T12:50:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/459",
+      "text": "Migration of Catalogs for UEI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#458",
+      "time": "2024-04-01T12:50:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/458",
+      "text": "Migration of Catalogs for Mobility "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#457",
+      "time": "2024-04-01T12:50:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/457",
+      "text": "Migration of Catalogs for DHP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#456",
+      "time": "2024-04-01T12:49:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/456",
+      "text": "Migration of Catalogs for Retail - Tourism "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#455",
+      "time": "2024-04-01T12:49:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/455",
+      "text": "Migration of Catalogs for DSEP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#454",
+      "time": "2024-04-01T09:40:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/454",
+      "text": "QA for mobility BAP end to end for City of Lights Paris"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#453",
+      "time": "2024-04-01T09:30:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/453",
+      "text": "Mobility BAP - Changes required specifics for City of Lights Paris"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#452",
+      "time": "2024-04-01T09:30:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/452",
+      "text": "Mobility BAP - Changes required specifics for Smart Gambia"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#451",
+      "time": "2024-04-01T09:30:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/451",
+      "text": "Mobility BAP - Changes required specifics for Enabling Smart Cities"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#450",
+      "time": "2024-04-01T09:24:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/450",
+      "text": "Mobility BAP - Customer Support Option on Order Details Page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#449",
+      "time": "2024-04-01T09:24:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/449",
+      "text": "Mobility BAP - Ride Completion Screen"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#448",
+      "time": "2024-04-01T09:24:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/448",
+      "text": "Mobility BAP - Ride Cancellation Process"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#447",
+      "time": "2024-04-01T09:24:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/447",
+      "text": "Mobility BAP - Ride Confirmation Details"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#446",
+      "time": "2024-04-01T09:24:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/446",
+      "text": "Mobility BAP - Cab Search and Cancel Option"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#445",
+      "time": "2024-04-01T09:23:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/445",
+      "text": "Mobility BAP - Payment Methods Page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#444",
+      "time": "2024-04-01T09:23:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/444",
+      "text": "Mobility BAP - List of Available Taxis"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#443",
+      "time": "2024-04-01T09:21:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/443",
+      "text": "Mobility BAP - High Traffic Alert for Smart Cities"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#442",
+      "time": "2024-04-01T09:19:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/442",
+      "text": "Mobility BAP - Homepage Location Display"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#440",
+      "time": "2024-03-30T07:05:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/440",
+      "text": "QA for mobility BAP end to end for Smart Gambia"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#439",
+      "time": "2024-03-30T07:05:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/439",
+      "text": "QA for mobility BAP end to end for Enabling Smart Cities"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#431",
+      "time": "2024-03-29T14:10:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/431",
+      "text": "Implement Order Interoperability with Scanners"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#430",
+      "time": "2024-03-29T14:10:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/430",
+      "text": "Location Suggestion List UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#429",
+      "time": "2024-03-29T14:09:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/429",
+      "text": "Integrate Google Maps API for Location Search"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#428",
+      "time": "2024-03-29T14:08:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/428",
+      "text": "Home Page UI with Big Buttons"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#424",
+      "time": "2024-03-29T13:46:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/424",
+      "text": "Create Deployment URL Links for - Himalaya"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#421",
+      "time": "2024-03-29T13:41:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/421",
+      "text": "QA Testing for Tourism Flow in City of Lights App After Migration to Spec Version 1.1.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#420",
+      "time": "2024-03-29T13:39:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/420",
+      "text": "Project documentation for Tourism"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#418",
+      "time": "2024-03-29T13:37:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/418",
+      "text": "Create Tourism BAP for City of Lights, Paris Based on Retail BAP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#415",
+      "time": "2024-03-29T13:20:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/415",
+      "text": "Project documentation for Mobility BAP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#407",
+      "time": "2024-03-29T12:34:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/407",
+      "text": "QA Testing for Tourism Flow in Himalaya App After Migration to Spec Version 1.1.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#404",
+      "time": "2024-03-29T12:21:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/404",
+      "text": "Set Up CI/CD Pipeline for Mobility BAP app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#403",
+      "time": "2024-03-29T12:18:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/403",
+      "text": "Create and Configure Mobility Applications using AWS Amplify in Dev Environment "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#402",
+      "time": "2024-03-29T10:18:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/402",
+      "text": "Project documentation for DSNP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#401",
+      "time": "2024-03-29T10:12:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/401",
+      "text": "Test with Postman pointing to Generic Client Layer"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#400",
+      "time": "2024-03-29T10:08:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/400",
+      "text": "Create Postman Collection for Retail BAP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#398",
+      "time": "2024-03-29T09:57:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/398",
+      "text": "QA for DSEP Migration to Version 1.1.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#397",
+      "time": "2024-03-29T09:56:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/397",
+      "text": "Set Up CI/CD Pipeline for DSEP App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#395",
+      "time": "2024-03-29T09:34:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/395",
+      "text": "Create and Configure Unified DSEP Application Using AWS Amplify on Dev Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#392",
+      "time": "2024-03-29T08:21:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/392",
+      "text": "Test with Postman pointing to Generic Client Layer"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#391",
+      "time": "2024-03-29T08:19:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/391",
+      "text": "Create Postman Collection for DSNP retail"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#390",
+      "time": "2024-03-29T07:47:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/390",
+      "text": "Set Up CI/CD Pipeline for DSNP App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#389",
+      "time": "2024-03-29T07:32:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/389",
+      "text": "Create and Configure DSNP Application Using AWS Amplify on Dev Environment (socialweb)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#388",
+      "time": "2024-03-29T07:23:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/388",
+      "text": "Add Catalogs for DSNP Retail in Vendure BPP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#387",
+      "time": "2024-03-29T07:12:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/387",
+      "text": "Add Login Mechanism for DSNP Application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#386",
+      "time": "2024-03-29T07:06:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/386",
+      "text": "QA Testing for Retail Flow in DSNP App using BAP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#385",
+      "time": "2024-03-29T06:57:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/385",
+      "text": "Create Retail Flow for DSNP App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#384",
+      "time": "2024-03-29T06:36:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/384",
+      "text": "EC Card and Landing page for HarmoniAid"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#383",
+      "time": "2024-03-29T06:36:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/383",
+      "text": "EC Card and Landing page for Sky Analytics"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#382",
+      "time": "2024-03-29T06:36:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/382",
+      "text": "EC Card and Landing page for DragonFoods"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#379",
+      "time": "2024-03-28T11:57:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/379",
+      "text": "Create Tourism Himalayas BAP App Based on Retail BAP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#378",
+      "time": "2024-03-28T11:51:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/378",
+      "text": "Handling business logic/cases on the search page when coming from search by provider or search by item"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#377",
+      "time": "2024-03-28T11:50:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/377",
+      "text": "Search by provider API integration and relevant data mapping"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#376",
+      "time": "2024-03-28T11:50:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/376",
+      "text": "Stores fetch API integration with data mapping"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#375",
+      "time": "2024-03-28T11:49:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/375",
+      "text": "Location search-autocomplete implementation from OpenStreetMap"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#374",
+      "time": "2024-03-28T11:11:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/374",
+      "text": "Implementation of OpenStreetMap"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#373",
+      "time": "2024-03-28T10:55:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/373",
+      "text": "Create New Protocol Server BAP for Production Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#372",
+      "time": "2024-03-28T10:54:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/372",
+      "text": "Create New Protocol Server BAP for Staging Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#371",
+      "time": "2024-03-28T10:51:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/371",
+      "text": "Create New Protocol Server BAP for Developer Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#370",
+      "time": "2024-03-28T10:06:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/370",
+      "text": "Test with Postman pointing to Generic Client Layer"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#369",
+      "time": "2024-03-28T10:05:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/369",
+      "text": "Create Postman Collection for DSEP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#368",
+      "time": "2024-03-28T10:02:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/368",
+      "text": "Catalogue creation for DSEP Unified"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#367",
+      "time": "2024-03-28T09:51:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/367",
+      "text": "Integrate Course details page API with Client Layer and perform data mapping"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#366",
+      "time": "2024-03-28T09:50:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/366",
+      "text": "Implement Course details page UI with Building Block"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#365",
+      "time": "2024-03-28T09:50:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/365",
+      "text": "Integrate Applied Job preview page API with Client Layer and perform data mapping"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#364",
+      "time": "2024-03-28T09:50:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/364",
+      "text": "Implement Applied Job preview page UI with Building Block"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#363",
+      "time": "2024-03-28T09:50:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/363",
+      "text": "Integrate Scholarships history API with Client Layer and perform data mapping"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#362",
+      "time": "2024-03-28T09:50:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/362",
+      "text": "Develop Scholarships history page UI with Building Block"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#361",
+      "time": "2024-03-28T09:49:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/361",
+      "text": "Integrate Jobs history API with Client Layer and perform data mapping"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#360",
+      "time": "2024-03-28T09:49:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/360",
+      "text": "Develop Jobs history page UI with Building Block"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#359",
+      "time": "2024-03-28T09:49:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/359",
+      "text": "Integrate Courses history API with Client Layer and perform data mapping"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#358",
+      "time": "2024-03-28T09:49:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/358",
+      "text": "Develop Courses history page UI with Building Block"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#357",
+      "time": "2024-03-28T09:49:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/357",
+      "text": "Integrate Scholarship with the course cart"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#356",
+      "time": "2024-03-28T09:48:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/356",
+      "text": "Integrate Confirm API and perform data mapping with Scholarship on Client Layer"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#355",
+      "time": "2024-03-28T09:48:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/355",
+      "text": "Implement Scholarship submission page UI with Building Block"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#354",
+      "time": "2024-03-28T09:48:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/354",
+      "text": "Integrate Strapi APIs for profile fetch and document upload for Scholarship with Backend"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#353",
+      "time": "2024-03-28T09:48:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/353",
+      "text": "Integrate Init API with Scholarship"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#352",
+      "time": "2024-03-28T09:48:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/352",
+      "text": "Implement Scholarship application page UI with Building Block"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#351",
+      "time": "2024-03-28T09:47:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/351",
+      "text": "Perform data mapping for Scholarship description page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#350",
+      "time": "2024-03-28T09:47:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/350",
+      "text": "Implement Scholarship description page UI with Building Block"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#349",
+      "time": "2024-03-28T09:47:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/349",
+      "text": "Integrate Scholarship search API with Client Layer and perform data mapping"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#348",
+      "time": "2024-03-28T09:47:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/348",
+      "text": "Implement Scholarship listing page UI with Building Block"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#347",
+      "time": "2024-03-28T09:35:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/347",
+      "text": "Develop Empty Scholarship page UI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#346",
+      "time": "2024-03-28T09:35:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/346",
+      "text": "Integrate Confirm API with Job"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#345",
+      "time": "2024-03-28T09:34:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/345",
+      "text": "Integrate Init API with Job"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#344",
+      "time": "2024-03-28T09:34:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/344",
+      "text": "Integrate Strapi APIs for profile fetch and document upload for Job with Backend"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#343",
+      "time": "2024-03-28T09:34:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/343",
+      "text": "Implement Job application UI with Building Block"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#342",
+      "time": "2024-03-28T09:32:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/342",
+      "text": "Integrate Select API with Job flow"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#341",
+      "time": "2024-03-28T09:32:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/341",
+      "text": "Perform data mapping for Job description"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#340",
+      "time": "2024-03-28T09:32:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/340",
+      "text": "Develop Job description UI with Building Block"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#339",
+      "time": "2024-03-28T09:31:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/339",
+      "text": "Integrate Jobs search API with Client Layer and perform data mapping"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#338",
+      "time": "2024-03-28T09:31:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/338",
+      "text": "Implement Jobs listing page UI with Building Block"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#337",
+      "time": "2024-03-28T09:31:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/337",
+      "text": "Integrate Status API and perform data mapping with Client Layer"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#336",
+      "time": "2024-03-28T09:31:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/336",
+      "text": "Develop Course order details page UI with Building Block"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#335",
+      "time": "2024-03-28T09:30:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/335",
+      "text": "Integrate Confirm API and perform data mapping with Client Layer"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#334",
+      "time": "2024-03-28T09:30:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/334",
+      "text": "Implement Course Confirm Page UI with Building Block"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#333",
+      "time": "2024-03-28T09:28:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/333",
+      "text": "Deploying Climatic Resilience Application in Fide AWS Account"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#332",
+      "time": "2024-03-28T09:28:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/332",
+      "text": "Integrate Init API and perform data mapping on the Course Checkout page with Client Layer"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#331",
+      "time": "2024-03-28T09:27:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/331",
+      "text": "Handle business logic with shipping and billing form"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#330",
+      "time": "2024-03-28T09:27:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/330",
+      "text": "Implement Course Checkout page UI with Building Block"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#329",
+      "time": "2024-03-28T09:26:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/329",
+      "text": "Develop Empty cart UI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#328",
+      "time": "2024-03-28T09:26:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/328",
+      "text": "Integrate Select API with Course Cart page on Client Layer and perform data mapping"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#327",
+      "time": "2024-03-28T09:26:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/327",
+      "text": "Implement Course Cart page UI with Building Block"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#326",
+      "time": "2024-03-28T09:23:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/326",
+      "text": "Integrate Course description API with Client Layer and perform data mapping"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#325",
+      "time": "2024-03-28T09:22:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/325",
+      "text": "Develop Course description page UI with Building Block"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#324",
+      "time": "2024-03-28T09:22:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/324",
+      "text": "Integrate Search API for courses with Client Layer (including data mapping)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#323",
+      "time": "2024-03-28T09:22:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/323",
+      "text": "Implement Search result page UI for courses with Building Block"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#322",
+      "time": "2024-03-28T09:21:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/322",
+      "text": "Develop Homepage UI with Building Block (including app logo, search bar, etc.)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#321",
+      "time": "2024-03-28T09:11:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/321",
+      "text": "Implement Sign up page UI with Building Block"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#320",
+      "time": "2024-03-28T09:07:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/320",
+      "text": "Integrate Sign up API with Frontend"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#319",
+      "time": "2024-03-28T09:06:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/319",
+      "text": "Integrate Authentication APIs with Frontend for Login"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#318",
+      "time": "2024-03-28T08:46:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/318",
+      "text": "Search by location page UI with Building Block"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#317",
+      "time": "2024-03-28T08:31:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/317",
+      "text": "Implement Login Page UI with Building Block"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#315",
+      "time": "2024-03-28T07:24:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/315",
+      "text": "DSEP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#314",
+      "time": "2024-03-28T07:00:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/314",
+      "text": "Create and Configure Generic Client Layer (GCL) Domain Name in Dev Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#313",
+      "time": "2024-03-28T07:00:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/313",
+      "text": "Create EC2 Instance for Generic Client Layer for Staging Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#312",
+      "time": "2024-03-28T06:59:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/312",
+      "text": "Create EC2 Instance for Generic Client Layer for Developer Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#311",
+      "time": "2024-03-28T06:57:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/311",
+      "text": "Create EC2 Instance for Vendure BPP for Production Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#310",
+      "time": "2024-03-28T06:57:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/310",
+      "text": "Create EC2 Instance for Vendure BPP for Staging Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#309",
+      "time": "2024-03-28T06:57:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/309",
+      "text": "Creating Protocol Server (Vendure BPP) and Vendure BPP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#308",
+      "time": "2024-03-28T06:56:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/308",
+      "text": "Create EC2 Instance for Strapi BPP for Production Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#307",
+      "time": "2024-03-28T06:56:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/307",
+      "text": "Create EC2 Instance for Strapi BPP for Staging Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#306",
+      "time": "2024-03-28T06:55:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/306",
+      "text": "Create and Configure Strapi BPP for Dev Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#305",
+      "time": "2024-03-28T06:51:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/305",
+      "text": "Create New Protocol Server BPP for Production environment using ONIX"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#304",
+      "time": "2024-03-28T06:51:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/304",
+      "text": "Create New Protocol Server BPP for Staging Environment using ONIX"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#303",
+      "time": "2024-03-28T06:51:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/303",
+      "text": "Create and Configure Protocol Server (Strapi BPP) using Onix for Dev Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#302",
+      "time": "2024-03-28T06:50:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/302",
+      "text": "Create New Protocol Server BAP for Production Environment using ONIX"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#301",
+      "time": "2024-03-28T06:50:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/301",
+      "text": "Create New Protocol Server BAP for Staging Environment using ONIX"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#300",
+      "time": "2024-03-28T06:49:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/300",
+      "text": "Create and Configure Protocol Server for Dev Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#299",
+      "time": "2024-03-27T20:34:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/299",
+      "text": "Create New Registry for Production environment using ONIX"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#298",
+      "time": "2024-03-27T20:32:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/298",
+      "text": "Create New Registry for Staging environment using ONIX"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#297",
+      "time": "2024-03-27T20:04:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/297",
+      "text": "Create New EC2 Instance for Strapi BPP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#296",
+      "time": "2024-03-27T20:03:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/296",
+      "text": "Create and Configure Registry Domain Name using ONIX in Dev Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#295",
+      "time": "2024-03-27T20:02:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/295",
+      "text": "Create New Gateway for Production environment using ONIX"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#294",
+      "time": "2024-03-27T20:00:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/294",
+      "text": "Create and Configure Gateway using ONIX in Dev Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#293",
+      "time": "2024-03-27T19:52:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/293",
+      "text": "Create New Gateway for Staging environment using ONIX"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#272",
+      "time": "2024-03-18T09:59:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/272",
+      "text": "UX designs for Education BAP for web"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#268",
+      "time": "2024-03-18T06:57:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/268",
+      "text": "EC regression testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#267",
+      "time": "2024-03-18T06:31:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/267",
+      "text": "Regression testing for the IIM Bangalore event demo"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#266",
+      "time": "2024-03-18T06:12:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/266",
+      "text": "Testing activities of EC for the IIM Bangalore event/demo"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#265",
+      "time": "2024-03-18T06:12:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/265",
+      "text": "ONIX testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#271",
+      "time": "2024-03-15T10:49:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/271",
+      "text": "Reporting Bugs in DSEP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#260",
+      "time": "2024-03-15T09:25:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/260",
+      "text": "Services BAP - Implement Appointment booking feature on the service detailed page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#259",
+      "time": "2024-03-15T09:25:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/259",
+      "text": "Services BAP - Develop the selection of services (Ordering and Select) Page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#258",
+      "time": "2024-03-15T09:20:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/258",
+      "text": "Services BAP - Data fetching and mapping for discovery (Search) page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#257",
+      "time": "2024-03-15T09:18:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/257",
+      "text": "Services BAP - Add Filters to Discovery (Search) Page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#256",
+      "time": "2024-03-15T09:17:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/256",
+      "text": "Services BAP - Implement services cards on Discovery (Search) Page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#255",
+      "time": "2024-03-15T09:12:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/255",
+      "text": "Services BAP - Implement Discovery (search) Page for Services BAP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#254",
+      "time": "2024-03-15T09:09:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/254",
+      "text": "Services BAP - Implement Profile Page for Services BAP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#253",
+      "time": "2024-03-15T09:08:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/253",
+      "text": "Services BAP - Develop UI Screens for Home Page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#252",
+      "time": "2024-03-15T09:05:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/252",
+      "text": "Services BAP - Use existing login functionality to create responsive sign-in and sign-up pages"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#251",
+      "time": "2024-03-14T07:05:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/251",
+      "text": "CI / CD pipeline for retail BAP - Staging"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#263",
+      "time": "2024-03-11T15:22:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/263",
+      "text": "Implementation of X-input for industry 4.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#243",
+      "time": "2024-03-07T06:02:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/243",
+      "text": "Interoperability testing with Plotch team"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#242",
+      "time": "2024-03-07T05:58:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/242",
+      "text": "Daily EC sanity check"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#240",
+      "time": "2024-03-06T12:13:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/240",
+      "text": "UX designs for Services BAP for Web"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#237",
+      "time": "2024-03-06T11:39:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/237",
+      "text": "UI Development - Implement Profile Page for Retail BAP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#236",
+      "time": "2024-03-06T10:38:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/236",
+      "text": "UX designs for Education BAP for iPad"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#235",
+      "time": "2024-03-06T10:31:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/235",
+      "text": "UX designs for Services BAP for iPad "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#232",
+      "time": "2024-03-05T07:17:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/232",
+      "text": "CI / CD pipeline for retail BAP - Dev"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#231",
+      "time": "2024-03-05T07:04:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/231",
+      "text": "EC regression testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#230",
+      "time": "2024-03-05T06:28:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/230",
+      "text": "Implementation of components and pages with Styles"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#229",
+      "time": "2024-03-05T06:17:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/229",
+      "text": "Taxi BPP - Implementation of state management"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#228",
+      "time": "2024-03-05T06:13:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/228",
+      "text": "Taxi BPP - Identifying routing pattern and implementing in Next.js app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#227",
+      "time": "2024-03-05T05:44:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/227",
+      "text": "Taxi BPP - Setting Up i18n in React for Taxi BPP Project"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#226",
+      "time": "2024-03-05T05:29:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/226",
+      "text": "Taxi BPP - Identifying Components and Scaffolding the Project"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#225",
+      "time": "2024-03-05T05:22:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/225",
+      "text": "Setting up Packages in the App required in Taxi BPP project"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#224",
+      "time": "2024-03-04T16:05:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/224",
+      "text": "Setting up a New Next.js (v14) Project in Monorepo"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#223",
+      "time": "2024-03-04T14:15:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/223",
+      "text": "DevOps for Retail BAP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#222",
+      "time": "2024-03-04T13:31:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/222",
+      "text": "Project documentation for migration"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#221",
+      "time": "2024-03-04T13:30:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/221",
+      "text": "Demo with internal teams of Retail BAP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#220",
+      "time": "2024-03-04T13:28:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/220",
+      "text": "Testing the Retail BAP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#219",
+      "time": "2024-03-04T13:15:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/219",
+      "text": "PRD Document for Retail BAP/Products"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#218",
+      "time": "2024-03-04T13:12:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/218",
+      "text": "Daily EC sanity check"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#215",
+      "time": "2024-03-01T09:57:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/215",
+      "text": "CI/CD pipeline for Taxi BPP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#214",
+      "time": "2024-03-01T09:40:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/214",
+      "text": "Creation of user guide taxi BPP application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#209",
+      "time": "2024-03-01T06:06:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/209",
+      "text": "Taxi BPP - Review and Modify designs to match new requirements"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#207",
+      "time": "2024-02-28T14:25:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/207",
+      "text": "Documentation of all artifacts related to this project in Confluence"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#206",
+      "time": "2024-02-28T14:24:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/206",
+      "text": "Taxi BPP - Release notes to be published in GitHub"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#205",
+      "time": "2024-02-28T14:22:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/205",
+      "text": "Installation doc for Taxi driver app and Taxi BPP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#204",
+      "time": "2024-02-28T14:21:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/204",
+      "text": "Deployment on AWS - Taxi BPP project"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#203",
+      "time": "2024-02-28T14:18:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/203",
+      "text": "Test case preparations - Taxi BPP project"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#202",
+      "time": "2024-02-28T14:17:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/202",
+      "text": "Postman testing - Taxi BPP project"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#201",
+      "time": "2024-02-28T13:48:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/201",
+      "text": "Taxi BPP - Integration testing with Multi model BAP with the Taxi BPP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#169",
+      "time": "2024-02-27T12:32:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/169",
+      "text": "Analysis and research for production grade BAP for products"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#168",
+      "time": "2024-02-27T09:05:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/168",
+      "text": "UX designs for Retail BAP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#167",
+      "time": "2024-02-27T08:48:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/167",
+      "text": "UEI card with mesh diagram - UI/UX"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#579",
+      "time": "2024-02-27T08:27:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/579",
+      "text": "Improve flow on EC for simplicity and intuitiveness"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#580",
+      "time": "2024-02-27T08:27:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/580",
+      "text": "Validation for Proof of Purchase over Beckn network"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#166",
+      "time": "2024-02-27T07:48:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/166",
+      "text": "Changes in EC screens for demo to Bill Gates"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#165",
+      "time": "2024-02-27T07:48:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/165",
+      "text": "Create new card for Regenerative Agri app on EC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#164",
+      "time": "2024-02-27T07:48:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/164",
+      "text": "EC should be responsive"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#163",
+      "time": "2024-02-27T07:48:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/163",
+      "text": "README file in UI workspace"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#162",
+      "time": "2024-02-27T07:48:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/162",
+      "text": "Migrate the Smart Policy Administration to Beckn UI workspace repo"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#129",
+      "time": "2024-07-11T12:51:57Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/129",
+      "text": "K8s setup for Protocol Server BPP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#128",
+      "time": "2024-07-11T09:19:12Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/128",
+      "text": "K8s Setup for Protocol Server BAP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#123",
+      "time": "2024-07-04T17:22:30Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/123",
+      "text": "Review and Update Vistaar Implementation Guide"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#99",
+      "time": "2024-06-11T13:07:27Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/99",
+      "text": "Verify and document Ubuntu versions for Beckn ONIX"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#96",
+      "time": "2024-06-04T15:11:44Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/96",
+      "text": "Search Provider - Testing New Gateway Instance Using Postman Collections"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#95",
+      "time": "2024-06-04T15:11:23Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/95",
+      "text": "Search Provider - Create New Gateway Instance for BOC Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#77",
+      "time": "2024-04-24T16:47:32Z",
+      "link": "https://github.com/beckn/vendure/issues/77",
+      "text": "Add Support for Multiple Currencies to Vendure BPP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#76",
+      "time": "2024-04-24T15:58:49Z",
+      "link": "https://github.com/beckn/vendure/issues/76",
+      "text": "To add French Catalogs to City Of Lights and OSM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/policy-admin-api#27",
+      "time": "2023-07-21T12:23:40Z",
+      "link": "https://github.com/beckn/policy-admin-api/issues/27",
+      "text": "[C4GT] Creation of reporting and analytics"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/policy-admin-api#26",
+      "time": "2023-07-21T12:22:33Z",
+      "link": "https://github.com/beckn/policy-admin-api/issues/26",
+      "text": "[C4GT] Creation of CRUD order management "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/policy-admin-api#25",
+      "time": "2023-07-20T17:53:27Z",
+      "link": "https://github.com/beckn/policy-admin-api/issues/25",
+      "text": "[C4GT] Creation of catalog and inventory management"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/policy-admin-api#24",
+      "time": "2023-07-20T17:47:02Z",
+      "link": "https://github.com/beckn/policy-admin-api/issues/24",
+      "text": "[C4GT] Create BPP seller registration and login  "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/PULSE-Specification#19",
+      "time": "2023-11-30T06:26:51Z",
+      "link": "https://github.com/beckn/PULSE-Specification/issues/19",
+      "text": "Updates to README.md file "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/DSEP-Specification#170",
+      "time": "2024-01-31T20:16:43Z",
+      "link": "https://github.com/beckn/DSEP-Specification/issues/170",
+      "text": "DSEP Functional Documentation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-strapi-bpp#2",
+      "time": "2024-04-08T14:26:06Z",
+      "link": "https://github.com/beckn/beckn-strapi-bpp/issues/2",
+      "text": "Implementing Enable/Disable Feature for Items in a Catalog within Strapi BPP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/bb-search#1",
+      "time": "2023-08-04T08:34:23Z",
+      "link": "https://github.com/beckn/bb-search/issues/1",
+      "text": "Research - Optimizing search performance in Search BB"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/building-blocks#6",
+      "time": "2023-07-27T13:54:56Z",
+      "link": "https://github.com/beckn/building-blocks/issues/6",
+      "text": "Research for optimizing e-commerce orders"
     }
   ],
   "open_prs": [],

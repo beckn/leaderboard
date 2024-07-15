@@ -1,0 +1,105 @@
+{
+  "last_updated": "2022-12-31T04:35:53Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#334",
+      "time": "2022-12-31T04:35:53Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/334",
+      "text": "Added Descriptor schema in TagGroup and tag and removed name and code "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DSEP-Specification#109",
+      "time": "2023-02-23T10:28:53Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/109",
+      "text": "updated postman collection with working schema"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DSEP-Specification#110",
+      "time": "2023-02-23T10:16:30Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/110",
+      "text": "Added Init Request"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DSEP-Specification#111",
+      "time": "2023-02-23T10:28:20Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/111",
+      "text": "Added response for Init"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DSEP-Specification#112",
+      "time": "2023-02-23T10:19:34Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/112",
+      "text": "Update select request.json to have provider ID"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DSEP-Specification#113",
+      "time": "2023-02-23T10:20:56Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/113",
+      "text": "Update search request - based on job provider.json"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DSEP-Specification#114",
+      "time": "2023-02-23T10:26:34Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/114",
+      "text": "Update search request - based on job title and provider location.json"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DSEP-Specification#115",
+      "time": "2023-02-23T10:25:11Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/115",
+      "text": "Update search request - based on provider and location.json"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DSEP-Specification#116",
+      "time": "2023-02-23T10:22:50Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/116",
+      "text": "Update search request - based on provider and multiple locations.json"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DSEP-Specification#117",
+      "time": "2023-02-23T10:24:18Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/117",
+      "text": "Update search request - only provider location.json"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DSEP-Specification#118",
+      "time": "2023-02-23T13:58:19Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/118",
+      "text": "Create confirm_request.json"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DSEP-Specification#119",
+      "time": "2023-02-23T13:57:48Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/119",
+      "text": "Create status_request.json"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DSEP-Specification#120",
+      "time": "2023-02-25T13:20:57Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/120",
+      "text": "Create on_status_response.json"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DSEP-Specification#121",
+      "time": "2023-02-25T13:20:36Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/121",
+      "text": "Create on_confirm_response.josn"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

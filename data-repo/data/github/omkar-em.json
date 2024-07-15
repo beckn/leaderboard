@@ -1,0 +1,903 @@
+{
+  "last_updated": "2024-07-11T12:13:18Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1504",
+      "time": "2024-07-11T12:13:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1504",
+      "text": "July 08-19 // Internal calls/meetings"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1489",
+      "time": "2024-07-09T11:57:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1489",
+      "text": "In migrated EC ODR app, if the search text is removed or the backspace button is used, the search results get duplicated."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1473",
+      "time": "2024-07-08T07:06:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1473",
+      "text": "In the migrated EC apps, if an incorrect search keyword is entered, the search fails."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1468",
+      "time": "2024-07-05T06:00:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1468",
+      "text": "Issue with Changing Details on Billing & Shipping Page in Migrated EC Apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1461",
+      "time": "2024-07-03T09:11:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1461",
+      "text": "Load Testing for Beckn Application (Horizontal Scaling)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1460",
+      "time": "2024-07-03T09:10:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1460",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1459",
+      "time": "2024-07-03T09:09:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1459",
+      "text": "POC on JMeter for load Test"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1458",
+      "time": "2024-07-03T08:59:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1458",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1457",
+      "time": "2024-07-03T07:56:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1457",
+      "text": "June 10-17 // Internal calls/meetings"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1456",
+      "time": "2024-07-03T07:24:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1456",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1454",
+      "time": "2024-07-03T06:25:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1454",
+      "text": "Weekly Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1445",
+      "time": "2024-07-01T13:04:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1445",
+      "text": "In the tourism apps, when updating an order, if the pin code is invalid, the update API call does not occur, and the loader keeps rotating continuously."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1442",
+      "time": "2024-07-01T11:47:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1442",
+      "text": "In the migrated EC apps, tourism apps, and retail apps, the toast message is not being displayed upon the submission of a review."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1434",
+      "time": "2024-06-28T10:52:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1434",
+      "text": "In the migrated EC apps, after navigating to an empty cart, the select API is failing."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1428",
+      "time": "2024-06-28T07:16:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1428",
+      "text": "In Industry 4.0 app-Users should be prevented from proceeding with sign-in until the password validation errors are resolved."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1427",
+      "time": "2024-06-28T07:13:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1427",
+      "text": "In Tourism app-Users should be prevented from proceeding with sign-in until the password validation errors are resolved."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1426",
+      "time": "2024-06-28T07:10:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1426",
+      "text": "In DSNP app-Users should be prevented from proceeding with sign-in until the password validation errors are resolved."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1414",
+      "time": "2024-06-26T15:07:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1414",
+      "text": "Load Testing for Beckn Application (Vertical Scaling)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1396",
+      "time": "2024-06-25T10:18:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1396",
+      "text": "In DSNP app-Users should be prevented from proceeding with sign-in until the password validation errors are resolved and only specific essential fields should be mandatory"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1395",
+      "time": "2024-06-25T10:15:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1395",
+      "text": "In DSNP app-Users should be prevented from proceeding with sign-in until the password validation errors are resolved and only specific essential fields should be mandatory"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1394",
+      "time": "2024-06-25T09:54:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1394",
+      "text": "In OSC app-Users should be prevented from proceeding with sign-in until the password validation errors are resolved and only specific essential fields should be mandatory."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1392",
+      "time": "2024-06-25T08:48:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1392",
+      "text": "Meetings"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1391",
+      "time": "2024-06-25T08:26:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1391",
+      "text": "In a DSEP app-Users should be prevented from proceeding with sign-in until the password validation errors are resolved."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1389",
+      "time": "2024-06-25T07:36:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1389",
+      "text": "In ODR app-Users should be prevented from proceeding with sign-in until the password validation errors are resolved."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1388",
+      "time": "2024-06-25T07:19:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1388",
+      "text": "In a retail app-Users should be prevented from proceeding with sign-in until the password validation errors are resolved."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1387",
+      "time": "2024-06-25T07:16:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1387",
+      "text": "In a retail app-Users should be prevented from proceeding with sign-in until the password validation errors are resolved"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1385",
+      "time": "2024-06-25T06:54:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1385",
+      "text": "In the ODR app, the search functionality is failing."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1383",
+      "time": "2024-06-24T15:32:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1383",
+      "text": "Review Updated Test Cases for EC Applications"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1380",
+      "time": "2024-06-24T09:32:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1380",
+      "text": "The old EC, The landing screen of the tourism app is displaying an error."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1376",
+      "time": "2024-06-21T07:20:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1376",
+      "text": "The old EC apps have stopped working."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1368",
+      "time": "2024-06-20T06:31:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1368",
+      "text": "In the old EC apps, during item checkout, the \"initialize order API\" fails, preventing users from completing the checkout process."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1367",
+      "time": "2024-06-19T14:01:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1367",
+      "text": "EC Migrated Development Testing for Backend API Changes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1209",
+      "time": "2024-06-07T06:53:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1209",
+      "text": "Old EC Apps-search  is not working across all EC apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1198",
+      "time": "2024-06-06T08:08:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1198",
+      "text": "ODR - App crashes if init doesn't pass billing address"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1194",
+      "time": "2024-06-05T08:05:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1194",
+      "text": "Cosmetic changes need to be made in the EC migrated app."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1191",
+      "time": "2024-06-05T06:21:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1191",
+      "text": "In the payment page of the OSC app, the PhonePe UPI name field should be disabled under the UPI payment option"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1187",
+      "time": "2024-06-05T05:55:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1187",
+      "text": "Migrated app-Need to add validation to application that has x input form."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1182",
+      "time": "2024-06-03T06:13:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1182",
+      "text": "Industry 4.0 - remove location access dependency to display search response"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1181",
+      "time": "2024-06-01T09:55:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1181",
+      "text": "In the migrated app, after placing an order, the order progress summary shows the current time."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1180",
+      "time": "2024-06-01T09:36:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1180",
+      "text": "In the migrated app, the order is not being updated after being placed."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1173",
+      "time": "2024-05-31T06:57:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1173",
+      "text": "In the migrated OSC app, After searching for a product and adding it to the cart, the search results disappear when going back"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1171",
+      "time": "2024-05-31T06:35:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1171",
+      "text": "In the migrated app, Need to change the search keyword on the instruction page of the City of Lights app."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1165",
+      "time": "2024-05-30T11:00:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1165",
+      "text": "EC - When a user attempts to register with a phone number that is already registered, the profile API fails"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1163",
+      "time": "2024-05-30T10:31:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1163",
+      "text": "Himalaya App-There is no need for translation in the Himalayas."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1162",
+      "time": "2024-05-30T10:17:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1162",
+      "text": "Industry 4.0-The 10 endpoints implemented in the migrated apps also need to be implemented in Industry 4.0, along with the logout and my profile buttons in the three-dot menu."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1158",
+      "time": "2024-05-30T07:54:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1158",
+      "text": "In the EC migrated app, time should be in the proper format, like 1.09 and not 1.9."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1156",
+      "time": "2024-05-30T07:12:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1156",
+      "text": "In the EC migrated app, when shipping and billing details are changed, they are not updating on the order details page after checkout."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1155",
+      "time": "2024-05-29T14:35:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1155",
+      "text": "In the industry 4.0 app, after logging in with a new account, the app logs out when clicking the create new workflow button in order history."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1154",
+      "time": "2024-05-29T14:25:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1154",
+      "text": "In ODR Migrated app-when cancelling an order, the order summary shows 'reason on order cancelled' instead of 'cancelled'."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1153",
+      "time": "2024-05-29T13:54:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1153",
+      "text": "In ODR Migrated app- search is failing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1152",
+      "time": "2024-05-29T12:40:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1152",
+      "text": "In Himalayas Migrated app- search is failing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1151",
+      "time": "2024-05-29T12:32:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1151",
+      "text": "In kuza one-The profile call is failing for the new ID and password, but not for the existing ones"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1150",
+      "time": "2024-05-29T12:29:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1150",
+      "text": "OSM Migrated -While searching for restaurants, showing wrong catalogue."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1149",
+      "time": "2024-05-29T12:11:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1149",
+      "text": "EC - Updating billing and shipping details are not updating in BPP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1131",
+      "time": "2024-05-29T06:10:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1131",
+      "text": "EC - Incorrect Requirement for Unique Usernames During Signup"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1125",
+      "time": "2024-05-28T10:21:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1125",
+      "text": "DSNP Migrated -Unable to post review in dsnp app after product checkout"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1124",
+      "time": "2024-05-28T09:08:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1124",
+      "text": "Triaging and Troubleshooting Calls and Meetings"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1123",
+      "time": "2024-05-28T09:08:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1123",
+      "text": "Weekly QA Activities"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1098",
+      "time": "2024-05-27T07:59:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1098",
+      "text": "DSEP - DSEP Payment Total Issue on checkout page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1091",
+      "time": "2024-05-27T05:34:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1091",
+      "text": "ODR Migration-In ODR, In the complaint details name and mobile number are showing empty."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1089",
+      "time": "2024-05-24T13:28:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1089",
+      "text": "ODR Migration-Order history is not reflecting in my cases."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1088",
+      "time": "2024-05-24T13:26:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1088",
+      "text": "ODR Migration-Claimant Details should be replaced with Complainant Details, on order details page in ODR"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1079",
+      "time": "2024-05-24T07:53:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1079",
+      "text": "Kuza One - Cosmetic UI Changes in Kuza One Application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1067",
+      "time": "2024-05-24T05:59:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1067",
+      "text": "DSEP Migrated - price mismatch in the payment section of the DSEP app."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1051",
+      "time": "2024-05-22T13:57:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1051",
+      "text": "In Migrated apps--after logging out and then clicking on signup, if you sign in, the user gets logged into the app without credentials"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1050",
+      "time": "2024-05-22T13:42:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1050",
+      "text": "In Migrated apps-If any name is entered in the shipping, it changes to 'Lisa NA' on the order details page."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1049",
+      "time": "2024-05-22T13:34:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1049",
+      "text": "In Migrated apps--In my profile, details are not saving."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1048",
+      "time": "2024-05-22T12:58:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1048",
+      "text": "In Migrated apps-showing current time for order placed in invoice details page-"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1047",
+      "time": "2024-05-22T12:56:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1047",
+      "text": "In Migrated apps-showing NA in surname for on order details"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1046",
+      "time": "2024-05-22T12:52:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1046",
+      "text": "In the OSM migrated app, On order cancellation page, order ID is not present, and User should not get cart icon on page."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1037",
+      "time": "2024-05-22T05:28:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1037",
+      "text": "DSEP - Wrong long description in product details page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1031",
+      "time": "2024-05-21T11:14:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1031",
+      "text": "Tourism-In the Himalaya migrated app, the order history functionality should be implemented as per the Figma design"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#978",
+      "time": "2024-05-15T10:00:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/978",
+      "text": "QA for retail BAP end to end for OpenStreetCommerce application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#977",
+      "time": "2024-05-15T10:00:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/977",
+      "text": "QA for retail and toursim BAP end to end for Tryst with Himalaya application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#955",
+      "time": "2024-05-14T10:43:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/955",
+      "text": "EC - Instruction button is not visible when direct app url is used"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#953",
+      "time": "2024-05-14T09:49:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/953",
+      "text": "OSC - Getting invalid zip code error"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#926",
+      "time": "2024-05-13T09:15:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/926",
+      "text": "In the City of Light migrated app, at the checkout page, while saving travellers details, init is failing, showing a \"400 Bad Request\" error."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#924",
+      "time": "2024-05-13T08:58:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/924",
+      "text": "DSNP-In the DSNP migrated app, on the billing and shipping details page, the zip code is appearing as a 5-digit code, which is showing an error as \"Invalid zip code\"."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#923",
+      "time": "2024-05-13T08:52:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/923",
+      "text": "DSNP-In the DSNP migrated app, users can log in without using the Polkdot js extension."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#919",
+      "time": "2024-05-13T06:45:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/919",
+      "text": "DSEP-In the DSEP migrated app, there is a price mismatch, as the course fee is showing as zero."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#910",
+      "time": "2024-05-10T09:29:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/910",
+      "text": "DSEP - App is not visible properly in dark mode"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#909",
+      "time": "2024-05-10T09:19:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/909",
+      "text": "OSM-On the \"Add Shipping Details\" page, the mobile number field is empty."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#908",
+      "time": "2024-05-10T08:55:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/908",
+      "text": "In the OSM app, after deleting an item added to the cart, the empty cart page should be aligned properly."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#907",
+      "time": "2024-05-10T08:50:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/907",
+      "text": "OSM-After clicking on the cart icon on the search result page, the app is crashing."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#906",
+      "time": "2024-05-10T08:44:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/906",
+      "text": "OSM-On the order details page, the \"Cancel Order\" button is not functioning."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#905",
+      "time": "2024-05-10T08:38:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/905",
+      "text": "OSM-In the OSM app, the cancel button is not functioning properly, when click in three dots"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#904",
+      "time": "2024-05-10T08:19:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/904",
+      "text": "OSM-There is a mismatch between the total amount and the order summary amount in the OSM app."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#903",
+      "time": "2024-05-10T08:12:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/903",
+      "text": "Search is failing across all Migrated EC apps."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#902",
+      "time": "2024-05-10T08:06:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/902",
+      "text": "OSM-In the OSM app .the app crashes when attempting to delete an item from the cart."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#899",
+      "time": "2024-05-10T05:10:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/899",
+      "text": "Ind 4.0 - Scrolling is not working Ind4.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#892",
+      "time": "2024-05-09T11:02:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/892",
+      "text": "DSEP-In the DSEP app, on the order details page, \"NA\" is being displayed in the payment method section"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#889",
+      "time": "2024-05-09T08:11:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/889",
+      "text": "DSEP-In the DSEP app, in the \"Apply scholarship\" functionality, the text and text boxes are not properly aligned"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#888",
+      "time": "2024-05-09T08:04:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/888",
+      "text": "DSEP-In the DSEP app, in the \"Apply Job\" functionality, the text and text boxes are not properly aligned"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#887",
+      "time": "2024-05-09T07:55:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/887",
+      "text": "DSEP-In the DSEP app, after placing an order for a course, billing details cannot be edited on the order history page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#873",
+      "time": "2024-05-08T10:11:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/873",
+      "text": "Retail app-In the retail flow, after deleting an item added to the cart, the empty cart page should be aligned properly."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#867",
+      "time": "2024-05-07T11:28:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/867",
+      "text": "OSM-The search functionality is not working in the app."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#866",
+      "time": "2024-05-07T11:14:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/866",
+      "text": "Industry 4.0-While checkout service, application is crashing Showing error message as request failed with status code 500"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#865",
+      "time": "2024-05-07T09:58:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/865",
+      "text": "ODR-In the ODR app, when searching, pressing the backspace key is causing the search keyword to be pasted."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#864",
+      "time": "2024-05-07T09:53:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/864",
+      "text": "ODR Staging-The search functionality is not working in the app."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#858",
+      "time": "2024-05-06T09:46:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/858",
+      "text": "Himalaya-In the retail flow , after searching for sunglasses, the images are appearing cropped."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#857",
+      "time": "2024-05-06T09:42:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/857",
+      "text": "Himalaya-In the Himalaya app's retail flow,  .the app crashes when attempting to delete an item from the cart."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#856",
+      "time": "2024-05-06T09:25:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/856",
+      "text": "Himalaya - The search page's filter section is missing a cancel button"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#840",
+      "time": "2024-05-02T13:17:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/840",
+      "text": "DSNP-In Order history of DSNP app is showing wrong timing."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#839",
+      "time": "2024-05-02T13:13:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/839",
+      "text": "DSNP-On the invoice details page, when clicking on the invoice icon in the top right corner, it displaying a QR code."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#837",
+      "time": "2024-05-02T13:04:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/837",
+      "text": "DSNP-The UI of Kuza One is being reflected in the DSNP app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#836",
+      "time": "2024-05-02T12:53:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/836",
+      "text": "DSNP - The order history from the Himalaya app is appearing in the DSNP app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#815",
+      "time": "2024-04-30T11:31:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/815",
+      "text": "Open Amsterdam Staging - Unable to checkout product"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#814",
+      "time": "2024-04-30T11:27:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/814",
+      "text": "Smart Gambia - Driver login showing error"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#813",
+      "time": "2024-04-30T11:19:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/813",
+      "text": "ODR - Issue in order history"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#812",
+      "time": "2024-04-30T11:15:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/812",
+      "text": "Industry 4.0 - Unable to checkout sevice"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#798",
+      "time": "2024-04-29T13:02:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/798",
+      "text": "Weekly regression testing on EC apps"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#797",
+      "time": "2024-04-29T12:58:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/797",
+      "text": "Daily application health check"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#595",
+      "time": "2024-04-16T14:16:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/595",
+      "text": "Daily application health check"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#594",
+      "time": "2024-04-16T14:16:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/594",
+      "text": "Weekly regression task"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#589",
+      "time": "2024-04-16T10:55:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/589",
+      "text": "DSEP - The payment functionality has not been implemented."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#588",
+      "time": "2024-04-16T10:54:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/588",
+      "text": "DSEP - The total is not becoming zero during checkout."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#587",
+      "time": "2024-04-16T10:54:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/587",
+      "text": "DSEP - Success message is in Bold"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#586",
+      "time": "2024-04-16T10:49:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/586",
+      "text": "DSEP - My learning button showing --404 error"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#585",
+      "time": "2024-04-16T10:48:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/585",
+      "text": "DSEP - After checking out the course, the number on the cart keeps increasing. Cart no is not resetting"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#584",
+      "time": "2024-04-16T10:45:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/584",
+      "text": "DSEP - Apply Job is not working"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#583",
+      "time": "2024-04-16T10:45:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/583",
+      "text": "DSEP - Order history showing App error"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#582",
+      "time": "2024-04-16T10:45:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/582",
+      "text": "DSEP - App crashing for Apply Scholarship"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#573",
+      "time": "2024-04-16T06:21:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/573",
+      "text": "DSEP - UI issue for landing screen"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#286",
+      "time": "2024-03-22T08:05:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/286",
+      "text": "Update instructions tab across the EC apps"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#280",
+      "time": "2024-03-20T09:40:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/280",
+      "text": "Debugging call for UEI - Demo @ IIM"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#279",
+      "time": "2024-03-20T06:50:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/279",
+      "text": "Bug in mobility flow for Gambia"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#264",
+      "time": "2024-03-18T06:10:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/264",
+      "text": "Debugging call for DSEP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#90",
+      "time": "2024-05-16T14:22:46Z",
+      "link": "https://github.com/beckn/vendure/issues/90",
+      "text": "Vendure - Chnaging customer name changes older orders"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

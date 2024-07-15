@@ -1,0 +1,14 @@
+{
+  "last_updated": "2023-10-30T07:32:02Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-specifications#387",
+      "time": "2023-10-30T07:32:02Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/387",
+      "text": "added GitHubAction to validate meta.yaml, transaction.yaml, registry.yaml #374"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

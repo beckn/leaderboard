@@ -1,0 +1,91 @@
+{
+  "last_updated": "2022-12-31T16:19:05Z",
+  "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#343",
+      "time": "2022-12-31T16:19:05Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/343",
+      "text": "ttl type inconsistent"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#272",
+      "time": "2022-07-10T17:19:44Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/272",
+      "text": "Unsolicited on_cancel"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#208",
+      "time": "2022-03-10T09:44:45Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/208",
+      "text": "Pub sub Proposal"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#275",
+      "time": "2022-08-03T02:40:06Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/275",
+      "text": "Schema fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#308",
+      "time": "2022-08-25T10:08:58Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/308",
+      "text": "Split big core yaml into smaller files for maintainabilty"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#333",
+      "time": "2022-12-20T05:47:30Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/333",
+      "text": "Token id not found error"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#381",
+      "time": "2023-09-21T09:01:32Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/381",
+      "text": "Search provider feature"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-specifications#419",
+      "time": "2024-03-09T13:00:12Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/419",
+      "text": "Fixes from protocol server repo"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-specifications#432",
+      "time": "2024-06-24T16:07:43Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/432",
+      "text": "incorrect schema pointer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-one#2",
+      "time": "2022-01-16T11:48:37Z",
+      "link": "https://github.com/beckn/beckn-one/pull/2",
+      "text": "New idea"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/registry#13",
+      "time": "2022-04-08T12:57:34Z",
+      "link": "https://github.com/beckn/registry/issues/13",
+      "text": "Request header 'pub_key_format' can be passed as 'pem' "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/logistics#9",
+      "time": "2021-12-21T17:59:14Z",
+      "link": "https://github.com/beckn/logistics/issues/9",
+      "text": "Standard Enums for item categories."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

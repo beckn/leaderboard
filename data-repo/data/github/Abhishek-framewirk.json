@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-11-09T09:56:59Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#57",
+      "time": "2020-11-09T09:56:59Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/57",
+      "text": "Removing $id and $schema from core schema files due to error in swagger-cli validator"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#58",
+      "time": "2020-11-10T08:17:19Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/58",
+      "text": "Bug Fix: unknown format 'datetime' is used in schema at path '#/properties/exp'"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,280 @@
+{
+  "last_updated": "2022-12-20T10:27:18Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#1",
+      "time": "2022-12-20T10:27:18Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/1",
+      "text": "initial react-boilerplate"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#7",
+      "time": "2022-12-22T20:33:15Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/7",
+      "text": "experience_id"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#8",
+      "time": "2022-12-22T21:19:08Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/8",
+      "text": "fixed Qr Code Button"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#9",
+      "time": "2022-12-22T21:46:23Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/9",
+      "text": "fixed url"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#10",
+      "time": "2022-12-23T08:57:11Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/10",
+      "text": "fixed url"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#11",
+      "time": "2022-12-23T11:11:47Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/11",
+      "text": "feedback"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#12",
+      "time": "2022-12-23T12:17:23Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/12",
+      "text": "fixed event message"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#13",
+      "time": "2022-12-26T06:40:06Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/13",
+      "text": "Fix/arrow alignment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#14",
+      "time": "2022-12-27T07:01:34Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/14",
+      "text": "fixed doubleArrow"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#15",
+      "time": "2022-12-28T05:39:32Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/15",
+      "text": "fixed doubleArrows"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#16",
+      "time": "2022-12-29T05:57:43Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/16",
+      "text": "implemented exp api v2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#17",
+      "time": "2022-12-29T09:08:39Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/17",
+      "text": "smooth transition functionality"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#19",
+      "time": "2022-12-29T13:37:52Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/19",
+      "text": "fixed video error"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#21",
+      "time": "2022-12-30T07:08:55Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/21",
+      "text": "fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#25",
+      "time": "2022-12-30T09:27:00Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/25",
+      "text": "Fixes/fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#26",
+      "time": "2022-12-30T09:42:33Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/26",
+      "text": "fixed eventsource"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#31",
+      "time": "2022-12-30T18:01:58Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/31",
+      "text": "fixed smooth page transition"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#32",
+      "time": "2023-01-02T06:32:52Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/32",
+      "text": "fixed arrows"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#33",
+      "time": "2023-01-03T06:07:38Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/33",
+      "text": "implemented viewMyJrny v1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#34",
+      "time": "2023-01-03T10:13:34Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/34",
+      "text": "fixed doubleArrows"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#40",
+      "time": "2023-01-04T08:36:39Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/40",
+      "text": "fixed mergeConflict"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#43",
+      "time": "2023-01-04T10:57:28Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/43",
+      "text": "fixed arrows at down of the rider"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#45",
+      "time": "2023-01-04T14:10:45Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/45",
+      "text": "Fix/focus double arrows"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#46",
+      "time": "2023-01-04T16:23:47Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/46",
+      "text": "fixed arrowAlignment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#47",
+      "time": "2023-01-05T06:30:12Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/47",
+      "text": "fixed dynamic viewmyjrny v3 1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#49",
+      "time": "2023-01-05T08:45:42Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/49",
+      "text": "fixed doubleArrows for Whatsapp"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#50",
+      "time": "2023-01-05T11:14:33Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/50",
+      "text": "fixed arrow"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#51",
+      "time": "2023-01-06T08:34:10Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/51",
+      "text": "added whatsapp logo in viewMyJrny and some css fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#52",
+      "time": "2023-01-10T07:51:22Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/52",
+      "text": "created contextApi"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#56",
+      "time": "2023-01-12T06:14:30Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/56",
+      "text": "Feature/antd implementaion"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#67",
+      "time": "2023-01-23T17:14:24Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/67",
+      "text": "fixed active colours"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#69",
+      "time": "2023-01-24T08:20:23Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/69",
+      "text": "fixed pickup location on top of the nodes for all nodes and fixed bapMessage and bppMessage"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#71",
+      "time": "2023-01-24T09:41:40Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/71",
+      "text": "fixed instersecting arrow on gateway"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#74",
+      "time": "2023-01-30T10:11:37Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/74",
+      "text": "fixed nodeLabels"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#76",
+      "time": "2023-02-02T10:29:32Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/76",
+      "text": "removed unused dependency"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#77",
+      "time": "2023-02-02T11:37:11Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/77",
+      "text": "fixed ids"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#79",
+      "time": "2023-02-06T06:24:47Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/79",
+      "text": "removed double arrows"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#81",
+      "time": "2023-02-08T04:49:28Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/81",
+      "text": "fixed label design"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-ui#85",
+      "time": "2023-02-08T11:32:45Z",
+      "link": "https://github.com/beckn/beckn-exp-ui/pull/85",
+      "text": "fixed label design v2"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

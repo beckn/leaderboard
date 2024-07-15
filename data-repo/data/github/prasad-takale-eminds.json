@@ -21,6 +21,153 @@
       "time": "2024-05-22T12:02:01Z",
       "link": "https://github.com/beckn/protocol-server/pull/148",
       "text": "Devops"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#13",
+      "time": "2023-05-24T18:49:32Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/13",
+      "text": "Revert \"updated response for umtc\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#46",
+      "time": "2023-10-12T18:00:36Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/46",
+      "text": "Devops"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox-webhook#13",
+      "time": "2023-10-12T17:49:34Z",
+      "link": "https://github.com/beckn/beckn-sandbox-webhook/pull/13",
+      "text": "Devops"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/policy-admin-api#18",
+      "time": "2023-12-28T04:52:04Z",
+      "link": "https://github.com/beckn/policy-admin-api/pull/18",
+      "text": "Added Jenkinsfile"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-utilities#68",
+      "time": "2024-03-08T11:10:27Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/68",
+      "text": "Devops"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-utilities#85",
+      "time": "2024-03-15T16:45:34Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/85",
+      "text": "Fixed issue with start beckn v2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-utilities#90",
+      "time": "2024-03-16T14:54:27Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/90",
+      "text": "Devops"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-utilities#91",
+      "time": "2024-03-16T17:07:32Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/91",
+      "text": "Fixed docker installation issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-utilities#96",
+      "time": "2024-03-18T08:42:58Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/96",
+      "text": "Fixed typo in start_beckn_v2.sh"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#46",
+      "time": "2023-09-05T12:48:16Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/46",
+      "text": "French localisation develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#68",
+      "time": "2023-10-10T03:41:03Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/68",
+      "text": "Staging"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#71",
+      "time": "2023-10-13T10:12:39Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/71",
+      "text": "Update Jenkinsfile_S3"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/OSM-app#88",
+      "time": "2023-07-13T11:23:55Z",
+      "link": "https://github.com/beckn/OSM-app/pull/88",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/mobility-bap-client-layer#34",
+      "time": "2024-01-16T14:10:34Z",
+      "link": "https://github.com/beckn/mobility-bap-client-layer/pull/34",
+      "text": "Staging"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/OSM-backend#1",
+      "time": "2023-06-16T13:40:10Z",
+      "link": "https://github.com/beckn/OSM-backend/pull/1",
+      "text": "Create Jenkinsfile"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/OSM-backend#15",
+      "time": "2023-10-20T07:11:51Z",
+      "link": "https://github.com/beckn/OSM-backend/pull/15",
+      "text": "Create Dockerfile"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/OSM-backend#16",
+      "time": "2023-10-20T07:12:37Z",
+      "link": "https://github.com/beckn/OSM-backend/pull/16",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/OSM-backend#17",
+      "time": "2023-10-20T07:12:57Z",
+      "link": "https://github.com/beckn/OSM-backend/pull/17",
+      "text": "Staging"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/PCM-backend#2",
+      "time": "2023-06-16T13:04:42Z",
+      "link": "https://github.com/beckn/PCM-backend/pull/2",
+      "text": "Added Jenkinsfile for CICD"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/experience-gpt-api#12",
+      "time": "2023-04-27T14:47:50Z",
+      "link": "https://github.com/beckn/experience-gpt-api/pull/12",
+      "text": "Update controller.ts"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/policy-admin-ui#12",
+      "time": "2023-09-11T10:00:31Z",
+      "link": "https://github.com/beckn/policy-admin-ui/pull/12",
+      "text": "Create Jenkinsfile_S3"
     }
   ],
   "open_prs": [],

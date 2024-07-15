@@ -70,6 +70,20 @@
       "time": "2022-04-06T11:37:55Z",
       "link": "https://github.com/beckn/protocol-server/pull/11",
       "text": "Bpp result"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#243",
+      "time": "2022-03-24T11:29:23Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/243",
+      "text": "The format of the `id` which is a property of `Item` is invalid."
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#244",
+      "time": "2022-05-05T08:11:23Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/244",
+      "text": "Solution for Issue #243"
     }
   ],
   "open_prs": [],

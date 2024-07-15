@@ -1,0 +1,14 @@
+{
+  "last_updated": "2023-11-27T11:09:00Z",
+  "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/bpp-adapter#1",
+      "time": "2023-11-27T11:09:00Z",
+      "link": "https://github.com/beckn/bpp-adapter/issues/1",
+      "text": "Could consider removing node_modules"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

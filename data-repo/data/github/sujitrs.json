@@ -1,0 +1,21 @@
+{
+  "last_updated": "2021-12-18T05:27:07Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/DSEP-Specification#1",
+      "time": "2021-12-18T05:27:07Z",
+      "link": "https://github.com/beckn/DSEP-Specification/issues/1",
+      "text": "Schemas to be defined for Skill, Employment, and education entities "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DSEP-Specification#10",
+      "time": "2021-12-30T10:43:33Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/10",
+      "text": "Create Home.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

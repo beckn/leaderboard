@@ -1,0 +1,35 @@
+{
+  "last_updated": "2020-08-04T19:10:08Z",
+  "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#23",
+      "time": "2020-08-04T19:10:08Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/23",
+      "text": "Spec does not validate against OpenAPI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#19",
+      "time": "2020-06-18T14:26:13Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/19",
+      "text": "The price type might be lossy for implementations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#27",
+      "time": "2020-08-20T18:43:22Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/27",
+      "text": "Fmd fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#32",
+      "time": "2020-08-20T18:46:27Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/32",
+      "text": "Mobility fixes"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

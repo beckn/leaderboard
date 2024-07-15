@@ -196,6 +196,1273 @@
       "time": "2024-01-30T12:34:01Z",
       "link": "https://github.com/beckn/protocol-server/pull/79",
       "text": "Update local-setup.md"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-sandbox#116",
+      "time": "2024-04-18T09:40:58Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/116",
+      "text": "Example JSON documentation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#114",
+      "time": "2024-04-17T05:31:46Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/114",
+      "text": "Postman collection for all the domains - "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#111",
+      "time": "2024-03-22T05:32:10Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/111",
+      "text": "Postman collection for all supported domain with base url as protocol server and generic client layer"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#101",
+      "time": "2024-03-07T11:09:03Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/101",
+      "text": "Enhance sandbox to use Strapi BPP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-sandbox#99",
+      "time": "2024-03-06T07:04:21Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/99",
+      "text": "Combine webhook source code in beckn-sandbox source code"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#98",
+      "time": "2024-03-01T10:44:40Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/98",
+      "text": "Inconsistency in sandbox artifacts"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-sandbox#97",
+      "time": "2024-03-01T10:36:59Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/97",
+      "text": "Inconsistency in ODR artifacts "
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-sandbox#118",
+      "time": "2024-04-19T16:38:39Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/118",
+      "text": "Unified Postman collection for Sandbox,Strapi and Generic client layer"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#591",
+      "time": "2024-03-13T09:53:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/591",
+      "text": "List shops under BPPs in production and Dev/Staging environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#245",
+      "time": "2024-03-11T08:59:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/245",
+      "text": "List all the of  details of the shops / facilities for experience / reference apps"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#133",
+      "time": "2024-01-16T10:15:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/133",
+      "text": "Update issue templates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#273",
+      "time": "2024-03-18T16:31:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/273",
+      "text": "Update README.md"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#36",
+      "time": "2024-04-03T04:09:28Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/36",
+      "text": "Formatting needs correction in FAQ section"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#35",
+      "time": "2024-04-03T04:06:10Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/35",
+      "text": "NGINX configuration link is not working"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#3",
+      "time": "2024-03-22T07:57:33Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/3",
+      "text": "beckn-onix github correction"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#2",
+      "time": "2024-03-22T07:46:00Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/2",
+      "text": "Enhance beckn-onix to support system upgrade without losing previous data"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#1",
+      "time": "2024-03-22T06:44:46Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/1",
+      "text": "ONIX- Add ability to script to upgrade installed components"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#42",
+      "time": "2024-03-11T06:17:08Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/42",
+      "text": "Kubernetes deployment scripts for Protocol server"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#43",
+      "time": "2024-03-06T12:44:43Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/43",
+      "text": "Kubernetes deployment scripts for beckn-sandbox"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#44",
+      "time": "2024-03-06T12:42:38Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/44",
+      "text": "Kubernetes deployment script for sandbox-webhook"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#45",
+      "time": "2024-03-06T10:30:19Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/45",
+      "text": "ONIX - Kubernetes deployment scripts - Parent ticket"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#46",
+      "time": "2024-03-06T09:44:52Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/46",
+      "text": "ONIX - Load test  - script/plan"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#47",
+      "time": "2024-03-06T09:16:25Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/47",
+      "text": "ONIX - load testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#51",
+      "time": "2024-02-15T08:08:03Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/51",
+      "text": "ONIX V 0.3 enhancements "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/Unified-Energy-Interface#15",
+      "time": "2024-06-26T05:50:24Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/15",
+      "text": "Created Issue Template"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-bap-user-strapi#1",
+      "time": "2024-03-07T10:03:01Z",
+      "link": "https://github.com/beckn/beckn-bap-user-strapi/issues/1",
+      "text": "Documentation for beckn-bap-user-strapi repository"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#79",
+      "time": "2024-04-03T10:26:19Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/79",
+      "text": "Location based search"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#78",
+      "time": "2024-04-03T10:21:48Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/78",
+      "text": "Keyword based search"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#77",
+      "time": "2024-04-03T09:53:32Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/77",
+      "text": "Tag based search"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#70",
+      "time": "2024-03-22T05:59:24Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/70",
+      "text": "Strapi data seeding mechanism"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#69",
+      "time": "2024-03-22T05:45:49Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/69",
+      "text": "Catalog creation for retail"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#64",
+      "time": "2024-03-15T13:47:06Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/64",
+      "text": "EV catalog in Strapi BPP instance"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#63",
+      "time": "2024-03-15T13:24:56Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/63",
+      "text": "Enhance and test the plugin for EV charging use case"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#62",
+      "time": "2024-03-13T10:53:23Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/62",
+      "text": "Meta API - get_rating_categories"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#61",
+      "time": "2024-03-13T10:50:44Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/61",
+      "text": "Meta API - get_return_reasons"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#60",
+      "time": "2024-03-13T10:47:21Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/60",
+      "text": "Meta API - get_cancellation_reasons"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#59",
+      "time": "2024-03-11T11:32:31Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/59",
+      "text": "Enhance the strapi plugin to populate data model with dummy data"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#57",
+      "time": "2024-03-11T09:35:56Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/57",
+      "text": "Enhance strapi BPP plugin to create data model on installation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#56",
+      "time": "2024-03-08T08:56:17Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/56",
+      "text": "Location based search (GPS) in Strapi plugin"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#53",
+      "time": "2024-03-08T06:39:51Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/53",
+      "text": "Location based search (String values) in Strapi plugin"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#52",
+      "time": "2024-03-07T09:51:43Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/52",
+      "text": "Documentation for strapi plugins repository - ReadMe.md"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#49",
+      "time": "2024-03-06T05:22:17Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/49",
+      "text": "E2E test for Industry 4.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#45",
+      "time": "2024-03-05T06:44:25Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/45",
+      "text": "Implement Support API for Strapi plugin"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#40",
+      "time": "2024-02-28T12:13:58Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/40",
+      "text": "Unit test case for Strapi plugin - cancel and rating endpoints"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#39",
+      "time": "2024-02-28T12:06:45Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/39",
+      "text": "Unit test case for Strapi plugin - Update endpoint"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#38",
+      "time": "2024-02-28T12:04:30Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/38",
+      "text": "Unit test case for Strapi plugin - status and track endpoints"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#37",
+      "time": "2024-02-28T12:02:27Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/37",
+      "text": "Unit test case for Strapi plugin - confirm endpoint"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#36",
+      "time": "2024-02-28T12:00:35Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/36",
+      "text": "Unit test case for strapi plugin - select and init endpoints"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#35",
+      "time": "2024-02-28T11:55:33Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/35",
+      "text": "Unit test case for strapi plugin - search endpoint"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#34",
+      "time": "2024-02-28T11:21:24Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/34",
+      "text": "Document the Strapi data model and catalogs for domain"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#33",
+      "time": "2024-02-28T10:53:37Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/33",
+      "text": "E2E test for retail domain"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#32",
+      "time": "2024-02-28T10:51:31Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/32",
+      "text": "E2E test for DSEP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#31",
+      "time": "2024-02-28T10:47:15Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/31",
+      "text": "E2E test for DHP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#27",
+      "time": "2024-02-23T11:17:30Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/27",
+      "text": "E2E test for Industry 4.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#26",
+      "time": "2024-02-23T11:15:55Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/26",
+      "text": "E2E test for ODR"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#24",
+      "time": "2024-02-21T11:25:36Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/24",
+      "text": "Strapi Plugin - March-1 Milestone"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#19",
+      "time": "2024-02-15T09:48:30Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/19",
+      "text": "Implement track API in BPP adapter plugin"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#18",
+      "time": "2024-02-15T09:35:32Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/18",
+      "text": "Implement rating API in BPP adapter plugin"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#17",
+      "time": "2024-02-15T09:03:46Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/17",
+      "text": "Implement status API in BPP adapter plugin"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#15",
+      "time": "2024-02-15T09:00:09Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/15",
+      "text": "Implement cancel API in BPP adaptyer"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#14",
+      "time": "2024-02-15T08:52:12Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/14",
+      "text": "Implement Update API in BPP adapter"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#13",
+      "time": "2024-02-15T08:42:07Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/13",
+      "text": "Implement confirm API in BPP adapter plugin"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#12",
+      "time": "2024-02-15T08:33:30Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/12",
+      "text": "Implement init API in BPP adapter plugin"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#7",
+      "time": "2024-02-01T12:13:04Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/7",
+      "text": "Implement Select API in BPP adapter plugin"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#6",
+      "time": "2024-02-01T11:42:04Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/6",
+      "text": "Search API"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/strapi-plugins#5",
+      "time": "2024-02-01T11:30:39Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/5",
+      "text": "Rearchitect the Strapi BPP Beckn adapter"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#4",
+      "time": "2024-02-01T10:15:46Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/4",
+      "text": "Strapi BPP Beckn adapter architecture"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#1",
+      "time": "2024-01-29T10:50:08Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/1",
+      "text": "Update issue templates"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/generic-client-layer#43",
+      "time": "2024-03-14T12:44:20Z",
+      "link": "https://github.com/beckn/generic-client-layer/issues/43",
+      "text": "Financial Services - Unit test case"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/generic-client-layer#42",
+      "time": "2024-03-14T12:42:05Z",
+      "link": "https://github.com/beckn/generic-client-layer/issues/42",
+      "text": "DENT - Unit test cases"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/generic-client-layer#41",
+      "time": "2024-03-14T12:40:51Z",
+      "link": "https://github.com/beckn/generic-client-layer/issues/41",
+      "text": "Industry 4.0 - Unit test case"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/generic-client-layer#40",
+      "time": "2024-03-14T12:35:57Z",
+      "link": "https://github.com/beckn/generic-client-layer/issues/40",
+      "text": "DHP - Unit test case"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/generic-client-layer#39",
+      "time": "2024-03-14T12:25:47Z",
+      "link": "https://github.com/beckn/generic-client-layer/issues/39",
+      "text": "DSEP - Unit test case"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/generic-client-layer#38",
+      "time": "2024-03-14T12:19:33Z",
+      "link": "https://github.com/beckn/generic-client-layer/issues/38",
+      "text": "ODR - Unit test case"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/generic-client-layer#37",
+      "time": "2024-03-14T12:18:14Z",
+      "link": "https://github.com/beckn/generic-client-layer/issues/37",
+      "text": "Retail unit test cases"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/generic-client-layer#36",
+      "time": "2024-03-14T12:07:38Z",
+      "link": "https://github.com/beckn/generic-client-layer/issues/36",
+      "text": "Develop specific test cases for each domain to ensure the client layer functions seamlessly across different contexts"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/generic-client-layer#35",
+      "time": "2024-03-07T10:28:43Z",
+      "link": "https://github.com/beckn/generic-client-layer/issues/35",
+      "text": "ReadME review and update for generic-client layer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#28",
+      "time": "2024-01-16T10:12:47Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/28",
+      "text": "Update issue templates"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-action-bot#66",
+      "time": "2024-04-07T07:45:28Z",
+      "link": "https://github.com/beckn/beckn-action-bot/issues/66",
+      "text": "Clone MIT Mumbai network to North Virginia"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-action-bot#58",
+      "time": "2024-04-05T08:03:49Z",
+      "link": "https://github.com/beckn/beckn-action-bot/issues/58",
+      "text": "Strapi plugin deployment and Data model update"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-action-bot#48",
+      "time": "2024-04-03T10:13:36Z",
+      "link": "https://github.com/beckn/beckn-action-bot/issues/48",
+      "text": "Postman collection enhancement"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-action-bot#28",
+      "time": "2024-03-26T06:29:30Z",
+      "link": "https://github.com/beckn/beckn-action-bot/issues/28",
+      "text": "Enhance Strapi to accommodate ticket booking use case"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-action-bot#27",
+      "time": "2024-03-26T02:01:45Z",
+      "link": "https://github.com/beckn/beckn-action-bot/issues/27",
+      "text": "Postman collection for DHP use case"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-action-bot#26",
+      "time": "2024-03-26T02:00:24Z",
+      "link": "https://github.com/beckn/beckn-action-bot/issues/26",
+      "text": "Postman collection for EV charging"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-action-bot#25",
+      "time": "2024-03-26T01:59:40Z",
+      "link": "https://github.com/beckn/beckn-action-bot/issues/25",
+      "text": "Postman collection for retail use case"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-action-bot#24",
+      "time": "2024-03-26T01:57:59Z",
+      "link": "https://github.com/beckn/beckn-action-bot/issues/24",
+      "text": "Postman collection for ticket use case"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-action-bot#23",
+      "time": "2024-03-26T01:56:49Z",
+      "link": "https://github.com/beckn/beckn-action-bot/issues/23",
+      "text": "Postman collection for Hotel booking"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-action-bot#22",
+      "time": "2024-03-26T01:44:05Z",
+      "link": "https://github.com/beckn/beckn-action-bot/issues/22",
+      "text": "Example JSON for ticket booking use case"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-action-bot#21",
+      "time": "2024-03-26T01:42:56Z",
+      "link": "https://github.com/beckn/beckn-action-bot/issues/21",
+      "text": "Example JSON for hotel use case"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-action-bot#20",
+      "time": "2024-03-26T01:39:04Z",
+      "link": "https://github.com/beckn/beckn-action-bot/issues/20",
+      "text": "Catalog validation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-action-bot#19",
+      "time": "2024-03-26T01:32:24Z",
+      "link": "https://github.com/beckn/beckn-action-bot/issues/19",
+      "text": "Upload catalogs to respective Strapi instance"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-action-bot#18",
+      "time": "2024-03-26T01:18:29Z",
+      "link": "https://github.com/beckn/beckn-action-bot/issues/18",
+      "text": "Create catalog in Excel based on inputs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-action-bot#57",
+      "time": "2024-04-05T06:32:49Z",
+      "link": "https://github.com/beckn/beckn-action-bot/pull/57",
+      "text": "Postman collection added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-action-bot#59",
+      "time": "2024-04-06T04:45:01Z",
+      "link": "https://github.com/beckn/beckn-action-bot/pull/59",
+      "text": "Search by tag request corrected"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/vendure#61",
+      "time": "2024-03-11T12:04:11Z",
+      "link": "https://github.com/beckn/vendure/issues/61",
+      "text": "Create Vendure ReadME file"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/vendure#1",
+      "time": "2024-01-30T08:02:48Z",
+      "link": "https://github.com/beckn/vendure/pull/1",
+      "text": "Update issue templates"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox-webhook#19",
+      "time": "2024-02-08T05:58:50Z",
+      "link": "https://github.com/beckn/beckn-sandbox-webhook/issues/19",
+      "text": "Create one click utility to install the webhook"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#95",
+      "time": "2024-03-18T07:32:14Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/95",
+      "text": "readme files need to be updated for BB and Applications"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#83",
+      "time": "2024-03-15T14:03:31Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/83",
+      "text": "Relookup API for AI chatbot"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#82",
+      "time": "2024-03-15T13:58:06Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/82",
+      "text": "Test ONIX script"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#81",
+      "time": "2024-03-14T12:49:19Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/81",
+      "text": "BAP Search Provider implementation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#79",
+      "time": "2024-03-13T09:45:56Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/79",
+      "text": "BPP migration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#78",
+      "time": "2024-03-13T09:05:29Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/78",
+      "text": "beckn GitHub cleanup - listing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#77",
+      "time": "2024-03-13T08:01:21Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/77",
+      "text": "BAP search provider architecture"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#75",
+      "time": "2024-03-11T07:38:17Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/75",
+      "text": "Create a new project BPP connector"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#67",
+      "time": "2024-03-06T12:51:22Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/67",
+      "text": "ONIX - fork registry and gateway repository into beckn repository"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#62",
+      "time": "2024-03-04T06:17:24Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/62",
+      "text": "Release notes ONIX - V0.2"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#60",
+      "time": "2024-03-04T05:55:00Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/60",
+      "text": "Release note ONIX - V 0.1"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#50",
+      "time": "2024-02-27T12:54:12Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/50",
+      "text": "Release Plan for github repositories"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#42",
+      "time": "2024-02-23T11:01:22Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/42",
+      "text": "ONIX Create ReadMe/Instructions file"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#41",
+      "time": "2024-02-23T10:50:41Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/41",
+      "text": "ONIX - Add generic client layer"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#37",
+      "time": "2024-02-22T11:42:49Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/37",
+      "text": "ONIX script for Mac environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#36",
+      "time": "2024-02-22T11:15:54Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/36",
+      "text": "ONIX script for widows environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#34",
+      "time": "2024-02-19T12:31:26Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/34",
+      "text": "Industry 4.0 Machine Simulator"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#33",
+      "time": "2024-02-16T11:12:35Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/33",
+      "text": "CI/CD setup - Strapi BAP staging"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#32",
+      "time": "2024-02-16T11:02:41Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/32",
+      "text": "CI/CD setup - Strapi BAP development environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#29",
+      "time": "2024-02-16T09:20:29Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/29",
+      "text": "CI/CD setup - Strapi BPP staging"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#28",
+      "time": "2024-02-16T09:06:58Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/28",
+      "text": "CI/CD setup - Strapi BPP Development "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#27",
+      "time": "2024-02-16T08:42:19Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/27",
+      "text": "List user input for ONIX installer"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#26",
+      "time": "2024-02-16T08:25:29Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/26",
+      "text": "ONIX Architecture for user input and individual components"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#25",
+      "time": "2024-02-16T05:27:02Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/25",
+      "text": "Generic Client Repository - Staging environment setup"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#24",
+      "time": "2024-02-15T11:55:02Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/24",
+      "text": "Strapi BPP - Staging environment setup"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#22",
+      "time": "2024-02-15T11:45:05Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/22",
+      "text": "Strapi BAP - Staging environment setup"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#21",
+      "time": "2024-02-15T11:38:15Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/21",
+      "text": "Strapi BAP - Development environment setup"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#20",
+      "time": "2024-02-15T11:36:59Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/20",
+      "text": "Strapi BPP - Development environment setup"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#18",
+      "time": "2024-02-15T11:13:11Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/18",
+      "text": "Generic Client layer - Development environment setup"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#17",
+      "time": "2024-02-15T11:00:42Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/17",
+      "text": "Correct the branch structure in github"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#16",
+      "time": "2024-02-15T08:21:35Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/16",
+      "text": "ONIX V 0.2 - Enhace the CLI of ONIX installer"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#15",
+      "time": "2024-02-15T08:15:08Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/15",
+      "text": "Creating docker-compose in runtime"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#11",
+      "time": "2024-02-12T10:36:01Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/11",
+      "text": "Update the ONIX CLI to accept user input"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#10",
+      "time": "2024-02-12T07:37:02Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/10",
+      "text": "Check the feasibility of Gateway and Registry working within local host docker network"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#9",
+      "time": "2024-02-12T07:33:09Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/9",
+      "text": "Create shell script for ONIX installer"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#8",
+      "time": "2024-02-12T07:13:46Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/8",
+      "text": "Create docker image and push to dockerhub for Protocol server"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#7",
+      "time": "2024-02-12T07:12:07Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/7",
+      "text": "Create docker image and push to dockerhub for sandbox."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#6",
+      "time": "2024-02-12T07:10:27Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/6",
+      "text": "Create docker image for webhook and push to dockerhub"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#5",
+      "time": "2024-02-12T06:24:22Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/5",
+      "text": "Create Gateway image and push to dockerhub"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#4",
+      "time": "2024-02-12T06:22:28Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/4",
+      "text": "Docker image and docker-compose creation for Registry"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#3",
+      "time": "2024-02-12T05:21:15Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/3",
+      "text": "Infra docker-compose for ONIX"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-utilities#2",
+      "time": "2024-02-20T05:42:07Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/2",
+      "text": "Update issue templates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-utilities#47",
+      "time": "2024-02-28T09:55:31Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/47",
+      "text": "Added Readme.md and LICENSE.md files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-utilities#51",
+      "time": "2024-02-28T09:14:39Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/51",
+      "text": "Created RELEASE.md for onix-installer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-utilities#52",
+      "time": "2024-02-28T10:21:39Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/52",
+      "text": "Develop to main merge for read me"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-utilities#61",
+      "time": "2024-03-06T10:09:30Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/61",
+      "text": "Update simple-issue-template.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-utilities#72",
+      "time": "2024-03-11T05:48:30Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/72",
+      "text": "Release file update"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix-stack#1",
+      "time": "2024-03-11T06:34:46Z",
+      "link": "https://github.com/beckn/beckn-onix-stack/issues/1",
+      "text": "Rename the String \"webhook\" to \"BPP connector\" in ONIX"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix-stack#2",
+      "time": "2024-02-26T09:58:41Z",
+      "link": "https://github.com/beckn/beckn-onix-stack/issues/2",
+      "text": "Policy requirement in ONIX"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#148",
+      "time": "2024-03-18T09:56:21Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/148",
+      "text": "Update README.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/OSM-app#174",
+      "time": "2024-03-17T09:10:41Z",
+      "link": "https://github.com/beckn/OSM-app/pull/174",
+      "text": "Update README.md"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/APIHub#2",
+      "time": "2024-03-11T10:05:20Z",
+      "link": "https://github.com/beckn/APIHub/issues/2",
+      "text": "List all the non-beckn APIs that can be merged to one project"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/BPP-Boilerplate-SDK#17",
+      "time": "2023-08-24T20:24:40Z",
+      "link": "https://github.com/beckn/BPP-Boilerplate-SDK/pull/17",
+      "text": "SDK Init"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/BPP-Boilerplate-SDK#17",
+      "time": "2023-08-24T20:24:40Z",
+      "link": "https://github.com/beckn/BPP-Boilerplate-SDK/pull/17",
+      "text": "SDK Init"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/bpp-adapter#10",
+      "time": "2024-01-16T10:22:48Z",
+      "link": "https://github.com/beckn/bpp-adapter/pull/10",
+      "text": "Update issue templates"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/beckn-in-a-box#13",
+      "time": "2023-07-27T12:29:43Z",
+      "link": "https://github.com/beckn/beckn-in-a-box/pull/13",
+      "text": "Beckn in a Box Development"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/PULSE-Specification#22",
+      "time": "2024-01-16T13:29:07Z",
+      "link": "https://github.com/beckn/PULSE-Specification/pull/22",
+      "text": "Create issue template"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DSEP-Specification#148",
+      "time": "2023-11-03T11:23:13Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/148",
+      "text": "ONEST postman collection v0.5.0"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/DSEP-Specification#169",
+      "time": "2024-01-17T06:51:16Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/169",
+      "text": "Update issue templates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-gateway-app#1",
+      "time": "2024-03-18T09:53:29Z",
+      "link": "https://github.com/beckn/beckn-gateway-app/pull/1",
+      "text": "Update README.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/certification-suite#5",
+      "time": "2023-07-25T21:28:03Z",
+      "link": "https://github.com/beckn/certification-suite/pull/5",
+      "text": "Added VC issuance"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-strapi-bpp#1",
+      "time": "2024-03-07T10:00:33Z",
+      "link": "https://github.com/beckn/beckn-strapi-bpp/issues/1",
+      "text": "Documentation - beckn-satrapi-bpp"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/building-blocks#5",
+      "time": "2023-07-27T12:26:29Z",
+      "link": "https://github.com/beckn/building-blocks/issues/5",
+      "text": "Search building block functionalities and sequence diagram"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/building-blocks#4",
+      "time": "2023-07-27T12:06:34Z",
+      "link": "https://github.com/beckn/building-blocks/issues/4",
+      "text": "Research for catalog building block"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/building-blocks#3",
+      "time": "2023-07-27T11:48:32Z",
+      "link": "https://github.com/beckn/building-blocks/issues/3",
+      "text": "Research for search building block"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/building-blocks#2",
+      "time": "2023-07-27T11:34:19Z",
+      "link": "https://github.com/beckn/building-blocks/issues/2",
+      "text": "Research for User buidling block"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/beckn-qr-code-generator#2",
+      "time": "2023-06-10T03:28:09Z",
+      "link": "https://github.com/beckn/beckn-qr-code-generator/pull/2",
+      "text": "Create DESIGN.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/reputation-infra#5",
+      "time": "2023-08-13T09:51:32Z",
+      "link": "https://github.com/beckn/reputation-infra/pull/5",
+      "text": "JSON Schema for Core Reputation"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/reputation-infra#5",
+      "time": "2023-08-13T09:51:32Z",
+      "link": "https://github.com/beckn/reputation-infra/pull/5",
+      "text": "JSON Schema for Core Reputation"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/reputation-infra#5",
+      "time": "2023-08-13T09:51:32Z",
+      "link": "https://github.com/beckn/reputation-infra/pull/5",
+      "text": "JSON Schema for Core Reputation"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/BAP-Boilerplate-SDK#4",
+      "time": "2023-07-15T21:25:12Z",
+      "link": "https://github.com/beckn/BAP-Boilerplate-SDK/pull/4",
+      "text": "Setting up of dev enviorment"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/BAP-Boilerplate-SDK#8",
+      "time": "2023-07-26T21:01:04Z",
+      "link": "https://github.com/beckn/BAP-Boilerplate-SDK/pull/8",
+      "text": "Built Search Component "
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/BAP-Boilerplate-SDK#9",
+      "time": "2023-08-28T07:36:18Z",
+      "link": "https://github.com/beckn/BAP-Boilerplate-SDK/pull/9",
+      "text": "BAP SDK fulfilling Discovery use cases "
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/BAP-Boilerplate-SDK#9",
+      "time": "2023-08-28T07:36:18Z",
+      "link": "https://github.com/beckn/BAP-Boilerplate-SDK/pull/9",
+      "text": "BAP SDK fulfilling Discovery use cases "
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/mobility-bap-france-experience#13",
+      "time": "2024-03-17T09:17:35Z",
+      "link": "https://github.com/beckn/mobility-bap-france-experience/pull/13",
+      "text": "Update README.md"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/experience-gpt-api#16",
+      "time": "2024-03-07T10:43:16Z",
+      "link": "https://github.com/beckn/experience-gpt-api/issues/16",
+      "text": "Merge the experience-gpt-api to beckn-utilities repository"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/dsep-unified-bap-ui#82",
+      "time": "2024-01-08T06:27:04Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/issues/82",
+      "text": "Understand Fulfillment flow and its API"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/dsep-unified-bap-ui#81",
+      "time": "2024-01-08T06:24:46Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/issues/81",
+      "text": "Undestand Discovery flow and its APIs"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/dsep-unified-bap-ui#80",
+      "time": "2024-01-08T06:13:19Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/issues/80",
+      "text": "Understanding DSEP use cases"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/dsep-unified-bap-ui#79",
+      "time": "2024-01-08T06:04:49Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/issues/79",
+      "text": "Understanding UI workspace mono repo"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/dsep-unified-bap-ui#78",
+      "time": "2024-01-08T05:28:40Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/issues/78",
+      "text": "Understanding dsep-unified-bap-ui"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/dsep-unified-bap-ui#77",
+      "time": "2024-01-05T11:06:40Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/issues/77",
+      "text": "Modification of user home page to use building blocks"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/dsep-unified-bap-ui#76",
+      "time": "2024-01-05T11:04:33Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/issues/76",
+      "text": "Modification of signup page to use building blocks"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/dsep-unified-bap-ui#75",
+      "time": "2024-01-05T10:02:24Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/issues/75",
+      "text": "Modification of landing page to use building blocks"
     }
   ],
   "open_prs": [],

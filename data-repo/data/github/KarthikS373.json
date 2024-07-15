@@ -1,0 +1,21 @@
+{
+  "last_updated": "2023-09-20T11:11:29Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/DHP-Specs#106",
+      "time": "2023-09-20T11:11:29Z",
+      "link": "https://github.com/beckn/DHP-Specs/pull/106",
+      "text": "Added Endpoint examples and preview and JSON Examples for Ambulance Booking, Blood bank, Consultation and Pharmacy "
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/DHP-Specs#107",
+      "time": "2023-09-20T11:25:06Z",
+      "link": "https://github.com/beckn/DHP-Specs/pull/107",
+      "text": "Implementation guide and docs"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

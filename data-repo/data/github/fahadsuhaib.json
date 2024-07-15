@@ -1,0 +1,14 @@
+{
+  "last_updated": "2020-10-14T10:00:43Z",
+  "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#53",
+      "time": "2020-10-14T10:00:43Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/53",
+      "text": "Why Open API 3.0 or similar structure not used to define the specifications?"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

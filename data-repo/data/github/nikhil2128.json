@@ -1,0 +1,273 @@
+{
+  "last_updated": "2023-07-17T10:18:47Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#10",
+      "time": "2023-07-17T10:18:47Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/10",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#11",
+      "time": "2023-07-19T08:09:30Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/11",
+      "text": "Staging"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#33",
+      "time": "2023-08-09T11:29:11Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/33",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#34",
+      "time": "2023-08-09T11:29:26Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/34",
+      "text": "Staging"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#39",
+      "time": "2023-08-18T08:20:16Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/39",
+      "text": "Enabled PCM card (#38)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#40",
+      "time": "2023-08-18T09:24:48Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/40",
+      "text": "Enabled PCM card (#38) (#39)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/OSM-app#85",
+      "time": "2023-07-13T10:44:35Z",
+      "link": "https://github.com/beckn/OSM-app/pull/85",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/OSM-app#86",
+      "time": "2023-07-13T11:22:01Z",
+      "link": "https://github.com/beckn/OSM-app/pull/86",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/OSM-app#87",
+      "time": "2023-07-13T11:22:50Z",
+      "link": "https://github.com/beckn/OSM-app/pull/87",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/OSM-app#89",
+      "time": "2023-07-14T05:21:44Z",
+      "link": "https://github.com/beckn/OSM-app/pull/89",
+      "text": "Staging"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/OSM-app#91",
+      "time": "2023-07-14T13:44:34Z",
+      "link": "https://github.com/beckn/OSM-app/pull/91",
+      "text": "Cart empty issue fixed (#90)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/OSM-app#92",
+      "time": "2023-07-14T13:44:53Z",
+      "link": "https://github.com/beckn/OSM-app/pull/92",
+      "text": "Cart empty issue fixed (#90) (#91)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/OSM-app#93",
+      "time": "2023-07-17T09:54:14Z",
+      "link": "https://github.com/beckn/OSM-app/pull/93",
+      "text": "Cart empty issue fixed (#90) (#91)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/OSM-app#95",
+      "time": "2023-07-18T13:57:25Z",
+      "link": "https://github.com/beckn/OSM-app/pull/95",
+      "text": "Develop"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/BPP-Boilerplate-SDK#6",
+      "time": "2023-07-21T10:55:31Z",
+      "link": "https://github.com/beckn/BPP-Boilerplate-SDK/issues/6",
+      "text": "Build module to create catalog"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-in-a-box#15",
+      "time": "2023-08-01T08:40:06Z",
+      "link": "https://github.com/beckn/beckn-in-a-box/issues/15",
+      "text": "Create sequence diagram of rating module"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-in-a-box#12",
+      "time": "2023-07-21T11:16:21Z",
+      "link": "https://github.com/beckn/beckn-in-a-box/issues/12",
+      "text": "Build module to provide rating"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/certification-suite#4",
+      "time": "2023-07-21T11:24:56Z",
+      "link": "https://github.com/beckn/certification-suite/issues/4",
+      "text": "Build module to let users register themselves"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/mobility-bap-client-layer#4",
+      "time": "2023-05-26T09:21:34Z",
+      "link": "https://github.com/beckn/mobility-bap-client-layer/pull/4",
+      "text": "All apis"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/mobility-bap-client-layer#14",
+      "time": "2023-06-19T08:09:05Z",
+      "link": "https://github.com/beckn/mobility-bap-client-layer/pull/14",
+      "text": "API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/mobility-bap-client-layer#16",
+      "time": "2023-06-20T06:19:05Z",
+      "link": "https://github.com/beckn/mobility-bap-client-layer/pull/16",
+      "text": "CORS issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/mobility-bap-client-layer#19",
+      "time": "2023-07-02T11:38:13Z",
+      "link": "https://github.com/beckn/mobility-bap-client-layer/pull/19",
+      "text": "order history endpoint"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/mobility-bap-client-layer#20",
+      "time": "2023-07-02T11:50:02Z",
+      "link": "https://github.com/beckn/mobility-bap-client-layer/pull/20",
+      "text": "api url to env"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/mobility-bap-client-layer#21",
+      "time": "2023-07-02T12:14:34Z",
+      "link": "https://github.com/beckn/mobility-bap-client-layer/pull/21",
+      "text": "moved bap uri to env"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/mobility-bap-client-layer#22",
+      "time": "2023-07-03T09:17:33Z",
+      "link": "https://github.com/beckn/mobility-bap-client-layer/pull/22",
+      "text": "format change"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/mobility-bap-client-layer#27",
+      "time": "2023-07-13T11:01:28Z",
+      "link": "https://github.com/beckn/mobility-bap-client-layer/pull/27",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/mobility-bap-client-layer#28",
+      "time": "2023-07-14T05:26:19Z",
+      "link": "https://github.com/beckn/mobility-bap-client-layer/pull/28",
+      "text": "Staging"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/mobility-bap-client-layer#29",
+      "time": "2023-08-24T04:38:17Z",
+      "link": "https://github.com/beckn/mobility-bap-client-layer/pull/29",
+      "text": "fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/OSM-backend#14",
+      "time": "2023-07-14T05:24:06Z",
+      "link": "https://github.com/beckn/OSM-backend/pull/14",
+      "text": "Staging"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/pass-culture-app-native#5",
+      "time": "2023-07-14T04:32:32Z",
+      "link": "https://github.com/beckn/pass-culture-app-native/pull/5",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/pass-culture-app-native#6",
+      "time": "2023-07-14T04:38:30Z",
+      "link": "https://github.com/beckn/pass-culture-app-native/pull/6",
+      "text": "Develop (#5)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/PCM-backend#12",
+      "time": "2023-07-13T07:34:06Z",
+      "link": "https://github.com/beckn/PCM-backend/pull/12",
+      "text": "Travel option api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/PCM-backend#13",
+      "time": "2023-07-14T04:33:46Z",
+      "link": "https://github.com/beckn/PCM-backend/pull/13",
+      "text": "Travel option api (#12)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/BAP-Boilerplate-SDK#6",
+      "time": "2023-07-21T10:54:48Z",
+      "link": "https://github.com/beckn/BAP-Boilerplate-SDK/issues/6",
+      "text": "Build API to create catalog "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/BAP-Boilerplate-SDK#5",
+      "time": "2023-07-20T18:01:39Z",
+      "link": "https://github.com/beckn/BAP-Boilerplate-SDK/issues/5",
+      "text": "Build Search Component which will search by item name"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/dsep-unified-bap-client#58",
+      "time": "2023-08-21T04:49:33Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/58",
+      "text": "Dsep postman"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/dsep-unified-bap-client#59",
+      "time": "2023-08-21T05:30:38Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-client/pull/59",
+      "text": "Dsep readme"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/dsep-unified-bap-ui#68",
+      "time": "2023-07-15T18:10:09Z",
+      "link": "https://github.com/beckn/dsep-unified-bap-ui/pull/68",
+      "text": "Scholorship changes"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

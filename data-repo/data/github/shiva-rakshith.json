@@ -49,6 +49,48 @@
       "time": "2024-07-09T05:52:56Z",
       "link": "https://github.com/beckn/protocol-server/pull/210",
       "text": "Open Network Telemetry SDK(based on Open Network Telemetry Specifications v1.0)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/DSEP-Specification#157",
+      "time": "2023-11-29T06:49:23Z",
+      "link": "https://github.com/beckn/DSEP-Specification/issues/157",
+      "text": "Usage of Search vs Select API in DSEP Context"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DSEP-Specification#145",
+      "time": "2023-11-03T11:24:14Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/145",
+      "text": "Financial Support Integration Guide - v0.7.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DSEP-Specification#159",
+      "time": "2023-12-04T12:40:34Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/159",
+      "text": "feat: add updated sample postman collection"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DSEP-Specification#160",
+      "time": "2023-12-15T13:47:59Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/160",
+      "text": "Update Learning Experiences Sample JSONs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DSEP-Specification#161",
+      "time": "2023-12-15T13:48:17Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/161",
+      "text": "Update work opportunities sample JSONs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DSEP-Specification#166",
+      "time": "2024-01-05T11:52:34Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/166",
+      "text": "Add variable for le, fs, wo and ec domains"
     }
   ],
   "open_prs": [],

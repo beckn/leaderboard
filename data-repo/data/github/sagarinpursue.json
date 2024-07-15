@@ -14,6 +14,13 @@
       "time": "2022-10-19T08:12:46Z",
       "link": "https://github.com/beckn/protocol-server/issues/12",
       "text": "Configuration document is not available in the attached link - https://github.com/beckn/protocol-server/Configuration_Guide.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#33",
+      "time": "2022-03-27T16:20:01Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/33",
+      "text": "Staff implementation"
     }
   ],
   "open_prs": [],

@@ -1,0 +1,112 @@
+{
+  "last_updated": "2021-06-30T12:25:23Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-storefront-ui#4",
+      "time": "2021-06-30T12:25:23Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/pull/4",
+      "text": "Bpwa 44"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-storefront-ui#15",
+      "time": "2021-07-11T17:21:28Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/pull/15",
+      "text": "Prod page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-storefront-ui#20",
+      "time": "2021-07-14T10:56:52Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/pull/20",
+      "text": "Checkout"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-storefront-ui#23",
+      "time": "2021-07-15T09:11:08Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/pull/23",
+      "text": "Checkout"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-storefront-ui#31",
+      "time": "2021-07-19T11:51:26Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/pull/31",
+      "text": "Cart reloaded"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-storefront-ui#41",
+      "time": "2021-07-22T09:03:29Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/pull/41",
+      "text": "Poll redisign"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-storefront-ui#46",
+      "time": "2021-07-23T05:02:03Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/pull/46",
+      "text": "fixes checkout"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-storefront-ui#47",
+      "time": "2021-07-23T06:32:36Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/pull/47",
+      "text": "fixed location input focus"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-storefront-ui#50",
+      "time": "2021-07-27T08:54:11Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/pull/50",
+      "text": "Poll redisign"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-storefront-ui#60",
+      "time": "2021-08-04T19:12:13Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/pull/60",
+      "text": "Checkout api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-storefront-ui#64",
+      "time": "2021-08-05T18:20:16Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/pull/64",
+      "text": "Bpwa 88"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-storefront-ui#74",
+      "time": "2021-08-12T06:45:48Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/pull/74",
+      "text": "orders page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-storefront-ui#109",
+      "time": "2021-09-02T11:29:52Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/pull/109",
+      "text": "Reverted  \"Revert \"added env for map kry in yml\"\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-storefront-ui#111",
+      "time": "2021-09-06T13:00:49Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/pull/111",
+      "text": "api fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/use-case-gen-frontend#10",
+      "time": "2021-09-16T06:28:03Z",
+      "link": "https://github.com/beckn/use-case-gen-frontend/pull/10",
+      "text": "fixed json export"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

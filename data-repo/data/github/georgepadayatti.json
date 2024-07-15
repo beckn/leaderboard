@@ -1,0 +1,14 @@
+{
+  "last_updated": "2021-08-26T11:44:09Z",
+  "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#97",
+      "time": "2021-08-26T11:44:09Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/97",
+      "text": "Transport agnostic security: Inherent support for e2e for beckn messages"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

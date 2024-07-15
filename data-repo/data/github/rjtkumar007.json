@@ -1,0 +1,357 @@
+{
+  "last_updated": "2021-11-25T17:31:52Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#9",
+      "time": "2021-11-25T17:31:52Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/9",
+      "text": "Mock Api Fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#10",
+      "time": "2021-11-26T12:33:20Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/10",
+      "text": "Added Dynamic mock data"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#16",
+      "time": "2021-11-29T18:01:30Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/16",
+      "text": "Branch sql fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#18",
+      "time": "2021-12-02T06:12:06Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/18",
+      "text": "Changed apikey to uuid"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-client-backend#23",
+      "time": "2021-12-06T08:02:59Z",
+      "link": "https://github.com/beckn/transit-ticketing-client-backend/pull/23",
+      "text": "Added locations object in Search"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-bpp-protocol-adaptor#1",
+      "time": "2021-11-24T05:16:40Z",
+      "link": "https://github.com/beckn/transit-ticketing-bpp-protocol-adaptor/pull/1",
+      "text": "Base Structure with registry lookup "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transit-ticketing-bpp-protocol-adaptor#2",
+      "time": "2022-04-21T17:34:05Z",
+      "link": "https://github.com/beckn/transit-ticketing-bpp-protocol-adaptor/pull/2",
+      "text": "Api implementation and testcases"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-storefront-ui#120",
+      "time": "2021-11-02T15:51:17Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/pull/120",
+      "text": "On Initialized Loop Api Call Fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-protocol#2",
+      "time": "2021-10-19T17:56:49Z",
+      "link": "https://github.com/beckn/biab-bap-protocol/pull/2",
+      "text": "Api Spec Updates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-protocol#3",
+      "time": "2021-10-20T10:41:07Z",
+      "link": "https://github.com/beckn/biab-bap-protocol/pull/3",
+      "text": "spec changes fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-protocol#4",
+      "time": "2021-10-21T03:35:32Z",
+      "link": "https://github.com/beckn/biab-bap-protocol/pull/4",
+      "text": "Fixed Failing test cases"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-protocol#5",
+      "time": "2021-12-15T07:10:09Z",
+      "link": "https://github.com/beckn/biab-bap-protocol/pull/5",
+      "text": "Added Header and comma seprated signature "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-protocol#8",
+      "time": "2021-12-15T10:12:03Z",
+      "link": "https://github.com/beckn/biab-bap-protocol/pull/8",
+      "text": "Added Logs in Interceptor "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-protocol#9",
+      "time": "2021-12-15T12:16:48Z",
+      "link": "https://github.com/beckn/biab-bap-protocol/pull/9",
+      "text": "Handle Public Key Exception"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-protocol#10",
+      "time": "2021-12-15T13:52:21Z",
+      "link": "https://github.com/beckn/biab-bap-protocol/pull/10",
+      "text": "Fixed Exclude Path pattern"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-protocol#11",
+      "time": "2021-12-15T14:44:54Z",
+      "link": "https://github.com/beckn/biab-bap-protocol/pull/11",
+      "text": "TestCase Fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-protocol#12",
+      "time": "2021-12-30T15:24:02Z",
+      "link": "https://github.com/beckn/biab-bap-protocol/pull/12",
+      "text": "Updated dtos dependency"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-protocol#13",
+      "time": "2022-02-08T13:26:32Z",
+      "link": "https://github.com/beckn/biab-bap-protocol/pull/13",
+      "text": "Added Api to find Order status by Order Id for V1 "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-protocol#18",
+      "time": "2022-03-22T11:39:35Z",
+      "link": "https://github.com/beckn/biab-bap-protocol/pull/18",
+      "text": "Rebase Main branch into Dev branch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-protocol#19",
+      "time": "2022-03-22T14:00:03Z",
+      "link": "https://github.com/beckn/biab-bap-protocol/pull/19",
+      "text": "Added Implementation for Cancellation Reason Api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-protocol#20",
+      "time": "2022-03-28T09:13:56Z",
+      "link": "https://github.com/beckn/biab-bap-protocol/pull/20",
+      "text": "Moving Api changes for Cancellation Reason to QA"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/ondc-test-bap-be#2",
+      "time": "2022-06-07T13:30:39Z",
+      "link": "https://github.com/beckn/ondc-test-bap-be/pull/2",
+      "text": "Passing orderId in confirm request"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/ondc-test-bap-be#3",
+      "time": "2022-08-07T10:49:06Z",
+      "link": "https://github.com/beckn/ondc-test-bap-be/pull/3",
+      "text": "Bug Fix- made City as optional in Lookup"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/ondc-test-bap-be#4",
+      "time": "2022-08-09T17:35:58Z",
+      "link": "https://github.com/beckn/ondc-test-bap-be/pull/4",
+      "text": "Fix City as optional for lookup request"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/dhp-bap-client-layer#1",
+      "time": "2022-02-03T10:04:45Z",
+      "link": "https://github.com/beckn/dhp-bap-client-layer/pull/1",
+      "text": "Added domain changes and search changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-client#13",
+      "time": "2021-10-05T14:24:11Z",
+      "link": "https://github.com/beckn/biab-bap-client/pull/13",
+      "text": "Fixed Time Stamp Format Exception"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-client#14",
+      "time": "2021-10-08T06:14:01Z",
+      "link": "https://github.com/beckn/biab-bap-client/pull/14",
+      "text": "Fixed Parameter Exception and Gateway Api Exception"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-client#15",
+      "time": "2021-10-12T10:08:52Z",
+      "link": "https://github.com/beckn/biab-bap-client/pull/15",
+      "text": "Added Pickup Location Field in SearchDto"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-client#16",
+      "time": "2021-10-19T17:56:54Z",
+      "link": "https://github.com/beckn/biab-bap-client/pull/16",
+      "text": "Spec update on client layer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-client#18",
+      "time": "2021-10-29T03:59:49Z",
+      "link": "https://github.com/beckn/biab-bap-client/pull/18",
+      "text": "Firebase Auth + V2 changes &  Api Implementation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-client#19",
+      "time": "2021-11-22T14:35:55Z",
+      "link": "https://github.com/beckn/biab-bap-client/pull/19",
+      "text": "Sending Back the same context as it is which we are getting from ProtocolLayer."
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-client#20",
+      "time": "2021-11-12T06:26:37Z",
+      "link": "https://github.com/beckn/biab-bap-client/pull/20",
+      "text": "Added Header Accept and change signature to comma separated"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-client#21",
+      "time": "2021-11-23T13:43:26Z",
+      "link": "https://github.com/beckn/biab-bap-client/pull/21",
+      "text": "Added logs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-client#22",
+      "time": "2021-11-24T05:08:08Z",
+      "link": "https://github.com/beckn/biab-bap-client/pull/22",
+      "text": "Added BppId in the context object "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-client#23",
+      "time": "2021-12-03T03:19:52Z",
+      "link": "https://github.com/beckn/biab-bap-client/pull/23",
+      "text": "Track , Support and  Added Test Cases "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-client#24",
+      "time": "2021-12-16T05:45:29Z",
+      "link": "https://github.com/beckn/biab-bap-client/pull/24",
+      "text": "Upgraded Dtos Dependency and  Added CategoryId and Name"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-client#25",
+      "time": "2021-12-16T08:30:57Z",
+      "link": "https://github.com/beckn/biab-bap-client/pull/25",
+      "text": "Fixed TestCases"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-client#26",
+      "time": "2022-01-31T04:07:03Z",
+      "link": "https://github.com/beckn/biab-bap-client/pull/26",
+      "text": "Added ParentOrder Id"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-client#27",
+      "time": "2022-02-08T13:25:33Z",
+      "link": "https://github.com/beckn/biab-bap-client/pull/27",
+      "text": "Added Changes for Order Status Polling"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-client#32",
+      "time": "2022-03-01T16:51:12Z",
+      "link": "https://github.com/beckn/biab-bap-client/pull/32",
+      "text": "Fixed Order status by adding Sort by timestamp"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-client#35",
+      "time": "2022-03-22T11:38:04Z",
+      "link": "https://github.com/beckn/biab-bap-client/pull/35",
+      "text": "Rebase with Main branch "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-client#36",
+      "time": "2022-03-22T14:01:53Z",
+      "link": "https://github.com/beckn/biab-bap-client/pull/36",
+      "text": "Fixed Defect DF_23 DF_24 - Fulfillments status updates are not reflecting and Cancellation Api Implementation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/biab-bap-client#37",
+      "time": "2022-03-28T09:13:15Z",
+      "link": "https://github.com/beckn/biab-bap-client/pull/37",
+      "text": "Moving changes of cancellation reason and orderId fix for fulfilment to QA"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-protocol-dtos#1",
+      "time": "2021-10-19T18:14:56Z",
+      "link": "https://github.com/beckn/beckn-protocol-dtos/pull/1",
+      "text": "Spec Changes for dtos"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-protocol-dtos#2",
+      "time": "2021-12-15T15:04:18Z",
+      "link": "https://github.com/beckn/beckn-protocol-dtos/pull/2",
+      "text": "Added Category in ProtocolIntent and upgraded version"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-protocol-dtos#3",
+      "time": "2021-12-16T05:24:19Z",
+      "link": "https://github.com/beckn/beckn-protocol-dtos/pull/3",
+      "text": "Made CategoryId as Optional"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-protocol-dtos#4",
+      "time": "2022-02-02T08:00:55Z",
+      "link": "https://github.com/beckn/beckn-protocol-dtos/pull/4",
+      "text": "Added  list of fulfillment as optional in  catalog"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-protocol-dtos#5",
+      "time": "2022-02-02T08:21:08Z",
+      "link": "https://github.com/beckn/beckn-protocol-dtos/pull/5",
+      "text": "Added tag in Protocol Intent"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-protocol-dtos#7",
+      "time": "2022-02-03T09:42:13Z",
+      "link": "https://github.com/beckn/beckn-protocol-dtos/pull/7",
+      "text": "Added fulfillmentId"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-protocol-dtos#8",
+      "time": "2022-03-22T13:51:00Z",
+      "link": "https://github.com/beckn/beckn-protocol-dtos/pull/8",
+      "text": "Added Schemas for Cancellation Reason"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

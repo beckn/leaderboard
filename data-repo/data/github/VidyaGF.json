@@ -1,0 +1,56 @@
+{
+  "last_updated": "2021-12-06T09:04:34Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/biab-storefront-ui#131",
+      "time": "2021-12-06T09:04:34Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/issues/131",
+      "text": "reference BAP [UI] breaks if there is any issue with BPP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/biab-storefront-ui#129",
+      "time": "2021-12-06T09:01:45Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/issues/129",
+      "text": "No mock Delivery BPP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/biab-storefront-ui#128",
+      "time": "2021-12-06T08:53:08Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/issues/128",
+      "text": "billing and fullfillment details in on_init () response"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/biab-storefront-ui#127",
+      "time": "2021-12-06T08:51:23Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/issues/127",
+      "text": "quote and fulfillment.start is not received in the json received from BAP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/biab-storefront-ui#126",
+      "time": "2021-12-06T08:49:26Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/issues/126",
+      "text": "Schema doesnt define optional and required parameters"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/biab-storefront-ui#125",
+      "time": "2021-12-06T08:47:50Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/issues/125",
+      "text": "{'ack': {'status': 'NACK'}}, 'error': {'code': 'BAP_006', 'message': 'Error when writing to DB'}   "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/biab-storefront-ui#124",
+      "time": "2021-12-06T08:44:29Z",
+      "link": "https://github.com/beckn/biab-storefront-ui/issues/124",
+      "text": "There is no feature in beckn reference app to do any search apart from \"search for items\""
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,84 @@
+{
+  "last_updated": "2021-12-22T05:01:39Z",
+  "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/DHP-Specs#16",
+      "time": "2021-12-22T05:01:39Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/16",
+      "text": "Add Documentation for Getting Started using DHP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/DHP-Specs#15",
+      "time": "2021-12-21T11:27:53Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/15",
+      "text": "Enhance specs to have a person as a fulfiller of item instead of agent"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/DHP-Specs#14",
+      "time": "2021-12-21T11:27:10Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/14",
+      "text": "Enhance specs to have multiple fulfillers for single item to support group consult"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/DHP-Specs#9",
+      "time": "2021-12-16T08:24:48Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/9",
+      "text": "Add Example JSONs for Secondary Use-cases in DHP Specs"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/DHP-Specs#8",
+      "time": "2021-12-16T08:23:14Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/8",
+      "text": "Add Example JSONs for Group Consult in DHP Specs"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/DHP-Specs#7",
+      "time": "2021-12-16T08:22:57Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/7",
+      "text": "Add Example JSONs for digital OPD in DHP Specs"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/DHP-Specs#6",
+      "time": "2021-12-10T11:25:36Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/6",
+      "text": "Enhance specs for enabling group consultation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/DHP-Specs#5",
+      "time": "2021-12-10T11:25:16Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/5",
+      "text": "Enhance specs to add Health Documents exchange attribute"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/DHP-Specs#4",
+      "time": "2021-12-10T11:19:21Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/4",
+      "text": "Add Group Consult flow diagrams to wiki"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/DHP-Specs#3",
+      "time": "2021-12-10T07:42:54Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/3",
+      "text": "Add Digital OPD flow diagrams to wiki"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DHP-Specs#2",
+      "time": "2021-12-15T13:02:56Z",
+      "link": "https://github.com/beckn/DHP-Specs/pull/2",
+      "text": "Added initial core spec for enabling discovery, booking and fulfillment of health and wellness services. "
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

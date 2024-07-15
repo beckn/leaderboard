@@ -184,8 +184,8 @@ const getUserActivities = async () => {
     userActivities[user].push(activity);
   };
 
-  //const repositories = await getRepositories();
-  const repositories = ['protocol-server']
+  const repositories = await getRepositories();
+  //const repositories = ['protocol-server']
   console.log('Repository names: ', repositories);
   for (const [i, repo] of repositories.entries()) {
     console.info(

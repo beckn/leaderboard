@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-01-18T10:17:52Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#70",
+      "time": "2024-01-18T10:17:52Z",
+      "link": "https://github.com/beckn/protocol-server/pull/70",
+      "text": "Fix cors"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#100",
+      "time": "2024-03-09T06:21:12Z",
+      "link": "https://github.com/beckn/protocol-server/pull/100",
+      "text": "Fix misleading"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

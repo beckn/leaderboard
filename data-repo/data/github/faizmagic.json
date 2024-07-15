@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-03-17T07:14:00Z",
+  "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#114",
+      "time": "2024-03-17T07:14:00Z",
+      "link": "https://github.com/beckn/protocol-server/issues/114",
+      "text": "update the docker hub with the new protocol server image (network policy)"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

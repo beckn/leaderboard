@@ -1,0 +1,14 @@
+{
+  "last_updated": "2023-11-30T09:18:48Z",
+  "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#49",
+      "time": "2023-11-30T09:18:48Z",
+      "link": "https://github.com/beckn/protocol-server/issues/49",
+      "text": "localtunneling is not working on e2e cloud"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

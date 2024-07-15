@@ -1,0 +1,175 @@
+{
+  "last_updated": "2024-07-10T09:48:30Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#214",
+      "time": "2024-07-10T09:48:30Z",
+      "link": "https://github.com/beckn/protocol-server/issues/214",
+      "text": "Documentation for async (webhook) mode of BAP Client"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#213",
+      "time": "2024-07-10T08:44:41Z",
+      "link": "https://github.com/beckn/protocol-server/issues/213",
+      "text": "Search with BPP specified should behave as peer-to-peer request."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#197",
+      "time": "2024-06-27T03:03:28Z",
+      "link": "https://github.com/beckn/protocol-server/issues/197",
+      "text": "Add support for OpenAPI version 3.1"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#196",
+      "time": "2024-06-27T02:40:02Z",
+      "link": "https://github.com/beckn/protocol-server/issues/196",
+      "text": "Registry lookup from Client nodes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#192",
+      "time": "2024-06-20T05:01:18Z",
+      "link": "https://github.com/beckn/protocol-server/issues/192",
+      "text": "Redesign wait on BAP-Client on return leg of point to point request"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#156",
+      "time": "2024-05-31T14:09:13Z",
+      "link": "https://github.com/beckn/protocol-server/issues/156",
+      "text": "Support for OpenAPI version 3.1"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#155",
+      "time": "2024-05-28T08:12:15Z",
+      "link": "https://github.com/beckn/protocol-server/issues/155",
+      "text": "Layer 2 not present and other validation errors should be visible in /logs endpoint"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#152",
+      "time": "2024-05-27T12:45:24Z",
+      "link": "https://github.com/beckn/protocol-server/issues/152",
+      "text": "Add optional shared key authentication for BPP Webhook communication"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#151",
+      "time": "2024-05-24T05:10:50Z",
+      "link": "https://github.com/beckn/protocol-server/issues/151",
+      "text": "NACK from BPP is not transferred back to the PS client"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#147",
+      "time": "2024-05-20T06:50:17Z",
+      "link": "https://github.com/beckn/protocol-server/issues/147",
+      "text": "Identify ways to improve performance of OpenAPI Validator"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#144",
+      "time": "2024-05-16T05:50:20Z",
+      "link": "https://github.com/beckn/protocol-server/issues/144",
+      "text": "Troubleshooting: ONest participants see delay in Beckn transaction communications"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#121",
+      "time": "2024-04-07T13:15:06Z",
+      "link": "https://github.com/beckn/protocol-server/issues/121",
+      "text": "The endpoint /logs without query parameter is returning a wierd message"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#119",
+      "time": "2024-03-27T13:51:32Z",
+      "link": "https://github.com/beckn/protocol-server/issues/119",
+      "text": "The logs endpoint seems to be not working in the image used by ONIX"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#116",
+      "time": "2024-03-25T14:40:58Z",
+      "link": "https://github.com/beckn/protocol-server/issues/116",
+      "text": "Validating Layer 2 Configs to be complaint with Core Specification"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#115",
+      "time": "2024-03-25T05:21:56Z",
+      "link": "https://github.com/beckn/protocol-server/issues/115",
+      "text": "Option for strict requirement of layer 2 config"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#111",
+      "time": "2024-03-14T05:27:15Z",
+      "link": "https://github.com/beckn/protocol-server/issues/111",
+      "text": "Add ability to use domain specific yaml for validation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#109",
+      "time": "2024-03-13T09:27:57Z",
+      "link": "https://github.com/beckn/protocol-server/issues/109",
+      "text": "Error message to be sent when BPP response fails validation tests"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#95",
+      "time": "2024-02-29T13:58:15Z",
+      "link": "https://github.com/beckn/protocol-server/issues/95",
+      "text": "Fix issues with logging"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#94",
+      "time": "2024-02-29T13:22:44Z",
+      "link": "https://github.com/beckn/protocol-server/issues/94",
+      "text": "ACK/NACK enum implementation in the Ack of requests in Protocol Server"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#73",
+      "time": "2024-01-24T13:44:12Z",
+      "link": "https://github.com/beckn/protocol-server/issues/73",
+      "text": "Failure to send response to network results in BPP Network trying to contact configured webook"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#71",
+      "time": "2024-01-18T15:09:16Z",
+      "link": "https://github.com/beckn/protocol-server/issues/71",
+      "text": "Handling Unsolicited Responses - Handling of asynchronous on_status messages when BAP is configured in the synchronous mode"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#117",
+      "time": "2024-03-26T04:50:23Z",
+      "link": "https://github.com/beckn/protocol-server/pull/117",
+      "text": "Make layer 2 config mandatory"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#118",
+      "time": "2024-03-26T12:02:57Z",
+      "link": "https://github.com/beckn/protocol-server/pull/118",
+      "text": "Modify error message"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#165",
+      "time": "2024-06-07T16:12:25Z",
+      "link": "https://github.com/beckn/protocol-server/pull/165",
+      "text": "Fix error in loading openapi yaml for multiple domain names"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

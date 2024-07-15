@@ -1,0 +1,14 @@
+{
+  "last_updated": "2023-02-01T10:27:39Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#23",
+      "time": "2023-02-01T10:27:39Z",
+      "link": "https://github.com/beckn/protocol-server/pull/23",
+      "text": "added utils and bap response fix"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,28 @@
+{
+  "last_updated": "2024-07-08T11:40:48Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#207",
+      "time": "2024-07-08T11:40:48Z",
+      "link": "https://github.com/beckn/protocol-server/issues/207",
+      "text": "[BOC Community]: leaderboard test issue 3"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#205",
+      "time": "2024-07-05T09:43:41Z",
+      "link": "https://github.com/beckn/protocol-server/issues/205",
+      "text": "[BOC Community]: test issue 2"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#200",
+      "time": "2024-07-04T11:03:17Z",
+      "link": "https://github.com/beckn/protocol-server/issues/200",
+      "text": "[BOC Community]: Test GITHUB Scrapper"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,14 @@
+{
+  "last_updated": "2023-04-20T08:17:52Z",
+  "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#25",
+      "time": "2023-04-20T08:17:52Z",
+      "link": "https://github.com/beckn/protocol-server/issues/25",
+      "text": "[Bug] Failed Spec Validation"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

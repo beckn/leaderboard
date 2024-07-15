@@ -1,0 +1,77 @@
+{
+  "last_updated": "2022-03-25T09:58:21Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#1",
+      "time": "2022-03-25T09:58:21Z",
+      "link": "https://github.com/beckn/protocol-server/pull/1",
+      "text": "Utils functions Added and configs updated"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#3",
+      "time": "2022-03-28T10:22:33Z",
+      "link": "https://github.com/beckn/protocol-server/pull/3",
+      "text": "Other actions Implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#4",
+      "time": "2022-03-29T10:08:58Z",
+      "link": "https://github.com/beckn/protocol-server/pull/4",
+      "text": "Cache"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#5",
+      "time": "2022-03-29T10:09:34Z",
+      "link": "https://github.com/beckn/protocol-server/pull/5",
+      "text": "Search and Other APIs Implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#6",
+      "time": "2022-03-30T10:39:58Z",
+      "link": "https://github.com/beckn/protocol-server/pull/6",
+      "text": "Response cache Implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#7",
+      "time": "2022-03-31T13:38:39Z",
+      "link": "https://github.com/beckn/protocol-server/pull/7",
+      "text": "Configuration changes Implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#8",
+      "time": "2022-04-04T10:07:05Z",
+      "link": "https://github.com/beckn/protocol-server/pull/8",
+      "text": "Installation Guide Added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#9",
+      "time": "2022-04-04T10:52:11Z",
+      "link": "https://github.com/beckn/protocol-server/pull/9",
+      "text": "keys changed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#10",
+      "time": "2022-04-04T12:28:59Z",
+      "link": "https://github.com/beckn/protocol-server/pull/10",
+      "text": "Installation Guide Changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#11",
+      "time": "2022-04-06T11:37:55Z",
+      "link": "https://github.com/beckn/protocol-server/pull/11",
+      "text": "Bpp result"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

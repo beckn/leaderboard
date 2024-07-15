@@ -1,0 +1,203 @@
+{
+  "last_updated": "2024-03-13T10:13:00Z",
+  "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#110",
+      "time": "2024-03-13T10:13:00Z",
+      "link": "https://github.com/beckn/protocol-server/issues/110",
+      "text": "SSL certificate renewal script"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#106",
+      "time": "2024-03-11T09:54:56Z",
+      "link": "https://github.com/beckn/protocol-server/issues/106",
+      "text": "DRAFT - Readme files for all the "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#105",
+      "time": "2024-03-11T09:50:06Z",
+      "link": "https://github.com/beckn/protocol-server/issues/105",
+      "text": "Protocol server documentation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#99",
+      "time": "2024-03-07T07:00:24Z",
+      "link": "https://github.com/beckn/protocol-server/issues/99",
+      "text": "Transaction ID and Message ID clarifications"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#98",
+      "time": "2024-03-07T06:44:31Z",
+      "link": "https://github.com/beckn/protocol-server/issues/98",
+      "text": "Protocol server data flow diagram"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#89",
+      "time": "2024-02-22T10:51:41Z",
+      "link": "https://github.com/beckn/protocol-server/issues/89",
+      "text": "Reorganize project structure"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#88",
+      "time": "2024-02-22T06:13:22Z",
+      "link": "https://github.com/beckn/protocol-server/issues/88",
+      "text": "Protocol Server - March 1 Milestones"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#128",
+      "time": "2024-02-20T10:40:32Z",
+      "link": "https://github.com/beckn/protocol-server/issues/128",
+      "text": "Kubernetes Scripts for deploying protocol server on Kubernetes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#124",
+      "time": "2024-02-16T10:59:27Z",
+      "link": "https://github.com/beckn/protocol-server/issues/124",
+      "text": "CI/CD setup - Protocol server Staging environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#125",
+      "time": "2024-02-16T09:38:53Z",
+      "link": "https://github.com/beckn/protocol-server/issues/125",
+      "text": "CI/CD set up - Protocol Server Develop branch to protocol server development environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#126",
+      "time": "2024-02-15T11:51:45Z",
+      "link": "https://github.com/beckn/protocol-server/issues/126",
+      "text": "Protocol Server - Staging server setup"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#127",
+      "time": "2024-02-15T11:34:03Z",
+      "link": "https://github.com/beckn/protocol-server/issues/127",
+      "text": "Protocol Server - Development environment setup"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#82",
+      "time": "2024-02-08T05:57:57Z",
+      "link": "https://github.com/beckn/protocol-server/issues/82",
+      "text": "Create a one click utility to install Protocol Server Client and Network docker containers for the BPP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#81",
+      "time": "2024-02-08T05:56:42Z",
+      "link": "https://github.com/beckn/protocol-server/issues/81",
+      "text": "Create a one click utility to install Protocol Server Client and Network docker containers for BAP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#58",
+      "time": "2024-01-05T06:18:43Z",
+      "link": "https://github.com/beckn/protocol-server/issues/58",
+      "text": "Protocol Server Videos  Production setup (VM instance)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#57",
+      "time": "2024-01-05T06:15:24Z",
+      "link": "https://github.com/beckn/protocol-server/issues/57",
+      "text": "Protocol Server Videos on Local Setup/developer system setup"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#56",
+      "time": "2024-01-04T12:01:09Z",
+      "link": "https://github.com/beckn/protocol-server/issues/56",
+      "text": "Documentation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#46",
+      "time": "2023-11-03T14:23:03Z",
+      "link": "https://github.com/beckn/protocol-server/issues/46",
+      "text": "Docker-compose for protocol server deployment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#45",
+      "time": "2023-11-03T14:18:10Z",
+      "link": "https://github.com/beckn/protocol-server/issues/45",
+      "text": "Kubernetes deployment scripts for Protocol server"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#44",
+      "time": "2023-11-03T14:10:14Z",
+      "link": "https://github.com/beckn/protocol-server/issues/44",
+      "text": "Improve logging for protocol server"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#43",
+      "time": "2023-11-03T14:04:49Z",
+      "link": "https://github.com/beckn/protocol-server/issues/43",
+      "text": "Enhanced logging in Protocol server"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#42",
+      "time": "2023-11-03T13:20:11Z",
+      "link": "https://github.com/beckn/protocol-server/issues/42",
+      "text": "Validate Async mode in protocol server"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#41",
+      "time": "2023-11-03T11:51:40Z",
+      "link": "https://github.com/beckn/protocol-server/issues/41",
+      "text": "Validate webhook mode in protocol server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#64",
+      "time": "2024-01-11T12:55:57Z",
+      "link": "https://github.com/beckn/protocol-server/pull/64",
+      "text": "Update issue templates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#65",
+      "time": "2024-01-11T13:35:52Z",
+      "link": "https://github.com/beckn/protocol-server/pull/65",
+      "text": "Create ISSUE-FORM.yml"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#77",
+      "time": "2024-01-30T07:09:38Z",
+      "link": "https://github.com/beckn/protocol-server/pull/77",
+      "text": "Update pending-doc-bhanu.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#78",
+      "time": "2024-01-30T08:21:29Z",
+      "link": "https://github.com/beckn/protocol-server/pull/78",
+      "text": "Update new-prod-setup.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#79",
+      "time": "2024-01-30T12:34:01Z",
+      "link": "https://github.com/beckn/protocol-server/pull/79",
+      "text": "Update local-setup.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

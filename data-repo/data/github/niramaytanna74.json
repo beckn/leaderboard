@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-04-25T06:39:57Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#136",
+      "time": "2024-04-25T06:39:57Z",
+      "link": "https://github.com/beckn/protocol-server/issues/136",
+      "text": "Run Protocol server on context path"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,42 @@
+{
+  "last_updated": "2022-10-20T05:24:19Z",
+  "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#17",
+      "time": "2022-10-20T05:24:19Z",
+      "link": "https://github.com/beckn/protocol-server/issues/17",
+      "text": "Need MAINTAINERS.md"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#16",
+      "time": "2022-10-20T05:21:56Z",
+      "link": "https://github.com/beckn/protocol-server/issues/16",
+      "text": "Configuration must come before running the server in the Readme"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#13",
+      "time": "2022-10-20T04:49:15Z",
+      "link": "https://github.com/beckn/protocol-server/issues/13",
+      "text": "Licenses at repo and readme are different in V2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#15",
+      "time": "2022-10-20T08:57:32Z",
+      "link": "https://github.com/beckn/protocol-server/pull/15",
+      "text": "Updated Readme"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#157",
+      "time": "2024-06-03T09:19:50Z",
+      "link": "https://github.com/beckn/protocol-server/pull/157",
+      "text": "Added Disclaimer"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

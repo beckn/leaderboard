@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-10-20T05:31:02Z",
+  "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#18",
+      "time": "2022-10-20T05:31:02Z",
+      "link": "https://github.com/beckn/protocol-server/issues/18",
+      "text": "Inconsistent setup doc instructions in V2"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#14",
+      "time": "2022-10-20T04:54:37Z",
+      "link": "https://github.com/beckn/protocol-server/issues/14",
+      "text": "Protocol server gateway modes"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

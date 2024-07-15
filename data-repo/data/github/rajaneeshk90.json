@@ -1,0 +1,35 @@
+{
+  "last_updated": "2024-07-11T04:54:37Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#215",
+      "time": "2024-07-11T04:54:37Z",
+      "link": "https://github.com/beckn/protocol-server/issues/215",
+      "text": "Making Changes in the core protocol spec version 1.2: phase 2"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#206",
+      "time": "2024-07-05T11:48:08Z",
+      "link": "https://github.com/beckn/protocol-server/issues/206",
+      "text": "Making Changes in the core protocol spec version 1.2: phase 1"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#204",
+      "time": "2024-07-05T06:27:47Z",
+      "link": "https://github.com/beckn/protocol-server/issues/204",
+      "text": "Exploring options for JSON validation against OpenAPI version 3.1 document"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#203",
+      "time": "2024-07-05T06:24:47Z",
+      "link": "https://github.com/beckn/protocol-server/issues/203",
+      "text": "Create a Presentation with the 4 layer2 configurations to share with Ravi"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-02-14T11:33:25Z",
+  "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#85",
+      "time": "2024-02-14T11:33:25Z",
+      "link": "https://github.com/beckn/protocol-server/issues/85",
+      "text": "Getting authentication error while connecting to RabbitMQ"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

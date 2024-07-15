@@ -1,0 +1,14 @@
+{
+  "last_updated": "2023-08-09T09:23:54Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#34",
+      "time": "2023-08-09T09:23:54Z",
+      "link": "https://github.com/beckn/protocol-server/pull/34",
+      "text": "Removing format: phone from Support schema as the format isn't allowed by OpenAPI."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-10-26T09:09:32Z",
+  "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#21",
+      "time": "2022-10-26T09:09:32Z",
+      "link": "https://github.com/beckn/protocol-server/issues/21",
+      "text": "Webhook mode is not working as expected"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#12",
+      "time": "2022-10-19T08:12:46Z",
+      "link": "https://github.com/beckn/protocol-server/issues/12",
+      "text": "Configuration document is not available in the attached link - https://github.com/beckn/protocol-server/Configuration_Guide.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

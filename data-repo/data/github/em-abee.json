@@ -1,0 +1,98 @@
+{
+  "last_updated": "2024-07-03T05:45:43Z",
+  "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#199",
+      "time": "2024-07-03T05:45:43Z",
+      "link": "https://github.com/beckn/protocol-server/issues/199",
+      "text": "Testing of Shared key Authentication"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#167",
+      "time": "2024-06-11T11:16:01Z",
+      "link": "https://github.com/beckn/protocol-server/issues/167",
+      "text": "Cache YAML file during app boot and incorporate cache limit"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#131",
+      "time": "2024-04-18T13:29:10Z",
+      "link": "https://github.com/beckn/protocol-server/issues/131",
+      "text": "Deployment of protocol server on dev and staging"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#130",
+      "time": "2024-04-18T09:53:02Z",
+      "link": "https://github.com/beckn/protocol-server/issues/130",
+      "text": "Test unsolicited response on dev environment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#123",
+      "time": "2024-04-15T09:39:07Z",
+      "link": "https://github.com/beckn/protocol-server/pull/123",
+      "text": "Support for unsolicited messages"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#135",
+      "time": "2024-04-23T08:28:21Z",
+      "link": "https://github.com/beckn/protocol-server/pull/135",
+      "text": "Added log for delayed message in BAP network"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#164",
+      "time": "2024-06-07T09:03:13Z",
+      "link": "https://github.com/beckn/protocol-server/pull/164",
+      "text": "Time tracker"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#168",
+      "time": "2024-06-13T05:44:26Z",
+      "link": "https://github.com/beckn/protocol-server/pull/168",
+      "text": "Cache YAML file during app boot and incorporate cache limit"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#171",
+      "time": "2024-06-13T11:02:11Z",
+      "link": "https://github.com/beckn/protocol-server/pull/171",
+      "text": "Added logs for measuring latency after caching done at appload"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#193",
+      "time": "2024-06-27T06:45:27Z",
+      "link": "https://github.com/beckn/protocol-server/pull/193",
+      "text": "Added optional shared key authentication for BPP Webhook communication"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#198",
+      "time": "2024-06-30T03:22:00Z",
+      "link": "https://github.com/beckn/protocol-server/pull/198",
+      "text": "Implemented logic to load OpenAPI validator spec at app load"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#201",
+      "time": "2024-07-05T02:32:12Z",
+      "link": "https://github.com/beckn/protocol-server/pull/201",
+      "text": "Adding HMAC algorithm in authorization header"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#208",
+      "time": "2024-07-08T12:08:44Z",
+      "link": "https://github.com/beckn/protocol-server/pull/208",
+      "text": "Changed HMAC library from sodium to crypto"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

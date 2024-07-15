@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-07-10T06:37:01Z",
+  "activity": [
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/protocol-server#212",
+      "time": "2024-07-10T06:37:01Z",
+      "link": "https://github.com/beckn/protocol-server/pull/212",
+      "text": "Openapi implementation using AGV for performance"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

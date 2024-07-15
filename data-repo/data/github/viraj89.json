@@ -1,0 +1,98 @@
+{
+  "last_updated": "2024-06-13T17:47:59Z",
+  "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#176",
+      "time": "2024-06-13T17:47:59Z",
+      "link": "https://github.com/beckn/protocol-server/issues/176",
+      "text": "End to End Testing of Unsolicited Webhook"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#175",
+      "time": "2024-06-13T17:29:07Z",
+      "link": "https://github.com/beckn/protocol-server/issues/175",
+      "text": "Unsolicited Webhook Controller for GCL"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#174",
+      "time": "2024-06-13T17:25:27Z",
+      "link": "https://github.com/beckn/protocol-server/issues/174",
+      "text": "Unsolicited Request Plugin Refactoring and Code Cleanup"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#173",
+      "time": "2024-06-13T14:38:47Z",
+      "link": "https://github.com/beckn/protocol-server/issues/173",
+      "text": "Certificate renewal for Beckn protocol domains"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#172",
+      "time": "2024-06-13T12:20:45Z",
+      "link": "https://github.com/beckn/protocol-server/issues/172",
+      "text": "Testing of Unsolicited Handling"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#163",
+      "time": "2024-06-06T15:06:36Z",
+      "link": "https://github.com/beckn/protocol-server/issues/163",
+      "text": "Cache YAML file incorporate Layer 2 config features"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#162",
+      "time": "2024-06-06T14:59:58Z",
+      "link": "https://github.com/beckn/protocol-server/issues/162",
+      "text": "Validate and Audit migration from Beckn core spec 0.9.4 to 1.1.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#140",
+      "time": "2024-05-03T14:33:08Z",
+      "link": "https://github.com/beckn/protocol-server/issues/140",
+      "text": "POC for Core YAML and Routing to Domain-Level YAML"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#139",
+      "time": "2024-05-03T14:29:58Z",
+      "link": "https://github.com/beckn/protocol-server/issues/139",
+      "text": "Migrate Core Protocol Spec to OpenAPI 3.1 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#138",
+      "time": "2024-04-29T16:02:27Z",
+      "link": "https://github.com/beckn/protocol-server/issues/138",
+      "text": "Gap Analysis for Traceability Mapping"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#134",
+      "time": "2024-04-22T15:55:32Z",
+      "link": "https://github.com/beckn/protocol-server/issues/134",
+      "text": "BOC Env - Add BPP Domain Names for the Protocol Server"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#133",
+      "time": "2024-04-22T15:55:24Z",
+      "link": "https://github.com/beckn/protocol-server/issues/133",
+      "text": "BOC Env - Add BAP Domain Names for the Protocol Server"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#132",
+      "time": "2024-04-22T15:55:05Z",
+      "link": "https://github.com/beckn/protocol-server/issues/132",
+      "text": "BOC Env - Create Registry and Gateway Domain Names for BOC using AWS EC2 Instance"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

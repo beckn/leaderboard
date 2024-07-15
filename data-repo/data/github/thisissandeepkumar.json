@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-10-21T10:18:42Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#19",
+      "time": "2022-10-21T10:18:42Z",
+      "link": "https://github.com/beckn/protocol-server/pull/19",
+      "text": "Docs Redone and Docker Image"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#20",
+      "time": "2022-10-21T10:30:56Z",
+      "link": "https://github.com/beckn/protocol-server/pull/20",
+      "text": "Added MAINTAINERS.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

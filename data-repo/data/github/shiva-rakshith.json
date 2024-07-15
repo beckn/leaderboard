@@ -1,0 +1,56 @@
+{
+  "last_updated": "2024-07-09T07:41:17Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#211",
+      "time": "2024-07-09T07:41:17Z",
+      "link": "https://github.com/beckn/protocol-server/issues/211",
+      "text": "Open Network Telemetry Specification v1.0 & SDK(to generate telemetry)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#142",
+      "time": "2024-05-14T12:52:47Z",
+      "link": "https://github.com/beckn/protocol-server/issues/142",
+      "text": "Protocol Server BAP Mode Schema Validation Issue"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#68",
+      "time": "2024-01-17T09:16:55Z",
+      "link": "https://github.com/beckn/protocol-server/issues/68",
+      "text": "Intermittently Getting Failed call to Subscriber Error"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#67",
+      "time": "2024-01-16T09:17:02Z",
+      "link": "https://github.com/beckn/protocol-server/issues/67",
+      "text": "Telemetry Generation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#74",
+      "time": "2024-01-29T05:44:58Z",
+      "link": "https://github.com/beckn/protocol-server/pull/74",
+      "text": "fix: Update telemetry event"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#209",
+      "time": "2024-07-09T05:41:38Z",
+      "link": "https://github.com/beckn/protocol-server/pull/209",
+      "text": "Open Network Telemetry SDK Integration"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#210",
+      "time": "2024-07-09T05:52:56Z",
+      "link": "https://github.com/beckn/protocol-server/pull/210",
+      "text": "Open Network Telemetry SDK(based on Open Network Telemetry Specifications v1.0)"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

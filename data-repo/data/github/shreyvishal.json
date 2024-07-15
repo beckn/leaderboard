@@ -1,0 +1,252 @@
+{
+  "last_updated": "2023-07-21T14:21:39Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#31",
+      "time": "2023-07-21T14:21:39Z",
+      "link": "https://github.com/beckn/protocol-server/pull/31",
+      "text": "Modified sequence of Middleware"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#38",
+      "time": "2023-09-13T18:21:31Z",
+      "link": "https://github.com/beckn/protocol-server/pull/38",
+      "text": "Log fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#39",
+      "time": "2023-09-25T09:04:25Z",
+      "link": "https://github.com/beckn/protocol-server/pull/39",
+      "text": "Added: Protocol server setup recorded session link to readme file"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#47",
+      "time": "2023-11-09T11:27:31Z",
+      "link": "https://github.com/beckn/protocol-server/pull/47",
+      "text": "Added:Key Property in context Builder"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#69",
+      "time": "2024-01-17T12:45:56Z",
+      "link": "https://github.com/beckn/protocol-server/pull/69",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#75",
+      "time": "2024-01-29T13:52:11Z",
+      "link": "https://github.com/beckn/protocol-server/pull/75",
+      "text": "Fixed Min Max Timeout Issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#76",
+      "time": "2024-01-29T13:52:32Z",
+      "link": "https://github.com/beckn/protocol-server/pull/76",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#80",
+      "time": "2024-01-31T12:34:49Z",
+      "link": "https://github.com/beckn/protocol-server/pull/80",
+      "text": "Fixed:Issue No. 73"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#83",
+      "time": "2024-02-14T10:33:28Z",
+      "link": "https://github.com/beckn/protocol-server/pull/83",
+      "text": "Telemetry data"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#84",
+      "time": "2024-02-14T10:34:51Z",
+      "link": "https://github.com/beckn/protocol-server/pull/84",
+      "text": "Telemetry data"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#90",
+      "time": "2024-02-26T09:20:37Z",
+      "link": "https://github.com/beckn/protocol-server/pull/90",
+      "text": "Added: Some thing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#92",
+      "time": "2024-02-28T08:16:12Z",
+      "link": "https://github.com/beckn/protocol-server/pull/92",
+      "text": "Log config"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#93",
+      "time": "2024-02-28T08:16:01Z",
+      "link": "https://github.com/beckn/protocol-server/pull/93",
+      "text": "Log config"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#101",
+      "time": "2024-03-09T08:17:12Z",
+      "link": "https://github.com/beckn/protocol-server/pull/101",
+      "text": "Fix misleading"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#108",
+      "time": "2024-03-15T11:40:54Z",
+      "link": "https://github.com/beckn/protocol-server/pull/108",
+      "text": "Issue 99"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#112",
+      "time": "2024-03-15T11:40:52Z",
+      "link": "https://github.com/beckn/protocol-server/pull/112",
+      "text": "Issue 111"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#113",
+      "time": "2024-03-15T11:40:41Z",
+      "link": "https://github.com/beckn/protocol-server/pull/113",
+      "text": "Issue 111"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#137",
+      "time": "2024-04-29T09:59:29Z",
+      "link": "https://github.com/beckn/protocol-server/pull/137",
+      "text": "Fixed: Set debug as default log level when /logs api is called withou…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#149",
+      "time": "2024-05-22T12:41:07Z",
+      "link": "https://github.com/beckn/protocol-server/pull/149",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#150",
+      "time": "2024-05-22T12:40:09Z",
+      "link": "https://github.com/beckn/protocol-server/pull/150",
+      "text": "Added: Log for openAPiValidator error"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#161",
+      "time": "2024-06-06T10:51:27Z",
+      "link": "https://github.com/beckn/protocol-server/pull/161",
+      "text": "Feat/temp latency fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#166",
+      "time": "2024-06-10T16:10:50Z",
+      "link": "https://github.com/beckn/protocol-server/pull/166",
+      "text": "Feat/latency layer2 config"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#169",
+      "time": "2024-06-12T12:37:00Z",
+      "link": "https://github.com/beckn/protocol-server/pull/169",
+      "text": "Added: Response structure fixes for unsolicited response"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#179",
+      "time": "2024-06-17T09:47:34Z",
+      "link": "https://github.com/beckn/protocol-server/pull/179",
+      "text": "Added: Feature for create cache on load"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#180",
+      "time": "2024-06-18T08:40:36Z",
+      "link": "https://github.com/beckn/protocol-server/pull/180",
+      "text": "Added: Feature For load OpenAPIValidator Cache on app boot"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#181",
+      "time": "2024-06-18T08:55:12Z",
+      "link": "https://github.com/beckn/protocol-server/pull/181",
+      "text": "Added: Feature For load OpenAPIValidator Cache on app boot"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#182",
+      "time": "2024-06-18T08:56:17Z",
+      "link": "https://github.com/beckn/protocol-server/pull/182",
+      "text": "Added: Feature For load OpenAPIValidator Cache on app boot"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#183",
+      "time": "2024-06-18T09:01:40Z",
+      "link": "https://github.com/beckn/protocol-server/pull/183",
+      "text": "Added: Feature For load OpenAPIValidator Cache on app boot"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#184",
+      "time": "2024-06-18T09:19:19Z",
+      "link": "https://github.com/beckn/protocol-server/pull/184",
+      "text": "Added: Feature For load OpenAPIValidator Cache on app boot"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#185",
+      "time": "2024-06-18T09:28:48Z",
+      "link": "https://github.com/beckn/protocol-server/pull/185",
+      "text": "Added: Feature For load OpenAPIValidator Cache on app boot"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#186",
+      "time": "2024-06-18T09:41:08Z",
+      "link": "https://github.com/beckn/protocol-server/pull/186",
+      "text": "Added: Feature For load OpenAPIValidator Cache on app boot"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#187",
+      "time": "2024-06-18T09:55:15Z",
+      "link": "https://github.com/beckn/protocol-server/pull/187",
+      "text": "Added: Feature For load OpenAPIValidator Cache on app boot"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#188",
+      "time": "2024-06-18T10:12:47Z",
+      "link": "https://github.com/beckn/protocol-server/pull/188",
+      "text": "Feat/cache spec on boot"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#189",
+      "time": "2024-06-18T11:09:52Z",
+      "link": "https://github.com/beckn/protocol-server/pull/189",
+      "text": "Feat/cache spec on boot"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#191",
+      "time": "2024-06-18T12:34:10Z",
+      "link": "https://github.com/beckn/protocol-server/pull/191",
+      "text": "Feat/cache spec on boot"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

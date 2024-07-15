@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-01-09T12:31:27Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#60",
+      "time": "2024-01-09T12:31:27Z",
+      "link": "https://github.com/beckn/protocol-server/issues/60",
+      "text": "CORS Issues"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#59",
+      "time": "2024-01-09T06:47:49Z",
+      "link": "https://github.com/beckn/protocol-server/issues/59",
+      "text": "Changing Max timeout to Min timeout for all endpoints except for Search API"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

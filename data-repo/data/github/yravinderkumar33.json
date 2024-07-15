@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-03-11T06:20:09Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#104",
+      "time": "2024-03-11T06:20:09Z",
+      "link": "https://github.com/beckn/protocol-server/issues/104",
+      "text": "Telemetry SDK Integration with the protocol server"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

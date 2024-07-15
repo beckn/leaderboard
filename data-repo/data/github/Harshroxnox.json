@@ -1,0 +1,14 @@
+{
+  "last_updated": "2023-05-27T18:30:07Z",
+  "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#27",
+      "time": "2023-05-27T18:30:07Z",
+      "link": "https://github.com/beckn/protocol-server/issues/27",
+      "text": "Spelling mistake for /lookupCache and /responseCache api endpoints"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -18,7 +18,7 @@ Still waiting for this
 }
 
 //const basePath = join(process.cwd(), process.env.DATA_REPO ?? ".");
-const basePath = join(process.cwd(), "../data-repo");
+const basePath = join(process.cwd(), "/data-repo");
 const contributorsPath = join(basePath, 'contributors');
 function getNewContributors() {
   let newContributors = new Set();

@@ -12,7 +12,7 @@ import { join } from 'path';
 import { writeFile, mkdir, readFile } from 'fs/promises';
 import { Octokit } from 'octokit';
 
-const basePath = join(process.cwd(), "../data-repo/data/github");
+const basePath = join(process.cwd(), "/data-repo/data/github");
 console.log('CWD:: ', process.cwd())
 console.info(`Data will be written to: '${basePath}'`);
 

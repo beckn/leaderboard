@@ -2128,6 +2128,13 @@
       "time": "2023-02-09T06:00:41Z",
       "link": "https://github.com/beckn/beckn-exp-ui/pull/87",
       "text": "implemented animation for cards and some css changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1506",
+      "time": "2024-07-15T07:42:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1506",
+      "text": "fix: text boc contributors detail"
     }
   ],
   "open_prs": [],

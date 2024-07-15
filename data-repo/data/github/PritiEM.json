@@ -2345,6 +2345,20 @@
       "time": "2024-04-15T08:44:40Z",
       "link": "https://github.com/beckn/APIHub/issues/5",
       "text": "Implement order Interoperability in strapi-bpp"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#139",
+      "time": "2024-07-15T07:02:24Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/139",
+      "text": "Registry deployment using k8s."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#138",
+      "time": "2024-07-15T07:02:02Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/138",
+      "text": "Gateway Deployment Using Kubernetes (k8s)"
     }
   ],
   "open_prs": [],

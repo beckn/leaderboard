@@ -61,7 +61,6 @@ export default async function Page({ params }: Params) {
     parseDateRangeSearchParam(),
     "points",
     "desc",
-    [],
   );
   const rank =
     leaderboardData.findIndex(

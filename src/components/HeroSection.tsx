@@ -11,14 +11,14 @@ const HeroSection = () => {
         fill="white"
       />
       <div className="p-4 relative z-10 w-full text-center">
-        <h1 className="mt-20 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400">
+        <h1 className="mt-20 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-[#4682BB]">
           Beckn Leaderboard
         </h1>
-        <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
+        <p className="mt-4 font-normal text-base md:text-lg text-black-300 max-w-lg mx-auto">
           A simple leaderboard app built with Next.js and Tailwind CSS to list
           the top contributors of a GitHub organization.
         </p>
-        <div className="mt-4">
+        <div className="mt-8">
           <Link href={"/contributors"}>
             <Button
               borderRadius="1.75rem"

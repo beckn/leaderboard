@@ -64,10 +64,10 @@ async function getSlackMessages(slackId: string) {
             time: new Date(message.ts * 1000).toISOString(),
             link: "",
             text: message.text,
-          })),
+          }))
         );
       },
-      [],
+      []
     );
   } else {
     return [] as Activity[];
@@ -95,7 +95,7 @@ export async function getContributorBySlug(file: string, detail = false) {
 
   try {
     activityData = JSON.parse(
-      await readFile(join(githubRoot, `${githubHandle}.json`), "utf8"),
+      await readFile(join(githubRoot, `${githubHandle}.json`), "utf8")
     ) as ActivityData;
   } catch (e) {
     activityData = {
@@ -148,7 +148,7 @@ export async function getContributorBySlug(file: string, detail = false) {
       pr_reviewed: 0,
       issue_assigned: 0,
       issue_opened: 0,
-    } as Highlights & { activity: Activity[] },
+    } as Highlights & { activity: Activity[] }
   );
 
   const calendarData = getCalendarData(weightedActivity.activity);
@@ -172,7 +172,7 @@ export async function getContributorBySlug(file: string, detail = false) {
       activity: weightedActivity.activity,
       pr_stale: activityData.open_prs.reduce(
         (acc, pr) => (pr?.stale_for >= 7 ? acc + 1 : acc),
-        0,
+        0
       ),
     },
     highlights: {
@@ -200,45 +200,40 @@ export async function getContributors() {
   if (!contributors) {
     const slugs = await getContributorsSlugs();
     contributors = await Promise.all(
-      slugs.map((path) => getContributorBySlug(path.file)),
+      slugs.map((path) => getContributorBySlug(path.file))
     );
   }
   return contributors;
 }
 
 function getCalendarData(activity: Activity[]) {
-  const calendarData = activity.reduce(
-    (acc, activity) => {
-      const date = new Date(activity.time).toISOString().split("T")[0];
-      if (!acc[date]) {
-        acc[date] = {
-          count: 0,
-          types: [],
-        };
-      }
-      acc[date].count += 1;
-      if (acc[date][activity.type]) {
-        acc[date][activity.type] += 1;
-      } else {
-        acc[date][activity.type] = 1;
-      }
-      if (!acc[date].types.includes(activity.type)) {
-        acc[date].types.push(activity.type);
-        // console.log(activity.type);
-      }
-      return acc;
-    },
-    {} as Record<string, any>,
-  );
+  const calendarData = activity.reduce((acc, activity) => {
+    const date = new Date(activity.time).toISOString().split("T")[0];
+    if (!acc[date]) {
+      acc[date] = {
+        count: 0,
+        types: [],
+      };
+    }
+    acc[date].count += 1;
+    if (acc[date][activity.type]) {
+      acc[date][activity.type] += 1;
+    } else {
+      acc[date][activity.type] = 1;
+    }
+    if (!acc[date].types.includes(activity.type)) {
+      acc[date].types.push(activity.type);
+      // console.log(activity.type);
+    }
+    return acc;
+  }, {} as Record<string, any>);
   return [...Array(365)].map((_, i) => {
     // Current Date - i
-    const iReverse = 365 - i;
-    const date = new Date(
-      new Date().getTime() - iReverse * 24 * 60 * 60 * 1000,
-    );
+    const date = new Date();
+    date.setDate(date.getDate() - i);
     // yyyy-mm-dd
     const dateString = `${date.getFullYear()}-${padZero(
-      date.getMonth() + 1,
+      date.getMonth() + 1
     )}-${padZero(date.getDate())}`;
     const returnable = {
       // date in format YYYY-MM-DD
@@ -265,10 +260,10 @@ const HIGHLIGHT_KEYS = [
 
 const computePoints = (
   calendarDataEntry: Highlights,
-  initialPoints: number,
+  initialPoints: number
 ) => {
   return HIGHLIGHT_KEYS.map(
-    (key) => points[key] * (calendarDataEntry[key] ?? 0),
+    (key) => points[key] * (calendarDataEntry[key] ?? 0)
   ).reduce((a, b) => a + b, initialPoints);
 };
 

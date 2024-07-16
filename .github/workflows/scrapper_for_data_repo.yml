@@ -30,6 +30,9 @@ jobs:
           sparse-checkout: |
             scripts
 
+      - name: List files in leaderboard directory
+        run: ls -la leaderboard/scripts
+
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:

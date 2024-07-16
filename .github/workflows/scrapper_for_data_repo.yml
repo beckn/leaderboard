@@ -25,6 +25,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: beckn/leaderboard
+          ref: develop
           path: ./leaderboard
           sparse-checkout: |
             scripts

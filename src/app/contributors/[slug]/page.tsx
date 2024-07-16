@@ -26,30 +26,35 @@ type Params = {
   params: { slug: string };
 };
 
-export async function generateMetadata(
-  { params }: Params,
-  parent: ResolvingMetadata,
-): Promise<Metadata> {
-  const slug = params.slug;
-  const contributor = await getContributorBySlug(slug, true);
-  const url = process.env.NEXT_PUBLIC_META_URL;
+// export async function generateMetadata(
+//   { params }: Params,
+//   parent: ResolvingMetadata,
+// ): Promise<Metadata> {
+//   const slug = params.slug;
+//   const contributor = await getContributorBySlug(slug, true);
+//   const url = process.env.NEXT_PUBLIC_META_URL;
 
-  return {
-    title: slug,
-    description: contributor.content,
-    openGraph: {
-      title: slug,
-      description: contributor.content,
-      url: `${url}/contributors/${slug}`,
-    },
-  };
-}
-export async function generateStaticParams() {
-  const slugs = await getContributorsSlugs();
-  return slugs
-    .filter((slug) => !slug.file.includes("[bot]"))
-    .map((slug) => ({ slug: slug.file.replace(".md", "") }));
-}
+
+//   const  metaData = {
+//     title: slug,
+//     description: contributor.content,
+//     openGraph: {
+//       title: slug,
+//       description: contributor.content,
+//       url: `${url}/contributors/${slug}`,
+//     },
+//   }
+
+//   console.log("Dank",contributor)
+
+//   return metaData ;
+// }
+// export async function generateStaticParams() {
+//   const slugs = await getContributorsSlugs();
+//   return slugs
+//     .filter((slug) => !slug.file.includes("[bot]"))
+//     .map((slug) => ({ slug: slug.file.replace(".md", "") }));
+// }
 
 export const dynamicParams = false;
 
@@ -77,25 +82,6 @@ export default async function Page({ params }: Params) {
           <div className="mx-auto my-auto min-w-max md:w-2/3">
             <InfoCard contributor={contributor} rank={rank} />
           </div>
-          {/* <div className="mb-2 flex flex-wrap justify-center lg:grid lg:w-full lg:grid-cols-7 lg:gap-2">
-            {[
-              professionalSelfSkills,
-              professionalTeamSkills,
-              advancedSkills,
-              humanValues,
-            ].map((attributeGroup) => {
-              return attributeGroup.map((skill) => (
-                <div
-                  className="mx-2 mt-3 shrink-0 items-center justify-center rounded-lg lg:mx-5"
-                  key={skill.key}
-                >
-                  <BadgeIcons
-                    skill={resolveGraduateAttributes(skill, contributor)}
-                  />
-                </div>
-              ));
-            })}
-          </div> */}
         </div>
       </section>
 

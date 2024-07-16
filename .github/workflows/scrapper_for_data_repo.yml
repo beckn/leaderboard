@@ -46,14 +46,14 @@ jobs:
         with:
           timeout_minutes: 10
           max_attempts: 1
-          command: node scripts/pullHistoricalGitHubActivitiesForDataRepo.js
+          command: node ./leaderboard/scripts/pullHistoricalGitHubActivitiesForDataRepo.js
           on_retry_command: git checkout .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_ORG: "beckn"
 
       - name: Generate markdown files for new contributors
-        run: node scripts/generateNewContributorsForDataRepo.js
+        run: node ./leaderboard/scripts/generateNewContributorsForDataRepo.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_ORG: "beckn"

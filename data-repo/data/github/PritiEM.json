@@ -2359,6 +2359,13 @@
       "time": "2024-07-15T07:02:02Z",
       "link": "https://github.com/beckn/beckn-onix/issues/138",
       "text": "Gateway Deployment Using Kubernetes (k8s)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#140",
+      "time": "2024-07-15T07:57:31Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/140",
+      "text": "Deploy New Gateway and Registry on EC2 Using ONIX Script"
     }
   ],
   "open_prs": [],

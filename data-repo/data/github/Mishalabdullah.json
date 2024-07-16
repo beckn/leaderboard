@@ -77,6 +77,13 @@
       "time": "2024-05-15T05:11:00Z",
       "link": "https://github.com/beckn/beckn-onix-stack/issues/3",
       "text": "Beckn Extensions - For adding more features."
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#141",
+      "time": "2024-07-15T09:07:16Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/141",
+      "text": "Feature/beckn onix video"
     }
   ],
   "open_prs": [],

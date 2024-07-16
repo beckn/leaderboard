@@ -469,6 +469,34 @@
       "time": "2024-07-09T08:42:10Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1487",
       "text": "fix: modified code to add common order details comp & its subComp"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1509",
+      "time": "2024-07-16T05:27:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1509",
+      "text": "To integrate Utilities from Common Packages into OSC app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1508",
+      "time": "2024-07-15T13:03:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1508",
+      "text": "Add Cypress unit test cases for search page in retail app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1507",
+      "time": "2024-07-15T11:55:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1507",
+      "text": "BOC workspace testing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1510",
+      "time": "2024-07-16T07:29:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1510",
+      "text": "Staging 1.1.0"
     }
   ],
   "open_prs": [],

@@ -1302,6 +1302,13 @@
       "time": "2024-06-27T03:24:54Z",
       "link": "https://github.com/beckn/DSEP-Specification/issues/180",
       "text": "Example jsons for Information discovery usecase"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#154",
+      "time": "2024-07-15T12:12:11Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/154",
+      "text": "Add layer 2 for open Belem and VISTAAR"
     }
   ],
   "open_prs": [],

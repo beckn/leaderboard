@@ -903,6 +903,20 @@
       "time": "2024-07-15T07:36:03Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1505",
       "text": "Test issue for leaderboard"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1513",
+      "time": "2024-07-16T09:20:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1513",
+      "text": "Test issue 3 for leaderboard"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1512",
+      "time": "2024-07-16T09:20:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1512",
+      "text": "Test issue 2 for leaderboard"
     }
   ],
   "open_prs": [],

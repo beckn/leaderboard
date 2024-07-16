@@ -2135,6 +2135,13 @@
       "time": "2024-07-15T07:42:41Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1506",
       "text": "fix: text boc contributors detail"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1511",
+      "time": "2024-07-16T09:18:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1511",
+      "text": "fix: text boc contributors detail on deployed version"
     }
   ],
   "open_prs": [],

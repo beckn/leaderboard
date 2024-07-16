@@ -12,7 +12,7 @@ import { join } from 'path';
 import { writeFile, mkdir, readFile } from 'fs/promises';
 import { Octokit } from 'octokit';
 
-const basePath = join(process.cwd(), "/data-repo/data/github");
+const basePath = join(process.cwd(), "/data/github");
 console.info(`Data will be written to: '${basePath}'`);
 
 const org = process.env.GITHUB_ORG;
@@ -158,7 +158,6 @@ const getUserActivities = async () => {
 
   const repositories = await getRepositories();
   //const repositories = ['protocol-server']
-  console.log('Repository names: ', repositories);
   for (const [i, repo] of repositories.entries()) {
     console.info(
       `[${i + 1}/${repositories.length}] Pulling activities for repository '${repo}'`,
@@ -182,6 +181,7 @@ const getUserActivities = async () => {
 
     const pulls = await getPullRequests(repo);
     console.info(`  Captured ${pulls.length} pull requests`);
+
     for (const pr of pulls) {
       if (!pr.author?.login) {
         continue;
@@ -263,7 +263,7 @@ async function main() {
   console.log(`Captured ${dataPoints} data points.`);
 
   await mkdir(basePath, { recursive: true });
-
+  
   await Promise.all(
     Object.entries(userActivities).map(async ([user, activities]) => {
       if (isBlacklisted(user)) {

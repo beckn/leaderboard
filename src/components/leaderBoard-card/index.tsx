@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import Image from "next/image";
-
+import { FaGithub } from "react-icons/fa";
 interface LeaderBoardCardProps {
   list: any[];
 }
@@ -46,6 +46,9 @@ const LeaderBoardCard: React.FC<LeaderBoardCardProps> = ({ list }) => {
               >
                 {rankMap[index + 1]}
               </p>
+              <div className="text-[#4682BB] absolute top-[15px] right-[8px]">
+                {<FaGithub />}
+              </div>
               <Image
                 src={`https://avatars.githubusercontent.com/${slug}`}
                 alt={slug}

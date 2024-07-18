@@ -49,41 +49,25 @@ export default async function Leaderboard({}) {
   const ordering = "desc";
   return (
     <div>
-      <div className="max-w-[1364px] min-w-[1364px] mx-auto">
+      <div className="max-w-[1360px] min-w-[1360px] mx-auto">
         <div className="px-0 pb-10  2xl:gap-5 relative">
           <Spotlight
             className="-top-40 left-0 md:left-60 md:-top-20"
             fill="white"
           />
           <div
-            className="w-[90%] flex justify-center items-center flex-col "
-            style={{ margin: "0 auto", marginTop: "40px" }}
+            className="w-[94%] flex justify-center items-center flex-col "
+            style={{ margin: "0 auto" }}
           >
-            <div className="bg-[#F7FAFF] px-[180px]  py-[33px] rounded-lg">
-              <div className="text-[24px] font-medium text-center w-[80%] leading-[30px] mb-[18px] text-end">
-                Meet{" "}
-                <span className=" text-[#4682BB] text-end">
-                  the contributors
-                </span>{" "}
-                who are shaping the beckn
-              </div>
-              <div className="text-[18px] text-center">
-                Celebrating the Champions of Our Community. A dynamic
-                leaderboard showcasing top contributors and their achievements.
-                Celebrating the Champions of Our Community. A dynamic
-                leaderboard showcasing top contributors and their achievements.
-              </div>
-            </div>
-            <div className="flex  justify-between flex-start  mt-12 w-[100%]">
+            <div className="flex  justify-between flex-start  mt-[50px] w-[100%]">
               <div>
                 <LeaderBoardCard list={data1.slice(0, 3)} />
                 <LeaderBoardTable list={data1.slice(3, data1.length)} />
               </div>
 
               <div>
-                <div className="bg-[#F7FAFF] text-[#4682BB] text-[20px] font-medium p-[16px] w-[100%] text-center rounded-lg  flex items-center mb-10">
-                  <p className="mr-2">Top Contributors of the week</p>{" "}
-                  <CiSquareInfo />
+                <div className="bg-[#F7FAFF] text-[#4682BB] text-[20px] font-medium p-[16px] w-[100%] text-center rounded-lg justify-center  flex items-center mb-10">
+                  <p className="mr-2">Top Brass of the week</p> <CiSquareInfo />
                 </div>
                 <ContributorsCard
                   title="Pull Requests Opened"

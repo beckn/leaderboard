@@ -1,8 +1,8 @@
 import React from "react";
-import { SlSocialLinkedin } from "react-icons/sl";
-import { IoLogoFacebook } from "react-icons/io5";
-
+import { FaLinkedin } from "react-icons/fa";
+import { FaYoutube } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
+import Link from "next/link";
 
 const Footer = () => {
   return (
@@ -11,22 +11,36 @@ const Footer = () => {
         <img src="assets/images/transparent-logo.svg" alt="" />
       </div>
       <div className="flex justify-center items-center text-[#fff] mt-6 text-[16px]">
-        <p className="m-2">Home</p>
-        <p className="m-2">Community</p>
-        <p className="m-2">Support</p>
-        <p className="m-2">Forums</p>
+        <Link href={"/"}>
+          <p className="m-2">Home</p>
+        </Link>
         <p className="m-2">Get Started</p>
+        <Link href={"https://bit.ly/bocWebInvite"} target="_blank">
+          <p className="m-2">Join us on Discord</p>
+        </Link>
+        <Link href={"https://github.com/beckn"} target="_blank">
+          <p className="m-2">Join us on GitHub</p>
+        </Link>
       </div>
       <div className="flex justify-center items-center text-[#fff] mt-4 text-[#5C5C5C] ">
-        <div className="m-1 w-[20px] h-[20px]">
-          <SlSocialLinkedin />
-        </div>
-        <div className="m-1 w-[20px] h-[20px]">
-          <FaXTwitter />
-        </div>
-        <div className="m-1 w-[20px] h-[20px]">
-          <IoLogoFacebook />
-        </div>
+        <Link
+          href={"https://www.linkedin.com/company/becknprotocol/"}
+          target="_blank"
+        >
+          <div className="m-[6px] w-[20px] h-[20px] text-[#5C5C5C]">
+            <FaLinkedin />
+          </div>
+        </Link>
+        <Link href={"https://x.com/becknprotocol?lang=en"} target="_blank">
+          <div className="m-[6px] w-[20px] h-[20px] text-[#5C5C5C]">
+            <FaXTwitter />
+          </div>
+        </Link>
+        <Link href={"https://www.youtube.com/@becknprotocol"} target="_blank">
+          <div className="m-[6px] w-[20px] h-[20px] text-[#5C5C5C]">
+            <FaYoutube />
+          </div>
+        </Link>
       </div>
       <div className="mt-20 text-[16px] text-[#5C5C5C]">
         © 2024, All Rights Reserved

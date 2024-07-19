@@ -50,3 +50,88 @@ html.dark {
     text-wrap: balance;
   }
 }
+@media (min-width: 320px) and (max-width: 720px) {
+  .leaderboard_contributers {
+    display: block;
+  }
+  .contributorsCard_title {
+    margin-top: unset;
+  }
+  .leaderboard_tabledata {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .sort_by_date {
+    justify-content: center;
+  }
+  .navbar_heading {
+    display: none;
+  }
+}
+@media (min-width: 320px) and (max-width: 768px) {
+  .navbar {
+    padding: 10px;
+  }
+  .navbar_heading {
+    font-size: 12px;
+    line-height: unset;
+    font-weight: 500;
+  }
+
+  .navbar img {
+    width: 100px;
+  }
+  .navbar p > button {
+    font-size: 12px;
+    padding: 8px;
+  }
+
+  .footer {
+    padding-top: 20px;
+    padding-bottom: 10px;
+  }
+  .footer div {
+    font-size: 12px;
+  }
+  .copyright_text {
+    margin-top: unset;
+  }
+  .contributorsCard_title {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin-top: 30px;
+  }
+}
+@media (min-width: 783px) and (max-width: 990px) {
+  .navbar p > button {
+    font-size: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .navbar_heading {
+    font-size: 18px;
+    line-height: unset;
+    font-weight: 500;
+  }
+}
+@media (min-width: 721px) and (max-width: 782px) {
+  .navbar p > button {
+    font-size: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .navbar_heading {
+    font-size: 16px;
+    line-height: unset;
+    font-weight: 500;
+  }
+}
+@media (min-width: 991px) and (max-width: 1080px) {
+  .navbar p > button {
+    font-size: 18px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}

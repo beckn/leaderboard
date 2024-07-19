@@ -4,6 +4,7 @@ import Image from "next/image";
 import { RiMedalLine } from "react-icons/ri";
 import { PiIdentificationCard } from "react-icons/pi";
 import { CiStar } from "react-icons/ci";
+import { sortByPoints } from "@/app/leaderboard/utils";
 import { MdOutlineSignalCellularAlt } from "react-icons/md";
 import { FaGithub } from "react-icons/fa";
 import { HiOutlineArrowUturnRight } from "react-icons/hi2";
@@ -17,6 +18,8 @@ const LeaderBoardGrid: React.FC<LeaderBoardGrid> = ({ list }) => {
   const [visibleRows, setVisibleRows] = useState(initialRows);
   const [isClient, setIsClient] = useState(false);
   const loadMoreButtonRef = useRef<HTMLButtonElement>(null);
+
+  console.log("Dank", sortByPoints(list));
 
   useEffect(() => {
     setIsClient(true);

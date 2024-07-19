@@ -6,7 +6,7 @@ import Link from "next/link";
 
 const Footer = () => {
   return (
-    <div className=" bg-[#000000] w-[99%] rounded-xl flex flex-col  justify-center items-center pt-16 pb-10 mb-2 mx-auto">
+    <div className=" bg-[#000000] w-[99%] rounded-xl flex flex-col  justify-center items-center pt-16 pb-10 mb-2 mx-auto footer">
       <div>
         <img src="assets/images/transparent-logo.svg" alt="" />
       </div>
@@ -42,7 +42,7 @@ const Footer = () => {
           </div>
         </Link>
       </div>
-      <div className="mt-20 text-[16px] text-[#5C5C5C]">
+      <div className="mt-20 text-[16px] text-[#5C5C5C] copyright_text">
         © 2024, All Rights Reserved
       </div>
       <div className="mt-2 text-[16px] text-[#5C5C5C]">Beckn Protocol</div>

@@ -48,18 +48,18 @@ const LeaderBoardTable: React.FC<LeaderBoardTable> = ({ list }) => {
               </th>
               <th scope="col" className="px-6 py-5">
                 <div className="flex items-center">
-                  <PiIdentificationCard /> <p className="ml-2">Challenger</p>
+                  <PiIdentificationCard /> <p className="ml-2">Name</p>
                 </div>
               </th>
               <th scope="col" className="px-6 py-5">
                 <div className="flex items-center">
-                  <CiStar /> <p className="ml-2">XP</p>
+                  <CiStar /> <p className="ml-2">Points</p>
                 </div>
               </th>
               <th scope="col" className="px-6 py-5">
                 <div className="flex items-center">
                   <MdOutlineSignalCellularAlt />
-                  <p className="ml-2">Ledger of Deeds</p>
+                  <p className="ml-2">Contribution stats</p>
                 </div>
               </th>
               <th scope="col" className="px-6 py-5">

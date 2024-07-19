@@ -31,7 +31,7 @@ const LeaderBoardGrid: React.FC<LeaderBoardGrid> = ({ list }) => {
 
   return (
     <>
-      <div className="flex justify-between items-center w-[100%]">
+      <div className="flex justify-between items-center w-[100%] sort_by_date">
         <div className="relative text-[14px] font-medium text-[#4682BB]">
           <span className="opacity-50"> Last 30 days </span>|{" "}
           <span>Last 7 days</span>
@@ -75,14 +75,14 @@ const LeaderBoardGrid: React.FC<LeaderBoardGrid> = ({ list }) => {
                   <div className="flex  items-center  ml-[30px]">
                     <div>
                       <div className="flex items-center font-medium text-[#4682BB]  px-1 py-2">
-                        <CiStar /> <p className="ml-2">XP</p>
+                        <CiStar /> <p className="ml-2">Points</p>
                       </div>
                       <div className="px-1 py-2 ">{points}</div>
                     </div>
                     <div>
                       <div className="flex items-center font-medium text-[#4682BB] px-1 py-2">
                         <MdOutlineSignalCellularAlt />
-                        <p className="ml-2">Ledger of Deeds</p>
+                        <p className="ml-2">Contribution stats</p>
                       </div>
                       <div className="px-1 py-2">
                         {pr_merged} PR merged; {pr_opened} Open

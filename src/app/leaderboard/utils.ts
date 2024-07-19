@@ -1,5 +1,13 @@
 import { LeaderboardAPIResponse } from "@/lib/types";
 
+
+export const sortByPoints = (users: LeaderboardAPIResponse[number][]) => {
+  let sortedUsers = users.sort((a, b) => {
+    return b.highlights.points - a.highlights.points;
+  });
+  return sortedUsers;
+};
+
 export const sortByReviewedPrs = (users: LeaderboardAPIResponse[number][]) => {
   let sortedUsers = users.sort((a, b) => {
     return b.highlights.pr_reviewed - a.highlights.pr_reviewed;

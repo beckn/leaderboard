@@ -20,6 +20,7 @@
     "octokit": "^4.0.2",
     "react": "^18",
     "react-activity-calendar": "^2.2.11",
+    "react-device-detect": "^2.2.3",
     "react-dom": "^18",
     "react-icons": "^5.2.1",
     "rehype-stringify": "^10.0.0",

@@ -21,7 +21,7 @@ const Navbar = ({ className }: { className?: string }) => {
 
           <div className="text-[24px] font-semibold text-center leading-[30px]  text-[#000000] navbar_heading">
             Meet <span className=" text-[#4682BB] ">the contributors</span> who
-            are shaping the beckn
+            are shaping  beckn
           </div>
 
           <MenuItem

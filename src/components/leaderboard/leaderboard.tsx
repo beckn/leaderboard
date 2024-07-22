@@ -19,9 +19,12 @@ interface LeaderboardProps {
 
 const Leaderboard: React.FC<LeaderboardProps> = ({ list }) => {
   const [isMobile, setIsMobile] = useState(false);
+  const [isSmallScreen, setIsSmallScreen] = useState(false);
+
 
   const handleResize = () => {
     setIsMobile(window.innerWidth <= 1300);
+    setIsSmallScreen(window.innerWidth <= 680);
   };
 
   useEffect(() => {
@@ -36,7 +39,6 @@ const Leaderboard: React.FC<LeaderboardProps> = ({ list }) => {
   }, []);
 
   console.log("Dank", sortByPoints(list), isMobile);
-
   useEffect(() => {
     console.log("Dank here", isMobile);
   }, [isMobile]);
@@ -46,7 +48,14 @@ const Leaderboard: React.FC<LeaderboardProps> = ({ list }) => {
       className="w-[94%] flex justify-center items-center flex-col "
       style={{ margin: "0 auto" }}
     >
+			{
+				isSmallScreen && <div className="text-[1.6rem] mt-[2rem] font-semibold text-center leading-[2rem]  text-[#000000]">
+				Meet <span className=" text-[#4682BB] ">the contributors</span> who
+				are shaping  beckn
+			</div>
+			}
       <div className="flex justify-between flex-start mt-[50px] w-[100%] leaderboard_contributers">
+
         <div className="leaderboard_tabledata">
           {!isMobile && <LeaderBoardCard list={list.slice(0, 3)} />}
           {isMobile ? (

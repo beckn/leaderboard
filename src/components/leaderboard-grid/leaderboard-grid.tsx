@@ -36,8 +36,8 @@ const LeaderBoardGrid: React.FC<LeaderBoardGrid> = ({ list }) => {
     <>
       <div className="flex justify-between items-center w-[100%] sort_by_date">
         <div className="relative text-[14px] font-medium text-[#4682BB]">
-          <span className="opacity-50"> Last 30 days </span>|{" "}
-          <span>Last 7 days</span>
+				<span > Last 30 days </span>|{" "}
+				<span className="opacity-50">Last 7 days</span>
         </div>
       </div>
       <div className="relative overflow-x-auto mt-8">

@@ -58,8 +58,8 @@ jobs:
         run: ls -la
 
       - name: Scrape data from GitHub
-        run: pnpm start beckn ../data/github
-        working-directory: scraper
+        run: pnpm start beckn ../../data/github
+        working-directory: leaderboard/scraper
         env:
           GITHUB_TOKEN: ${{ secrets.SCRAPER_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           PROJECTS_BOARD_ID: ${{ inputs.projects-board-id }}

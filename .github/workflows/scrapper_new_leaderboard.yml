@@ -68,7 +68,7 @@ jobs:
       - run: mkdir -p contributors
 
       - name: Generate markdown files for new contributors
-        run: node scripts/generateNewContributors.js
+        run: node leaderboard/scripts/generateNewContributors.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_ORG: "beckn"

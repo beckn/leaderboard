@@ -42,7 +42,7 @@ jobs:
             scripts
             
       - name: List files in leaderboard directory
-        run: ls -la leaderboard/scripts
+        run: ls -la
 
       - uses: actions/setup-node@v3
         with:

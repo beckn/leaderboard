@@ -56,7 +56,7 @@ jobs:
         working-directory: leaderboard/scraper
 
       - name: Scrape data from GitHub
-        run: pnpm start ${{ github.repository_owner }} ../../data/github
+        run: pnpm start ${{ github.repository_owner }} ../../../data/github
         working-directory: scraper
         env:
           GITHUB_TOKEN: ${{ secrets.SCRAPER_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}

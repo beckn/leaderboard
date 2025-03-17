@@ -33,7 +33,7 @@ export const env = createEnv({
 
     NEXT_PUBLIC_FEATURES: z.string(),
     NEXT_PUBLIC_DATA_SOURCE: z.string(),
-    NEXT_PUBLIC_FLAT_REPO_EXPLORER_URL: z.string(),
+    NEXT_PUBLIC_FLAT_REPO_EXPLORER_URL: z.string().optional(),
   },
   runtimeEnv: {
     NEXT_PUBLIC_ORG_NAME: process.env.NEXT_PUBLIC_ORG_NAME,

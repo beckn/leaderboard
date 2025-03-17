@@ -79,8 +79,8 @@ export default function Footer() {
                 </a>
               </div>
               <p className="max-w-xs text-sm text-gray-400">
-                Connecting healthcare through open data and innovative
-                solutions.
+              Internet’s leap
+              for humanity.
               </p>
             </FooterSection>
           </div>
@@ -90,9 +90,6 @@ export default function Footer() {
               <FooterSection title="Resources">
                 <FooterLink href={env.NEXT_PUBLIC_DATA_SOURCE}>
                   Data Repository
-                </FooterLink>
-                <FooterLink href={env.NEXT_PUBLIC_FLAT_REPO_EXPLORER_URL}>
-                  Flat Repository Explorer
                 </FooterLink>
               </FooterSection>
 

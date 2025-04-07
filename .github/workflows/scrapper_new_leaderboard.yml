@@ -65,20 +65,20 @@ jobs:
           PROJECTS_BOARD_ID: ${{ inputs.projects-board-id }}
           GITHUB_ORG: "beckn"
 
-      - uses: actions/setup-python@v3
-        with:
-          python-version: "3.10"
+      # - uses: actions/setup-python@v3
+      #   with:
+      #     python-version: "3.10"
 
-      - name: Install dependencies
-        run: pip install -r scraper/requirements.txt
+      # - name: Install dependencies
+      #   run: pip install -r scraper/requirements.txt
 
-      - name: Scrape EOD updates from Slack Channel
-        # if: ${{ env.SLACK_API_TOKEN && env.SLACK_CHANNEL }}
-        run: python scraper/src/slack.py --lookback_days=2
-        continue-on-error: true
-        env:
-          SLACK_API_TOKEN: "xoxe.xoxp-1-Mi0yLTEzMDEzNTcyNTIzMzctNTM0MDg0NjkzNTkwNi04NzI2MDg2MTUzNDg5LTg3MjYwODYxNTQ0MTctNTBiMDRmMzNjZDZjYTJkOWY0NmI3YzRjMzU4Y2E3NzA5NTA0MmMyOGQ2NDczNzE0ZDNmNjBkZTA0OTYwYWMzNQ"
-          SLACK_CHANNEL: ${{ inputs.slack-eod-channel }}
+      # - name: Scrape EOD updates from Slack Channel
+      #   if: ${{ env.SLACK_API_TOKEN && env.SLACK_CHANNEL }}
+      #   run: python scraper/src/slack.py --lookback_days=2
+      #   continue-on-error: true
+      #   env:
+      #     SLACK_API_TOKEN: ""
+      #     SLACK_CHANNEL: ${{ inputs.slack-eod-channel }}
 
       - run: mkdir -p contributors
 

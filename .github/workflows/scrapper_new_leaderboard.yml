@@ -73,11 +73,11 @@ jobs:
         run: pip install -r scraper/requirements.txt
 
       - name: Scrape EOD updates from Slack Channel
-        if: ${{ env.SLACK_API_TOKEN && env.SLACK_CHANNEL }}
+        # if: ${{ env.SLACK_API_TOKEN && env.SLACK_CHANNEL }}
         run: python scraper/src/slack.py --lookback_days=2
         continue-on-error: true
         env:
-          SLACK_API_TOKEN: ${{ secrets.SLACK_API_TOKEN }}
+          SLACK_API_TOKEN: "xoxe.xoxp-1-Mi0yLTEzMDEzNTcyNTIzMzctNTM0MDg0NjkzNTkwNi04NzI2MDg2MTUzNDg5LTg3MjYwODYxNTQ0MTctNTBiMDRmMzNjZDZjYTJkOWY0NmI3YzRjMzU4Y2E3NzA5NTA0MmMyOGQ2NDczNzE0ZDNmNjBkZTA0OTYwYWMzNQ"
           SLACK_CHANNEL: ${{ inputs.slack-eod-channel }}
 
       - run: mkdir -p contributors

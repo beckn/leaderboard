@@ -89,8 +89,8 @@ async function parseDiscussionData(
   endDate: Date,
   startDate: Date,
 ) {
-  console.log(`endDate: ${endDate}`);
-  console.log(`startDate: ${startDate}`);
+  console.log(`parseDiscussionData endDate: ${endDate}`);
+  console.log(`parseDiscussionData startDate: ${startDate}`);
   const discussionsWithinDateRange = allDiscussions.filter((d) => {
     const createdAt = new Date(d.discussion.createdAt);
     const updatedAt = new Date(d.discussion.updatedAt);

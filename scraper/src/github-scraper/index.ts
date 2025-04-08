@@ -1,4 +1,4 @@
-import { formatISO, parseISO, subDays } from "date-fns";
+import { formatISO, parseISO, startOfDay, subDays } from "date-fns";
 import { IGitHubEvent, ProcessData } from "./types.js";
 import { fetchEvents } from "./fetchEvents.js";
 import { mergedData } from "./saveData.js";
@@ -60,14 +60,16 @@ const main = async () => {
     if (dateArg) {
       date = new Date(dateArg).toISOString();
     } else {
-      date = formatISO(new Date(), { representation: "date" });
+      const dateObj = new Date();
+      dateObj.setHours(23, 59, 59, 0); // Set to 11:59:59 PM
+      date = formatISO(dateObj);
     }
   } catch (error) {
     console.error("Invalid date value:", dateArg);
     process.exit(1);
   }
   const endDate = parseISO(date);
-  const startDate = subDays(endDate, Number(numDays));
+  const startDate = startOfDay(subDays(endDate, Number(numDays)));
 
   await scrapeGitHub(orgName);
   await mergedData(dataDir, processedData);

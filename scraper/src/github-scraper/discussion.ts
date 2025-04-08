@@ -65,17 +65,19 @@ async function fetchGitHubDiscussions(
       }));
 
       // Filter discussions by date range
-      const filteredDiscussions = discussions.filter((d) => {
-        const createdAt = new Date(d.discussion.createdAt);
-        const updatedAt = new Date(d.discussion.updatedAt);
+      // const filteredDiscussions = discussions.filter((d) => {
+      //   const createdAt = new Date(d.discussion.createdAt);
+      //   const updatedAt = new Date(d.discussion.updatedAt);
 
-        return (
-          (createdAt >= new Date(startDate) && createdAt <= new Date(endDate)) ||
-          (updatedAt >= new Date(startDate) && updatedAt <= new Date(endDate))
-        );
-      });
-
-      discussionsList = discussionsList.concat(filteredDiscussions);
+      //   return (
+      //     (createdAt >= new Date(startDate) && createdAt <= new Date(endDate)) ||
+      //     (updatedAt >= new Date(startDate) && updatedAt <= new Date(endDate))
+      //   );
+      // });
+      if(repo.node.name === "beckn-onix") {
+        console.log(`Discussions for beckn-onix: ${JSON.stringify(discussions, null, 2)}`);
+      }
+      discussionsList = discussionsList.concat(discussions);
     }
   }
 
@@ -87,6 +89,8 @@ async function parseDiscussionData(
   endDate: Date,
   startDate: Date,
 ) {
+  console.log(`endDate: ${endDate}`);
+  console.log(`startDate: ${startDate}`);
   const discussionsWithinDateRange = allDiscussions.filter((d) => {
     const createdAt = new Date(d.discussion.createdAt);
     const updatedAt = new Date(d.discussion.updatedAt);
@@ -96,6 +100,8 @@ async function parseDiscussionData(
       (updatedAt >= new Date(startDate) && updatedAt <= new Date(endDate))
     );
   });
+  //console discussionsWithinDateRange length
+  console.log(`Discussions within date range length: ${discussionsWithinDateRange.length}`);
   const parsedDiscussions: ParsedDiscussion[] = discussionsWithinDateRange.map(
     (d) => {
       const participants = d.discussion.comments.edges.map(
@@ -134,11 +140,19 @@ export async function scrapeDiscussions(
       endDate,
       startDate,
     );
+    //console all discussions
+    //console.log(`All discussions before parsing: ${JSON.stringify(allDiscussions, null, 2)}`);
+    //console all discussions length
+    console.log(`All discussions before parsing length: ${allDiscussions.length}`);
     const parsedDiscussions = await parseDiscussionData(
       allDiscussions,
       endDate,
       startDate,
     );
+    //console all discussions after parsing length
+    console.log(`All discussions after parsing length: ${parsedDiscussions.length}`);
+    //console all discussions after parsing
+    console.log(`All discussions after parsing: ${JSON.stringify(parsedDiscussions, null, 2)}`);
     await saveDiscussionData(parsedDiscussions, dataDir);
   } catch (error: any) {
     throw new Error(`Error fetching discussions: ${error.message}`);

@@ -222,7 +222,9 @@ export async function saveDiscussionData(
     // Try reading the file
     const response = await readFile(file);
     const oldData = JSON.parse(response.toString());
+    console.log(`Old discussions: ${JSON.stringify(discussions, null, 2)}`);
     const mergedData = await mergeDiscussions(oldData, discussions);
+    console.log(`New discussions after merge: ${JSON.stringify(mergedData, null, 2)}`);
     const jsonData = JSON.stringify(mergedData, null, 2);
     await writeFile(file, jsonData);
   } catch (err) {

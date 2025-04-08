@@ -64,21 +64,18 @@ async function fetchGitHubDiscussions(
         discussion: discussion.node,
       }));
 
-      const isDiscussionOutOfDateRange = discussions.find((d) => {
+      // Filter discussions by date range
+      const filteredDiscussions = discussions.filter((d) => {
         const createdAt = new Date(d.discussion.createdAt);
         const updatedAt = new Date(d.discussion.updatedAt);
 
         return (
-          // When created or updated date will be lower than the start date and greater than end date then return true
-          (createdAt <= new Date(startDate) &&
-            createdAt >= new Date(endDate)) ||
-          (updatedAt <= new Date(startDate) && updatedAt >= new Date(endDate))
+          (createdAt >= new Date(startDate) && createdAt <= new Date(endDate)) ||
+          (updatedAt >= new Date(startDate) && updatedAt <= new Date(endDate))
         );
       });
-      if (isDiscussionOutOfDateRange) {
-        return discussionsList;
-      }
-      discussionsList = discussionsList.concat(discussions);
+
+      discussionsList = discussionsList.concat(filteredDiscussions);
     }
   }
 

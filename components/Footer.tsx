@@ -91,6 +91,9 @@ export default function Footer() {
                 <FooterLink href={env.NEXT_PUBLIC_DATA_SOURCE}>
                   Data Repository
                 </FooterLink>
+                <FooterLink href={env.NEXT_PUBLIC_FLAT_REPO_EXPLORER_URL}>
+                   Flat Repository Explorer
+                </FooterLink>
               </FooterSection>
 
               <FooterSection title="Connect">

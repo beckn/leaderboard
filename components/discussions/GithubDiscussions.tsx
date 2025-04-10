@@ -1,15 +1,18 @@
+'use client'
 import GithubDiscussion from "@/components/discussions/GithubDiscussion";
 import { parseDateRangeSearchParam } from "@/lib/utils";
 import { ParsedDiscussion } from "@/scraper/src/github-scraper/types";
+import { useSearchParams } from "next/navigation";
 
 interface Props {
   discussions: ParsedDiscussion[];
   searchParams?: { [key: string]: string };
 }
 
-const GithubDiscussions = ({ discussions, searchParams }: Props) => {
-  const category = searchParams?.category;
-  const [start, end] = parseDateRangeSearchParam(searchParams?.between, 30);
+const GithubDiscussions = ({ discussions }: Props) => {
+  const searchParams = useSearchParams();
+  const category = searchParams.get('category');
+  const [start, end] = parseDateRangeSearchParam(searchParams.get('between'), 30);
 
   discussions = discussions.filter(
     (discussion) =>

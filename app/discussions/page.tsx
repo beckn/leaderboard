@@ -3,6 +3,8 @@ import Link from "next/link";
 import GithubDiscussions from "@/components/discussions/GithubDiscussions";
 import { fetchGithubDiscussion } from "@/lib/discussion";
 
+export const dynamic = "force-static";
+
 export default async function Page() {
   const discussions = await fetchGithubDiscussion();
 
@@ -14,7 +16,7 @@ export default async function Page() {
 
   return (
     <>
-      <GithubDiscussions discussions={discussions} searchParams={{}} />
+      <GithubDiscussions discussions={discussions} />
       <div className="mb-4 h-fit w-full rounded-lg pt-7 lg:fixed lg:right-28 lg:top-20 lg:w-[23%]">
         <div className="bg-secondary-100/50 dark:bg-secondary-800/50 w-full border border-secondary-100  shadow-lg dark:border-secondary-800">
           <div className="flex flex-col justify-between rounded-t-lg border-b border-secondary-300 bg-secondary-100 px-6 py-4 dark:border-secondary-700 dark:bg-secondary-800 md:flex-row md:items-center">
@@ -64,14 +66,12 @@ interface Contributor {
 async function calculateContributor() {
   const contributors = await getContributors();
 
-  // If we have contributors then we will calculate the top contributors and save it in an array of objects {name, points, githubHandle}
-  // points = 1 for each comment + 2 for creating a discussion + 5 discussion marked as helpful
   if (contributors) {
     const uniqueContributors: Contributor[] = [];
 
     contributors.forEach((contributor) => {
       const existingContributor = uniqueContributors.find(
-        (c) => c.name === contributor.name,
+        (c) => c.name === contributor.name
       );
 
       const points =

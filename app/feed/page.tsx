@@ -3,7 +3,7 @@ import { IGitHubEvent } from "@/lib/gh_events";
 import GitHubEvent from "@/components/gh_events/GitHubEvent";
 import { env } from "@/env.mjs";
 import octokit from "@/lib/octokit";
-export const fetchCache = 'force-no-store';
+//export const fetchCache = 'force-no-store';
 
 const GITHUB_ORG: string = env.NEXT_PUBLIC_GITHUB_ORG;
 

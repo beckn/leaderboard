@@ -75,10 +75,10 @@ const main = async () => {
   await mergedData(dataDir, processedData);
   await scrapeDiscussions(orgName, dataDir, endDate, startDate);
   console.log('Project board id: ', process.env.PROJECTS_BOARD_ID)
-  await scrapeProjectBoardItems(process.env.PROJECTS_BOARD_ID || 'PVT_kwDOA3tJis4AdNYF', dataDir);
-  // if (process.env.PROJECTS_BOARD_ID) {
-  //   await scrapeProjectBoardItems(process.env.PROJECTS_BOARD_ID || 'PVT_kwDOA3tJis4AdNYF', dataDir);
-  // }
+  //await scrapeProjectBoardItems(process.env.PROJECTS_BOARD_ID || 'PVT_kwDOA3tJis4AdNYF', dataDir);
+  if (process.env.PROJECTS_BOARD_ID) {
+    await scrapeProjectBoardItems(process.env.PROJECTS_BOARD_ID, dataDir);
+  }
 
   console.log("Done");
 };

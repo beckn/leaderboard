@@ -36,7 +36,8 @@ jobs:
         with:
           repository: beckn/leaderboard
           path: ./leaderboard
-          ref: beckn-leaderboard
+          ref: main
+          # ref: beckn-leaderboard
           sparse-checkout: |
             scraper
             scripts

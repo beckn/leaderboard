@@ -129,6 +129,7 @@ async function getProjectBoardItems(projectId: string) {
     }`,
     { projectId },
   );
+  console.log('Fetched  project items: ', JSON.stringify(iterator));
 
   let items: [string, ProjectBoardItem][] = [];
 
@@ -217,6 +218,8 @@ export default async function scrapeProjectBoardItems(
   projectId: string,
   rootDir: string,
 ) {
+  console.log('Project id: ', projectId);
+  console.log('root dir: ', rootDir);
   await mkdir(path.join(rootDir, "project-boards"), { recursive: true });
   const file = path.join(rootDir, "project-boards", `${projectId}.json`);
   await upsertItems(await getProjectBoardItems(projectId), file);

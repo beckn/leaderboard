@@ -74,10 +74,11 @@ const main = async () => {
   await scrapeGitHub(orgName);
   await mergedData(dataDir, processedData);
   await scrapeDiscussions(orgName, dataDir, endDate, startDate);
-
-  if (process.env.PROJECTS_BOARD_ID) {
-    await scrapeProjectBoardItems(process.env.PROJECTS_BOARD_ID, dataDir);
-  }
+  console.log('Project board id: ', process.env.PROJECTS_BOARD_ID)
+  await scrapeProjectBoardItems(process.env.PROJECTS_BOARD_ID || 'PVT_kwDOA3tJis4AdNYF', dataDir);
+  // if (process.env.PROJECTS_BOARD_ID) {
+  //   await scrapeProjectBoardItems(process.env.PROJECTS_BOARD_ID || 'PVT_kwDOA3tJis4AdNYF', dataDir);
+  // }
 
   console.log("Done");
 };

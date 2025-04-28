@@ -3,25 +3,32 @@ import { IGitHubEvent } from "@/lib/gh_events";
 import GitHubEvent from "@/components/gh_events/GitHubEvent";
 import { env } from "@/env.mjs";
 import octokit from "@/lib/octokit";
-//export const fetchCache = 'force-no-store';
 
 const GITHUB_ORG: string = env.NEXT_PUBLIC_GITHUB_ORG;
 
 export default async function FeedPage() {
-  const events = await octokit.paginate(
-    "GET /orgs/{org}/events",
-    {
-      org: GITHUB_ORG,
-      per_page: 1000,
-    },
-    (response) => {
-      const data = response.data as IGitHubEvent[];
-      return data.filter(exludeBotEvents).filter(excludeBlacklistedEvents);
-    },
-  );
-  if (!Object.entries(events).length) {
+  let events: IGitHubEvent[] = [];
+
+  try {
+    events = await octokit.paginate(
+      "GET /orgs/{org}/events",
+      {
+        org: GITHUB_ORG,
+        per_page: 1000,
+      },
+      (response) => {
+        const data = response.data as IGitHubEvent[];
+        return data.filter(exludeBotEvents).filter(excludeBlacklistedEvents);
+      },
+    );
+  } catch (error) {
+    console.error("Failed to fetch GitHub events:", error);
+  }
+
+  if (!events || !events.length) {
     return <LoadingText text="Fetching latest events" />;
   }
+
   return (
     <div className="relative mx-auto my-8 flow-root max-w-4xl p-4">
       <h1 className="text-4xl text-primary-500 dark:text-white">Feed</h1>
@@ -42,7 +49,6 @@ const excludeBlacklistedEvents = (event: IGitHubEvent) => {
   const blacklist = [
     "CreateEvent",
     "WatchEvent",
-    // "PullRequestReviewEvent",
     "PullRequestReviewCommentEvent",
     "DeleteEvent",
     "IssueCommentEvent",

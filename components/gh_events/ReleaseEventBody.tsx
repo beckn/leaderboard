@@ -17,7 +17,7 @@ export default function GitHubReleaseEventBody({
       </Link>
       <span className="font-medium text-white">Contributors</span>
       <ul className="flex flex-wrap gap-2">
-        {event.payload.release.mentions.map((contributor) => (
+        {event?.payload?.release?.mentions?.map((contributor) => (
           <li key={contributor.login}>
             <Image
               src={contributor.avatar_url + "&s=64"}
